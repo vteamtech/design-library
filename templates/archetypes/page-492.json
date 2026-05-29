@@ -1,0 +1,146 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 492,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:41Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "ead8d7e",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "4218e0c",
+            "elType": "widget",
+            "settings": {
+              "title": "Leadership",
+              "size": "36",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "814115a",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "40",
+              "padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "4d4602c",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "40"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "408dfe2",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/400x400/1a1a2e/ffffff?text=JD"
+                      },
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "12",
+                        "right": "12",
+                        "bottom": "12",
+                        "left": "12"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "f3954da",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "60"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "efb9dbb",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Jane Doe",
+                      "size": "28",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "9781268",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#c8a951;font-size:16px'>Managing Director & Founder</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "154f352",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666;line-height:1.7'>With over 15 years of experience in the industry, Jane founded the company with a mission to provide accessible, expert guidance to individuals and families. Her approachable style and deep expertise have made her one of the most trusted professionals in the field.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

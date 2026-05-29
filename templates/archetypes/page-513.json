@@ -1,0 +1,129 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 513,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:57Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "1a949a8",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "48",
+            "right": "24",
+            "bottom": "48",
+            "left": "24"
+          },
+          "background_color": "#1a1a2e",
+          "boxed_width": "800",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "192d2f8",
+            "elType": "widget",
+            "settings": {
+              "title": "Stay Updated",
+              "size": "28",
+              "align": "center",
+              "title_color": "#ffffff",
+              "typography_font_weight": "600"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "6059843",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#cccccc'>Get the latest news and updates delivered to your inbox</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "9cf4b1d",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "8",
+              "flex_justify_content": "center"
+            },
+            "elements": [
+              {
+                "id": "7c42459",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "0605faa",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<div style='background:#ffffff;border-radius:4px;padding:12px 16px;color:#999;min-width:300px'>Enter your email address</div>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "0fc5218",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "12a8250",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Subscribe",
+                      "button_text_color": "#1a1a2e",
+                      "background_color": "#c8a951",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "4",
+                        "right": "4",
+                        "bottom": "4",
+                        "left": "4"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

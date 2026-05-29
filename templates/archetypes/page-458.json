@@ -1,0 +1,185 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 458,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:14Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "29a1256",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "gap": "48",
+          "padding": {
+            "unit": "px",
+            "top": "40",
+            "right": "24",
+            "bottom": "40",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "1140",
+          "flex_justify_content": "center"
+        },
+        "elements": [
+          {
+            "id": "df8f9ff",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "column",
+              "width": {
+                "size": 25,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "941fa82",
+                "elType": "widget",
+                "settings": {
+                  "title": "500+",
+                  "size": "36",
+                  "title_color": "#c8a951",
+                  "typography_font_weight": "700"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "e85c5f0",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p style='text-align:center;color:#666'>Happy Clients</p>"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "6beb2e1",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "column",
+              "width": {
+                "size": 25,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "27169e5",
+                "elType": "widget",
+                "settings": {
+                  "title": "15+",
+                  "size": "36",
+                  "title_color": "#c8a951",
+                  "typography_font_weight": "700"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "63e0ed4",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p style='text-align:center;color:#666'>Years Experience</p>"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "884f1a3",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "column",
+              "width": {
+                "size": 25,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "efe0b9e",
+                "elType": "widget",
+                "settings": {
+                  "title": "99%",
+                  "size": "36",
+                  "title_color": "#c8a951",
+                  "typography_font_weight": "700"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "452a9d2",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p style='text-align:center;color:#666'>Satisfaction Rate</p>"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "6217dbf",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "column",
+              "width": {
+                "size": 25,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "5437bfc",
+                "elType": "widget",
+                "settings": {
+                  "title": "24/7",
+                  "size": "36",
+                  "title_color": "#c8a951",
+                  "typography_font_weight": "700"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "844d9c5",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p style='text-align:center;color:#666'>Support Available</p>"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

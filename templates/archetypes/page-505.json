@@ -1,0 +1,269 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 505,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:51Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "fefc5c7",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#1a1a2e",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "6ae23a6",
+            "elType": "widget",
+            "settings": {
+              "title": "How It Works",
+              "size": "36",
+              "align": "center",
+              "title_color": "#ffffff",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "32f146d",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "24",
+              "padding": {
+                "unit": "px",
+                "top": "32",
+                "right": "0",
+                "bottom": "0",
+                "left": "0"
+              }
+            },
+            "elements": [
+              {
+                "id": "154b340",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "25"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "41dceaa",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "01",
+                      "size": "48",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "80973c7",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Book",
+                      "size": "18",
+                      "align": "center",
+                      "title_color": "#ffffff",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "705f578",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#cccccc;font-size:14px'>Schedule your free consultation</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "df3c566",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "25"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "1fb77e0",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "02",
+                      "size": "48",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "ccbca99",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Plan",
+                      "size": "18",
+                      "align": "center",
+                      "title_color": "#ffffff",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "ac135a2",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#cccccc;font-size:14px'>We create your personalized plan</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "e51dc76",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "25"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "b895832",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "03",
+                      "size": "48",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "e13a400",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Execute",
+                      "size": "18",
+                      "align": "center",
+                      "title_color": "#ffffff",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "eeefe98",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#cccccc;font-size:14px'>We handle everything for you</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "fd14d60",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "25"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "cc6b26f",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "04",
+                      "size": "48",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "557433c",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Support",
+                      "size": "18",
+                      "align": "center",
+                      "title_color": "#ffffff",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "bbc83d5",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#cccccc;font-size:14px'>Ongoing care and assistance</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

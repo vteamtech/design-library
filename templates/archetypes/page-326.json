@@ -1,0 +1,286 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 326,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:26Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "3630400",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "top": 120,
+            "bottom": 120,
+            "left": 40,
+            "right": 40,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "top": 70,
+            "bottom": 70,
+            "left": 20,
+            "right": 20,
+            "unit": "px",
+            "isLinked": false
+          },
+          "min_height": {
+            "size": 550,
+            "unit": "px"
+          },
+          "min_height_mobile": {
+            "size": 400,
+            "unit": "px"
+          },
+          "background_background": "classic",
+          "background_color": "#1a1a2e",
+          "background_gradient_color": "#16213e",
+          "background_gradient_type": "linear",
+          "background_gradient_angle": {
+            "size": 135,
+            "unit": "deg"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "d9925c0",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "column",
+              "max_width": {
+                "size": 800,
+                "unit": "px"
+              },
+              "width": {
+                "size": 100,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "325a8b8",
+                "elType": "widget",
+                "settings": {
+                  "title": "Protect Your Family's Future",
+                  "header_size": "h1",
+                  "title_color": "#ffffff",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "size": 54,
+                    "unit": "px"
+                  },
+                  "typography_font_size_mobile": {
+                    "size": 34,
+                    "unit": "px"
+                  },
+                  "typography_font_weight": "700",
+                  "align": "center",
+                  "align_mobile": "center"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "c9033a5",
+                "elType": "widget",
+                "settings": {
+                  "style": "solid",
+                  "weight": {
+                    "size": 3,
+                    "unit": "px"
+                  },
+                  "width": {
+                    "size": 60,
+                    "unit": "px"
+                  },
+                  "color": "#c8a951",
+                  "align": "center",
+                  "align_mobile": "center"
+                },
+                "elements": [],
+                "widgetType": "divider"
+              },
+              {
+                "id": "016aba8",
+                "elType": "widget",
+                "settings": {
+                  "space": {
+                    "size": 24,
+                    "unit": "px"
+                  }
+                },
+                "elements": [],
+                "widgetType": "spacer"
+              },
+              {
+                "id": "2d8bdf5",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p style='color:#cccccc'>Expert will writing, lasting powers of attorney, and probate services. Trusted by families across the UK for over two decades.</p>",
+                  "text_color": "#cccccc",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "size": 20,
+                    "unit": "px"
+                  },
+                  "typography_font_size_mobile": {
+                    "size": 17,
+                    "unit": "px"
+                  },
+                  "align": "center",
+                  "align_mobile": "center"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              },
+              {
+                "id": "21f6c4c",
+                "elType": "widget",
+                "settings": {
+                  "space": {
+                    "size": 32,
+                    "unit": "px"
+                  }
+                },
+                "elements": [],
+                "widgetType": "spacer"
+              },
+              {
+                "id": "0f6128e",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "row",
+                  "gap": {
+                    "size": 16,
+                    "unit": "px"
+                  },
+                  "flex_direction_mobile": "column",
+                  "gap_mobile": {
+                    "size": 12,
+                    "unit": "px"
+                  },
+                  "flex_align_items_mobile": "center",
+                  "width": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "flex_justify_content": "center",
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "c344fc2",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "9b91c3a",
+                        "elType": "widget",
+                        "settings": {
+                          "text": "Write Your Will",
+                          "link": {
+                            "url": "/contact-us"
+                          },
+                          "size": "lg",
+                          "background_color": "#c8a951",
+                          "button_text_color": "#1a1a2e",
+                          "typography_typography": "custom",
+                          "typography_font_weight": "700",
+                          "border_radius": {
+                            "top": 8,
+                            "right": 8,
+                            "bottom": 8,
+                            "left": 8,
+                            "unit": "px",
+                            "isLinked": true
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "button"
+                      }
+                    ],
+                    "isInner": true
+                  },
+                  {
+                    "id": "d17ca9f",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "1926655",
+                        "elType": "widget",
+                        "settings": {
+                          "text": "Call Us Today",
+                          "link": {
+                            "url": "tel:+441234567890"
+                          },
+                          "size": "lg",
+                          "background_color": "transparent",
+                          "button_text_color": "#ffffff",
+                          "border_border": "solid",
+                          "border_width": {
+                            "top": 2,
+                            "right": 2,
+                            "bottom": 2,
+                            "left": 2,
+                            "unit": "px",
+                            "isLinked": true
+                          },
+                          "border_color": "#ffffff",
+                          "typography_typography": "custom",
+                          "typography_font_weight": "600",
+                          "border_radius": {
+                            "top": 8,
+                            "right": 8,
+                            "bottom": 8,
+                            "left": 8,
+                            "unit": "px",
+                            "isLinked": true
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "button"
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

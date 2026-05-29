@@ -1,0 +1,354 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 1777,
+  "category": "brands-batch1",
+  "exported_at": "2026-05-28T23:55:17Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "96d4f88",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "full",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "40",
+            "bottom": "60",
+            "left": "40"
+          },
+          "background_background": "classic",
+          "background_color": "#111113",
+          "gap": {
+            "unit": "px",
+            "size": "40"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "e8df8e9",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#E8E8ED;font-size:36px;font-weight:510;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:-2px;text-align:center;line-height:1.6;'>WHAT WE DO</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "e567063",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "row",
+              "gap": {
+                "unit": "px",
+                "size": "16"
+              },
+              "flex_wrap": "wrap"
+            },
+            "elements": [
+              {
+                "id": "1965d59",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": 25
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "24",
+                    "right": "20",
+                    "bottom": "24",
+                    "left": "20"
+                  },
+                  "background_background": "classic",
+                  "background_color": "#0A0A0B",
+                  "gap": {
+                    "unit": "px",
+                    "size": "12"
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1"
+                  },
+                  "border_color": "#222228",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "8",
+                    "right": "8",
+                    "bottom": "8",
+                    "left": "8"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "733e4fd",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#8B5CF6;font-size:32px;font-weight:510;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>01</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "eb47dae",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#E8E8ED;font-size:16px;font-weight:700;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Strategy</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "3d46273",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#8B8B96;font-size:14px;font-weight:400;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Research-driven insights that guide every decision.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "dc14100",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": 25
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "24",
+                    "right": "20",
+                    "bottom": "24",
+                    "left": "20"
+                  },
+                  "background_background": "classic",
+                  "background_color": "#0A0A0B",
+                  "gap": {
+                    "unit": "px",
+                    "size": "12"
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1"
+                  },
+                  "border_color": "#222228",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "8",
+                    "right": "8",
+                    "bottom": "8",
+                    "left": "8"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "3c0f5ec",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#8B5CF6;font-size:32px;font-weight:510;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>02</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "0a037b9",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#E8E8ED;font-size:16px;font-weight:700;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Design</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "c55c4bb",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#8B8B96;font-size:14px;font-weight:400;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Beautiful interfaces crafted with attention to detail.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "d55f8fa",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": 25
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "24",
+                    "right": "20",
+                    "bottom": "24",
+                    "left": "20"
+                  },
+                  "background_background": "classic",
+                  "background_color": "#0A0A0B",
+                  "gap": {
+                    "unit": "px",
+                    "size": "12"
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1"
+                  },
+                  "border_color": "#222228",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "8",
+                    "right": "8",
+                    "bottom": "8",
+                    "left": "8"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "99c9fdf",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#8B5CF6;font-size:32px;font-weight:510;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>03</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "ead61f5",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#E8E8ED;font-size:16px;font-weight:700;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Build</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "fa2a2b9",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#8B8B96;font-size:14px;font-weight:400;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Robust solutions built on proven technology.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "8e3a576",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": 25
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "24",
+                    "right": "20",
+                    "bottom": "24",
+                    "left": "20"
+                  },
+                  "background_background": "classic",
+                  "background_color": "#0A0A0B",
+                  "gap": {
+                    "unit": "px",
+                    "size": "12"
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1"
+                  },
+                  "border_color": "#222228",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "8",
+                    "right": "8",
+                    "bottom": "8",
+                    "left": "8"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "9663b25",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#8B5CF6;font-size:32px;font-weight:510;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>04</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "ac0bc64",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#E8E8ED;font-size:16px;font-weight:700;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Support</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "911d40e",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#8B8B96;font-size:14px;font-weight:400;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Ongoing partnership for lasting success.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 334,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:32Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "ae093ef",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "text_align": "center",
+          "padding": {
+            "top": 80,
+            "bottom": 80,
+            "left": 40,
+            "right": 40,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "top": 50,
+            "bottom": 50,
+            "left": 20,
+            "right": 20,
+            "unit": "px",
+            "isLinked": false
+          },
+          "background_background": "classic",
+          "background_color": "#1a1a2e",
+          "background_gradient_color": "#16213e",
+          "background_gradient_type": "linear",
+          "background_gradient_angle": {
+            "size": 135,
+            "unit": "deg"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "8acb34c",
+            "elType": "widget",
+            "settings": {
+              "title": "Your Peace of Mind Starts Here",
+              "header_size": "h2",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "size": 40,
+                "unit": "px"
+              },
+              "typography_font_size_mobile": {
+                "size": 28,
+                "unit": "px"
+              },
+              "typography_font_weight": "700",
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "70f3bd2",
+            "elType": "widget",
+            "settings": {
+              "style": "solid",
+              "weight": {
+                "size": 3,
+                "unit": "px"
+              },
+              "width": {
+                "size": 60,
+                "unit": "px"
+              },
+              "color": "#c8a951",
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "a55864b",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "size": 20,
+                "unit": "px"
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "0990bdf",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='color:#cccccc'>Expert guidance through every step of will writing and estate planning. No jargon, no pressure \u2014 just clear, professional advice.</p>",
+              "text_color": "#cccccc",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "size": 18,
+                "unit": "px"
+              },
+              "typography_font_size_mobile": {
+                "size": 16,
+                "unit": "px"
+              },
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "09c9e41",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "size": 32,
+                "unit": "px"
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "52b7b2e",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": {
+                "size": 16,
+                "unit": "px"
+              },
+              "flex_direction_mobile": "column",
+              "gap_mobile": {
+                "size": 12,
+                "unit": "px"
+              },
+              "flex_align_items_mobile": "center",
+              "width": {
+                "size": 100,
+                "unit": "%"
+              },
+              "flex_justify_content": "center",
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "671af70",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "876fc14",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Get Started Today",
+                      "link": {
+                        "url": "/contact-us"
+                      },
+                      "size": "lg",
+                      "background_color": "#c8a951",
+                      "button_text_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_weight": "700",
+                      "border_radius": {
+                        "top": 8,
+                        "right": 8,
+                        "bottom": 8,
+                        "left": 8,
+                        "unit": "px",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "f6419ea",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "359aa58",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "View Services",
+                      "link": {
+                        "url": "/our-services"
+                      },
+                      "size": "lg",
+                      "background_color": "transparent",
+                      "button_text_color": "#ffffff",
+                      "border_border": "solid",
+                      "border_width": {
+                        "top": 2,
+                        "right": 2,
+                        "bottom": 2,
+                        "left": 2,
+                        "unit": "px",
+                        "isLinked": true
+                      },
+                      "border_color": "#c8a951",
+                      "typography_typography": "custom",
+                      "typography_font_weight": "600",
+                      "border_radius": {
+                        "top": 8,
+                        "right": 8,
+                        "bottom": 8,
+                        "left": 8,
+                        "unit": "px",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

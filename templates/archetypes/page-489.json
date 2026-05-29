@@ -1,0 +1,445 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 489,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:38Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "e27ca4a",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#f8f6f0",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "1c1529e",
+            "elType": "widget",
+            "settings": {
+              "title": "Meet Our Team",
+              "size": "36",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "3fd27d9",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#666'>Dedicated professionals committed to your success</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "ae69728",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "24",
+              "padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0"
+              }
+            },
+            "elements": [
+              {
+                "id": "a5bc235",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "padding": {
+                    "unit": "px",
+                    "top": "28",
+                    "right": "20",
+                    "bottom": "28",
+                    "left": "20"
+                  },
+                  "background_color": "#ffffff",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "12",
+                    "right": "12",
+                    "bottom": "12",
+                    "left": "12"
+                  },
+                  "box_shadow_box_shadow": {
+                    "horizontal": 0,
+                    "vertical": 2,
+                    "blur": 10,
+                    "spread": 0,
+                    "color": "rgba(0,0,0,0.06)",
+                    "position": "outset"
+                  },
+                  "width": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "6bc3fa4",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/200x200/1a1a2e/ffffff?text=JD"
+                      },
+                      "border_radius": {
+                        "unit": "%",
+                        "top": "50",
+                        "right": "50",
+                        "bottom": "50",
+                        "left": "50"
+                      },
+                      "width": {
+                        "unit": "px",
+                        "size": "96"
+                      },
+                      "align": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "fdec1eb",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Jane Doe",
+                      "size": "18",
+                      "align": "center",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "9000073",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#c8a951;font-size:14px'>Managing Director</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "321fea0",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#666;font-size:13px'>15+ years of experience</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "00bd90d",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "padding": {
+                    "unit": "px",
+                    "top": "28",
+                    "right": "20",
+                    "bottom": "28",
+                    "left": "20"
+                  },
+                  "background_color": "#ffffff",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "12",
+                    "right": "12",
+                    "bottom": "12",
+                    "left": "12"
+                  },
+                  "box_shadow_box_shadow": {
+                    "horizontal": 0,
+                    "vertical": 2,
+                    "blur": 10,
+                    "spread": 0,
+                    "color": "rgba(0,0,0,0.06)",
+                    "position": "outset"
+                  },
+                  "width": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "4a5e83d",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/200x200/1a1a2e/ffffff?text=RS"
+                      },
+                      "border_radius": {
+                        "unit": "%",
+                        "top": "50",
+                        "right": "50",
+                        "bottom": "50",
+                        "left": "50"
+                      },
+                      "width": {
+                        "unit": "px",
+                        "size": "96"
+                      },
+                      "align": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "0848e16",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Robert Smith",
+                      "size": "18",
+                      "align": "center",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "447e50b",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#c8a951;font-size:14px'>Senior Consultant</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "15b1155",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#666;font-size:13px'>Expert in estate planning</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "02ecba4",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "padding": {
+                    "unit": "px",
+                    "top": "28",
+                    "right": "20",
+                    "bottom": "28",
+                    "left": "20"
+                  },
+                  "background_color": "#ffffff",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "12",
+                    "right": "12",
+                    "bottom": "12",
+                    "left": "12"
+                  },
+                  "box_shadow_box_shadow": {
+                    "horizontal": 0,
+                    "vertical": 2,
+                    "blur": 10,
+                    "spread": 0,
+                    "color": "rgba(0,0,0,0.06)",
+                    "position": "outset"
+                  },
+                  "width": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "2225f4c",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/200x200/1a1a2e/ffffff?text=AM"
+                      },
+                      "border_radius": {
+                        "unit": "%",
+                        "top": "50",
+                        "right": "50",
+                        "bottom": "50",
+                        "left": "50"
+                      },
+                      "width": {
+                        "unit": "px",
+                        "size": "96"
+                      },
+                      "align": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "73e233d",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Alice Martin",
+                      "size": "18",
+                      "align": "center",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "3a724a0",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#c8a951;font-size:14px'>Client Relations</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "1b0b4d7",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#666;font-size:13px'>Dedicated support specialist</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "b503b25",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "padding": {
+                    "unit": "px",
+                    "top": "28",
+                    "right": "20",
+                    "bottom": "28",
+                    "left": "20"
+                  },
+                  "background_color": "#ffffff",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "12",
+                    "right": "12",
+                    "bottom": "12",
+                    "left": "12"
+                  },
+                  "box_shadow_box_shadow": {
+                    "horizontal": 0,
+                    "vertical": 2,
+                    "blur": 10,
+                    "spread": 0,
+                    "color": "rgba(0,0,0,0.06)",
+                    "position": "outset"
+                  },
+                  "width": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "faa75b1",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/200x200/1a1a2e/ffffff?text=TW"
+                      },
+                      "border_radius": {
+                        "unit": "%",
+                        "top": "50",
+                        "right": "50",
+                        "bottom": "50",
+                        "left": "50"
+                      },
+                      "width": {
+                        "unit": "px",
+                        "size": "96"
+                      },
+                      "align": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "4518e14",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Tom Wilson",
+                      "size": "18",
+                      "align": "center",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "9aa4c0d",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#c8a951;font-size:14px'>Legal Advisor</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "ea14181",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#666;font-size:13px'>Specialist in probate law</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

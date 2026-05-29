@@ -1,0 +1,5932 @@
+{
+  "version": "1.0",
+  "library_name": "Elementor Design Library",
+  "total_exported": 1179,
+  "total_failed": 0,
+  "exported_at": "2026-05-29T00:05:23Z",
+  "source_site": "https://willinstructions-new.affinitydns.uk",
+  "categories": {
+    "archetypes": {
+      "count": 170,
+      "range": "314-554"
+    },
+    "philosophy": {
+      "count": 202,
+      "range": "1253-1695"
+    },
+    "brands-batch1": {
+      "count": 238,
+      "range": "1741-2215"
+    },
+    "brands-batch2": {
+      "count": 238,
+      "range": "2225-2699"
+    },
+    "brands-batch3": {
+      "count": 328,
+      "range": "2705-3359"
+    },
+    "index-pages": {
+      "count": 3,
+      "range": "737-2221"
+    }
+  },
+  "pages": {
+    "314": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-314.json",
+      "size_bytes": 8592
+    },
+    "315": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-315.json",
+      "size_bytes": 8592
+    },
+    "316": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-316.json",
+      "size_bytes": 9263
+    },
+    "317": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-317.json",
+      "size_bytes": 9263
+    },
+    "318": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-318.json",
+      "size_bytes": 8376
+    },
+    "319": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-319.json",
+      "size_bytes": 8376
+    },
+    "320": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-320.json",
+      "size_bytes": 7574
+    },
+    "321": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-321.json",
+      "size_bytes": 7574
+    },
+    "322": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-322.json",
+      "size_bytes": 11357
+    },
+    "323": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-323.json",
+      "size_bytes": 11357
+    },
+    "324": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-324.json",
+      "size_bytes": 9779
+    },
+    "325": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-325.json",
+      "size_bytes": 9779
+    },
+    "326": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-326.json",
+      "size_bytes": 9515
+    },
+    "327": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-327.json",
+      "size_bytes": 9515
+    },
+    "328": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-328.json",
+      "size_bytes": 12387
+    },
+    "329": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-329.json",
+      "size_bytes": 12387
+    },
+    "330": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-330.json",
+      "size_bytes": 6947
+    },
+    "331": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-331.json",
+      "size_bytes": 6947
+    },
+    "332": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-332.json",
+      "size_bytes": 3534
+    },
+    "333": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-333.json",
+      "size_bytes": 3534
+    },
+    "334": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-334.json",
+      "size_bytes": 7964
+    },
+    "335": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-335.json",
+      "size_bytes": 7964
+    },
+    "336": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-336.json",
+      "size_bytes": 9199
+    },
+    "337": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-337.json",
+      "size_bytes": 9199
+    },
+    "338": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-338.json",
+      "size_bytes": 3748
+    },
+    "339": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-339.json",
+      "size_bytes": 3748
+    },
+    "340": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-340.json",
+      "size_bytes": 16029
+    },
+    "341": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-341.json",
+      "size_bytes": 16029
+    },
+    "342": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-342.json",
+      "size_bytes": 12367
+    },
+    "343": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-343.json",
+      "size_bytes": 12367
+    },
+    "344": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-344.json",
+      "size_bytes": 12801
+    },
+    "345": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-345.json",
+      "size_bytes": 12801
+    },
+    "346": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-346.json",
+      "size_bytes": 16332
+    },
+    "347": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-347.json",
+      "size_bytes": 16332
+    },
+    "348": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-348.json",
+      "size_bytes": 15738
+    },
+    "349": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-349.json",
+      "size_bytes": 15738
+    },
+    "350": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-350.json",
+      "size_bytes": 22760
+    },
+    "351": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-351.json",
+      "size_bytes": 22760
+    },
+    "352": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-352.json",
+      "size_bytes": 3690
+    },
+    "353": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-353.json",
+      "size_bytes": 3690
+    },
+    "354": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-354.json",
+      "size_bytes": 8958
+    },
+    "355": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-355.json",
+      "size_bytes": 8958
+    },
+    "356": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-356.json",
+      "size_bytes": 12609
+    },
+    "357": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-357.json",
+      "size_bytes": 12609
+    },
+    "358": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-358.json",
+      "size_bytes": 9850
+    },
+    "359": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-359.json",
+      "size_bytes": 9850
+    },
+    "360": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-360.json",
+      "size_bytes": 6785
+    },
+    "361": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-361.json",
+      "size_bytes": 6785
+    },
+    "362": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-362.json",
+      "size_bytes": 7285
+    },
+    "363": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-363.json",
+      "size_bytes": 7285
+    },
+    "364": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-364.json",
+      "size_bytes": 9248
+    },
+    "365": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-365.json",
+      "size_bytes": 9248
+    },
+    "366": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-366.json",
+      "size_bytes": 12688
+    },
+    "438": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-438.json",
+      "size_bytes": 12476
+    },
+    "439": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-439.json",
+      "size_bytes": 12476
+    },
+    "440": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-440.json",
+      "size_bytes": 13799
+    },
+    "441": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-441.json",
+      "size_bytes": 13799
+    },
+    "442": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-442.json",
+      "size_bytes": 9915
+    },
+    "443": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-443.json",
+      "size_bytes": 9915
+    },
+    "444": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-444.json",
+      "size_bytes": 9962
+    },
+    "445": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-445.json",
+      "size_bytes": 9962
+    },
+    "446": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-446.json",
+      "size_bytes": 9201
+    },
+    "447": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-447.json",
+      "size_bytes": 9201
+    },
+    "448": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-448.json",
+      "size_bytes": 14030
+    },
+    "449": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-449.json",
+      "size_bytes": 14030
+    },
+    "450": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-450.json",
+      "size_bytes": 4609
+    },
+    "451": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-451.json",
+      "size_bytes": 4609
+    },
+    "452": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-452.json",
+      "size_bytes": 4469
+    },
+    "453": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-453.json",
+      "size_bytes": 4469
+    },
+    "454": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-454.json",
+      "size_bytes": 6601
+    },
+    "455": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-455.json",
+      "size_bytes": 6601
+    },
+    "456": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-456.json",
+      "size_bytes": 7144
+    },
+    "457": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-457.json",
+      "size_bytes": 7144
+    },
+    "458": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-458.json",
+      "size_bytes": 5408
+    },
+    "459": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-459.json",
+      "size_bytes": 5408
+    },
+    "460": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-460.json",
+      "size_bytes": 8786
+    },
+    "461": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-461.json",
+      "size_bytes": 8786
+    },
+    "462": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-462.json",
+      "size_bytes": 4654
+    },
+    "463": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-463.json",
+      "size_bytes": 4654
+    },
+    "464": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-464.json",
+      "size_bytes": 19751
+    },
+    "465": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-465.json",
+      "size_bytes": 19751
+    },
+    "466": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-466.json",
+      "size_bytes": 1849
+    },
+    "467": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-467.json",
+      "size_bytes": 1849
+    },
+    "468": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-468.json",
+      "size_bytes": 8756
+    },
+    "469": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-469.json",
+      "size_bytes": 8756
+    },
+    "470": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-470.json",
+      "size_bytes": 1549
+    },
+    "471": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-471.json",
+      "size_bytes": 1549
+    },
+    "472": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-472.json",
+      "size_bytes": 18697
+    },
+    "473": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-473.json",
+      "size_bytes": 18697
+    },
+    "474": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-474.json",
+      "size_bytes": 12716
+    },
+    "475": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-475.json",
+      "size_bytes": 12716
+    },
+    "476": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-476.json",
+      "size_bytes": 17432
+    },
+    "477": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-477.json",
+      "size_bytes": 17432
+    },
+    "478": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-478.json",
+      "size_bytes": 9646
+    },
+    "479": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-479.json",
+      "size_bytes": 9646
+    },
+    "480": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-480.json",
+      "size_bytes": 12000
+    },
+    "481": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-481.json",
+      "size_bytes": 12000
+    },
+    "482": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-482.json",
+      "size_bytes": 3242
+    },
+    "483": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-483.json",
+      "size_bytes": 3242
+    },
+    "484": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-484.json",
+      "size_bytes": 2303
+    },
+    "485": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-485.json",
+      "size_bytes": 2303
+    },
+    "486": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-486.json",
+      "size_bytes": 3882
+    },
+    "487": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-487.json",
+      "size_bytes": 3882
+    },
+    "488": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-488.json",
+      "size_bytes": 15237
+    },
+    "489": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-489.json",
+      "size_bytes": 15237
+    },
+    "490": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-490.json",
+      "size_bytes": 8036
+    },
+    "491": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-491.json",
+      "size_bytes": 8036
+    },
+    "492": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-492.json",
+      "size_bytes": 4720
+    },
+    "493": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-493.json",
+      "size_bytes": 4720
+    },
+    "494": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-494.json",
+      "size_bytes": 7208
+    },
+    "495": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-495.json",
+      "size_bytes": 7208
+    },
+    "496": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-496.json",
+      "size_bytes": 7549
+    },
+    "497": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-497.json",
+      "size_bytes": 7549
+    },
+    "498": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-498.json",
+      "size_bytes": 8245
+    },
+    "499": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-499.json",
+      "size_bytes": 8245
+    },
+    "500": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-500.json",
+      "size_bytes": 9058
+    },
+    "501": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-501.json",
+      "size_bytes": 9058
+    },
+    "502": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-502.json",
+      "size_bytes": 14058
+    },
+    "503": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-503.json",
+      "size_bytes": 14058
+    },
+    "504": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-504.json",
+      "size_bytes": 8935
+    },
+    "505": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-505.json",
+      "size_bytes": 8935
+    },
+    "506": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-506.json",
+      "size_bytes": 7868
+    },
+    "507": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-507.json",
+      "size_bytes": 7868
+    },
+    "508": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-508.json",
+      "size_bytes": 7189
+    },
+    "509": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-509.json",
+      "size_bytes": 7189
+    },
+    "510": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-510.json",
+      "size_bytes": 6835
+    },
+    "511": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-511.json",
+      "size_bytes": 6835
+    },
+    "512": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-512.json",
+      "size_bytes": 3960
+    },
+    "513": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-513.json",
+      "size_bytes": 3960
+    },
+    "514": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-514.json",
+      "size_bytes": 5372
+    },
+    "515": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-515.json",
+      "size_bytes": 5372
+    },
+    "516": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-516.json",
+      "size_bytes": 5806
+    },
+    "517": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-517.json",
+      "size_bytes": 5806
+    },
+    "518": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-518.json",
+      "size_bytes": 4219
+    },
+    "519": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-519.json",
+      "size_bytes": 4219
+    },
+    "520": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-520.json",
+      "size_bytes": 3250
+    },
+    "521": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-521.json",
+      "size_bytes": 3250
+    },
+    "522": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-522.json",
+      "size_bytes": 9810
+    },
+    "523": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-523.json",
+      "size_bytes": 9810
+    },
+    "524": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-524.json",
+      "size_bytes": 14198
+    },
+    "525": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-525.json",
+      "size_bytes": 14198
+    },
+    "526": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-526.json",
+      "size_bytes": 8310
+    },
+    "527": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-527.json",
+      "size_bytes": 8310
+    },
+    "528": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-528.json",
+      "size_bytes": 1943
+    },
+    "529": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-529.json",
+      "size_bytes": 1943
+    },
+    "530": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-530.json",
+      "size_bytes": 1150
+    },
+    "531": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-531.json",
+      "size_bytes": 1150
+    },
+    "532": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-532.json",
+      "size_bytes": 2663
+    },
+    "533": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-533.json",
+      "size_bytes": 2663
+    },
+    "534": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-534.json",
+      "size_bytes": 1155
+    },
+    "535": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-535.json",
+      "size_bytes": 1155
+    },
+    "536": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-536.json",
+      "size_bytes": 8372
+    },
+    "537": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-537.json",
+      "size_bytes": 8372
+    },
+    "538": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-538.json",
+      "size_bytes": 10223
+    },
+    "539": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-539.json",
+      "size_bytes": 10223
+    },
+    "540": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-540.json",
+      "size_bytes": 8261
+    },
+    "541": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-541.json",
+      "size_bytes": 8261
+    },
+    "542": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-542.json",
+      "size_bytes": 4693
+    },
+    "543": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-543.json",
+      "size_bytes": 4693
+    },
+    "544": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-544.json",
+      "size_bytes": 3472
+    },
+    "545": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-545.json",
+      "size_bytes": 3472
+    },
+    "546": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-546.json",
+      "size_bytes": 1736
+    },
+    "547": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-547.json",
+      "size_bytes": 1736
+    },
+    "548": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-548.json",
+      "size_bytes": 1324
+    },
+    "549": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-549.json",
+      "size_bytes": 1324
+    },
+    "550": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-550.json",
+      "size_bytes": 4805
+    },
+    "551": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-551.json",
+      "size_bytes": 4805
+    },
+    "552": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-552.json",
+      "size_bytes": 19752
+    },
+    "553": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-553.json",
+      "size_bytes": 19752
+    },
+    "554": {
+      "category": "archetypes",
+      "file": "/tmp/design-library-export/archetypes/page-554.json",
+      "size_bytes": 7241
+    },
+    "1253": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1253.json",
+      "size_bytes": 4628
+    },
+    "1255": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1255.json",
+      "size_bytes": 4628
+    },
+    "1257": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1257.json",
+      "size_bytes": 4628
+    },
+    "1259": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1259.json",
+      "size_bytes": 13393
+    },
+    "1261": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1261.json",
+      "size_bytes": 13393
+    },
+    "1263": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1263.json",
+      "size_bytes": 13393
+    },
+    "1265": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1265.json",
+      "size_bytes": 2182
+    },
+    "1267": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1267.json",
+      "size_bytes": 2182
+    },
+    "1269": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1269.json",
+      "size_bytes": 2182
+    },
+    "1271": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1271.json",
+      "size_bytes": 2469
+    },
+    "1273": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1273.json",
+      "size_bytes": 2469
+    },
+    "1275": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1275.json",
+      "size_bytes": 2469
+    },
+    "1277": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1277.json",
+      "size_bytes": 7267
+    },
+    "1279": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1279.json",
+      "size_bytes": 7267
+    },
+    "1281": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1281.json",
+      "size_bytes": 7267
+    },
+    "1283": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1283.json",
+      "size_bytes": 4641
+    },
+    "1285": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1285.json",
+      "size_bytes": 4641
+    },
+    "1287": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1287.json",
+      "size_bytes": 4641
+    },
+    "1289": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1289.json",
+      "size_bytes": 13462
+    },
+    "1291": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1291.json",
+      "size_bytes": 13462
+    },
+    "1293": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1293.json",
+      "size_bytes": 13462
+    },
+    "1295": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1295.json",
+      "size_bytes": 2198
+    },
+    "1297": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1297.json",
+      "size_bytes": 2198
+    },
+    "1299": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1299.json",
+      "size_bytes": 2198
+    },
+    "1301": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1301.json",
+      "size_bytes": 2481
+    },
+    "1303": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1303.json",
+      "size_bytes": 2481
+    },
+    "1305": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1305.json",
+      "size_bytes": 2481
+    },
+    "1307": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1307.json",
+      "size_bytes": 7312
+    },
+    "1309": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1309.json",
+      "size_bytes": 7312
+    },
+    "1311": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1311.json",
+      "size_bytes": 7312
+    },
+    "1313": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1313.json",
+      "size_bytes": 4617
+    },
+    "1315": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1315.json",
+      "size_bytes": 4617
+    },
+    "1317": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1317.json",
+      "size_bytes": 4617
+    },
+    "1319": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1319.json",
+      "size_bytes": 13427
+    },
+    "1321": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1321.json",
+      "size_bytes": 13427
+    },
+    "1323": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1323.json",
+      "size_bytes": 13427
+    },
+    "1325": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1325.json",
+      "size_bytes": 2175
+    },
+    "1327": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1327.json",
+      "size_bytes": 2175
+    },
+    "1329": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1329.json",
+      "size_bytes": 2175
+    },
+    "1331": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1331.json",
+      "size_bytes": 2466
+    },
+    "1333": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1333.json",
+      "size_bytes": 2466
+    },
+    "1335": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1335.json",
+      "size_bytes": 2466
+    },
+    "1337": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1337.json",
+      "size_bytes": 7258
+    },
+    "1339": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1339.json",
+      "size_bytes": 7258
+    },
+    "1341": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1341.json",
+      "size_bytes": 7258
+    },
+    "1343": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1343.json",
+      "size_bytes": 4643
+    },
+    "1345": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1345.json",
+      "size_bytes": 4643
+    },
+    "1347": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1347.json",
+      "size_bytes": 4643
+    },
+    "1349": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1349.json",
+      "size_bytes": 13458
+    },
+    "1351": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1351.json",
+      "size_bytes": 13458
+    },
+    "1353": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1353.json",
+      "size_bytes": 13458
+    },
+    "1355": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1355.json",
+      "size_bytes": 2197
+    },
+    "1357": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1357.json",
+      "size_bytes": 2197
+    },
+    "1359": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1359.json",
+      "size_bytes": 2197
+    },
+    "1361": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1361.json",
+      "size_bytes": 2484
+    },
+    "1363": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1363.json",
+      "size_bytes": 2484
+    },
+    "1365": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1365.json",
+      "size_bytes": 2484
+    },
+    "1367": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1367.json",
+      "size_bytes": 7312
+    },
+    "1369": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1369.json",
+      "size_bytes": 7312
+    },
+    "1371": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1371.json",
+      "size_bytes": 7312
+    },
+    "1373": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1373.json",
+      "size_bytes": 4638
+    },
+    "1375": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1375.json",
+      "size_bytes": 4638
+    },
+    "1377": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1377.json",
+      "size_bytes": 4638
+    },
+    "1379": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1379.json",
+      "size_bytes": 13450
+    },
+    "1381": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1381.json",
+      "size_bytes": 13450
+    },
+    "1383": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1383.json",
+      "size_bytes": 13450
+    },
+    "1385": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1385.json",
+      "size_bytes": 2195
+    },
+    "1387": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1387.json",
+      "size_bytes": 2195
+    },
+    "1389": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1389.json",
+      "size_bytes": 2195
+    },
+    "1391": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1391.json",
+      "size_bytes": 2475
+    },
+    "1393": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1393.json",
+      "size_bytes": 2475
+    },
+    "1395": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1395.json",
+      "size_bytes": 2475
+    },
+    "1397": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1397.json",
+      "size_bytes": 7297
+    },
+    "1399": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1399.json",
+      "size_bytes": 7297
+    },
+    "1401": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1401.json",
+      "size_bytes": 7297
+    },
+    "1403": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1403.json",
+      "size_bytes": 4620
+    },
+    "1405": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1405.json",
+      "size_bytes": 4620
+    },
+    "1407": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1407.json",
+      "size_bytes": 4620
+    },
+    "1409": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1409.json",
+      "size_bytes": 13400
+    },
+    "1411": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1411.json",
+      "size_bytes": 13400
+    },
+    "1413": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1413.json",
+      "size_bytes": 13400
+    },
+    "1415": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1415.json",
+      "size_bytes": 2178
+    },
+    "1417": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1417.json",
+      "size_bytes": 2178
+    },
+    "1419": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1419.json",
+      "size_bytes": 2178
+    },
+    "1421": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1421.json",
+      "size_bytes": 2469
+    },
+    "1423": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1423.json",
+      "size_bytes": 2469
+    },
+    "1425": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1425.json",
+      "size_bytes": 2469
+    },
+    "1427": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1427.json",
+      "size_bytes": 7267
+    },
+    "1429": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1429.json",
+      "size_bytes": 7267
+    },
+    "1431": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1431.json",
+      "size_bytes": 7267
+    },
+    "1433": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1433.json",
+      "size_bytes": 4627
+    },
+    "1435": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1435.json",
+      "size_bytes": 4627
+    },
+    "1437": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1437.json",
+      "size_bytes": 4627
+    },
+    "1439": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1439.json",
+      "size_bytes": 13407
+    },
+    "1441": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1441.json",
+      "size_bytes": 13407
+    },
+    "1443": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1443.json",
+      "size_bytes": 13407
+    },
+    "1445": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1445.json",
+      "size_bytes": 2186
+    },
+    "1447": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1447.json",
+      "size_bytes": 2186
+    },
+    "1449": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1449.json",
+      "size_bytes": 2186
+    },
+    "1451": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1451.json",
+      "size_bytes": 2478
+    },
+    "1453": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1453.json",
+      "size_bytes": 2478
+    },
+    "1495": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1495.json",
+      "size_bytes": 86824
+    },
+    "1497": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1497.json",
+      "size_bytes": 4643
+    },
+    "1499": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1499.json",
+      "size_bytes": 4643
+    },
+    "1501": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1501.json",
+      "size_bytes": 4643
+    },
+    "1503": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1503.json",
+      "size_bytes": 13459
+    },
+    "1505": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1505.json",
+      "size_bytes": 13459
+    },
+    "1507": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1507.json",
+      "size_bytes": 13459
+    },
+    "1509": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1509.json",
+      "size_bytes": 2197
+    },
+    "1511": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1511.json",
+      "size_bytes": 2197
+    },
+    "1513": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1513.json",
+      "size_bytes": 2197
+    },
+    "1515": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1515.json",
+      "size_bytes": 2481
+    },
+    "1517": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1517.json",
+      "size_bytes": 2481
+    },
+    "1519": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1519.json",
+      "size_bytes": 2481
+    },
+    "1521": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1521.json",
+      "size_bytes": 7306
+    },
+    "1523": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1523.json",
+      "size_bytes": 7306
+    },
+    "1525": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1525.json",
+      "size_bytes": 7306
+    },
+    "1527": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1527.json",
+      "size_bytes": 4625
+    },
+    "1529": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1529.json",
+      "size_bytes": 4625
+    },
+    "1531": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1531.json",
+      "size_bytes": 4625
+    },
+    "1533": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1533.json",
+      "size_bytes": 11230
+    },
+    "1535": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1535.json",
+      "size_bytes": 11230
+    },
+    "1537": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1537.json",
+      "size_bytes": 11230
+    },
+    "1539": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1539.json",
+      "size_bytes": 2181
+    },
+    "1541": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1541.json",
+      "size_bytes": 2181
+    },
+    "1543": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1543.json",
+      "size_bytes": 2181
+    },
+    "1545": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1545.json",
+      "size_bytes": 2473
+    },
+    "1547": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1547.json",
+      "size_bytes": 2473
+    },
+    "1549": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1549.json",
+      "size_bytes": 2473
+    },
+    "1551": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1551.json",
+      "size_bytes": 7280
+    },
+    "1553": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1553.json",
+      "size_bytes": 7280
+    },
+    "1555": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1555.json",
+      "size_bytes": 7280
+    },
+    "1557": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1557.json",
+      "size_bytes": 4644
+    },
+    "1559": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1559.json",
+      "size_bytes": 4644
+    },
+    "1561": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1561.json",
+      "size_bytes": 4644
+    },
+    "1563": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1563.json",
+      "size_bytes": 13492
+    },
+    "1565": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1565.json",
+      "size_bytes": 13492
+    },
+    "1567": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1567.json",
+      "size_bytes": 13492
+    },
+    "1569": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1569.json",
+      "size_bytes": 2202
+    },
+    "1571": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1571.json",
+      "size_bytes": 2202
+    },
+    "1573": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1573.json",
+      "size_bytes": 2202
+    },
+    "1575": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1575.json",
+      "size_bytes": 2481
+    },
+    "1577": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1577.json",
+      "size_bytes": 2481
+    },
+    "1579": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1579.json",
+      "size_bytes": 2481
+    },
+    "1581": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1581.json",
+      "size_bytes": 7315
+    },
+    "1583": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1583.json",
+      "size_bytes": 7315
+    },
+    "1585": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1585.json",
+      "size_bytes": 7315
+    },
+    "1587": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1587.json",
+      "size_bytes": 4647
+    },
+    "1589": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1589.json",
+      "size_bytes": 4647
+    },
+    "1591": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1591.json",
+      "size_bytes": 4647
+    },
+    "1593": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1593.json",
+      "size_bytes": 13473
+    },
+    "1595": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1595.json",
+      "size_bytes": 13473
+    },
+    "1597": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1597.json",
+      "size_bytes": 13473
+    },
+    "1599": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1599.json",
+      "size_bytes": 2201
+    },
+    "1601": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1601.json",
+      "size_bytes": 2201
+    },
+    "1603": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1603.json",
+      "size_bytes": 2201
+    },
+    "1605": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1605.json",
+      "size_bytes": 2495
+    },
+    "1607": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1607.json",
+      "size_bytes": 2495
+    },
+    "1609": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1609.json",
+      "size_bytes": 2495
+    },
+    "1611": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1611.json",
+      "size_bytes": 7338
+    },
+    "1613": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1613.json",
+      "size_bytes": 7338
+    },
+    "1615": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1615.json",
+      "size_bytes": 7338
+    },
+    "1617": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1617.json",
+      "size_bytes": 4336
+    },
+    "1619": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1619.json",
+      "size_bytes": 4336
+    },
+    "1621": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1621.json",
+      "size_bytes": 4336
+    },
+    "1623": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1623.json",
+      "size_bytes": 11242
+    },
+    "1625": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1625.json",
+      "size_bytes": 11242
+    },
+    "1627": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1627.json",
+      "size_bytes": 11242
+    },
+    "1629": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1629.json",
+      "size_bytes": 2183
+    },
+    "1631": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1631.json",
+      "size_bytes": 2183
+    },
+    "1633": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1633.json",
+      "size_bytes": 2183
+    },
+    "1635": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1635.json",
+      "size_bytes": 2475
+    },
+    "1637": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1637.json",
+      "size_bytes": 2475
+    },
+    "1639": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1639.json",
+      "size_bytes": 2475
+    },
+    "1641": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1641.json",
+      "size_bytes": 7285
+    },
+    "1643": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1643.json",
+      "size_bytes": 7285
+    },
+    "1645": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1645.json",
+      "size_bytes": 7285
+    },
+    "1647": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1647.json",
+      "size_bytes": 4633
+    },
+    "1649": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1649.json",
+      "size_bytes": 4633
+    },
+    "1651": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1651.json",
+      "size_bytes": 4633
+    },
+    "1653": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1653.json",
+      "size_bytes": 13415
+    },
+    "1655": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1655.json",
+      "size_bytes": 13415
+    },
+    "1657": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1657.json",
+      "size_bytes": 13415
+    },
+    "1659": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1659.json",
+      "size_bytes": 2187
+    },
+    "1661": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1661.json",
+      "size_bytes": 2187
+    },
+    "1663": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1663.json",
+      "size_bytes": 2187
+    },
+    "1665": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1665.json",
+      "size_bytes": 2473
+    },
+    "1667": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1667.json",
+      "size_bytes": 2473
+    },
+    "1669": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1669.json",
+      "size_bytes": 2473
+    },
+    "1671": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1671.json",
+      "size_bytes": 7280
+    },
+    "1673": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1673.json",
+      "size_bytes": 7280
+    },
+    "1675": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1675.json",
+      "size_bytes": 7280
+    },
+    "1677": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1677.json",
+      "size_bytes": 4634
+    },
+    "1679": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1679.json",
+      "size_bytes": 4634
+    },
+    "1681": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1681.json",
+      "size_bytes": 4634
+    },
+    "1683": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1683.json",
+      "size_bytes": 13440
+    },
+    "1685": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1685.json",
+      "size_bytes": 13440
+    },
+    "1687": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1687.json",
+      "size_bytes": 13440
+    },
+    "1689": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1689.json",
+      "size_bytes": 2193
+    },
+    "1691": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1691.json",
+      "size_bytes": 2193
+    },
+    "1693": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1693.json",
+      "size_bytes": 2193
+    },
+    "1695": {
+      "category": "philosophy",
+      "file": "/tmp/design-library-export/philosophy/page-1695.json",
+      "size_bytes": 2477
+    },
+    "1741": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1741.json",
+      "size_bytes": 4654
+    },
+    "1743": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1743.json",
+      "size_bytes": 4654
+    },
+    "1745": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1745.json",
+      "size_bytes": 4654
+    },
+    "1747": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1747.json",
+      "size_bytes": 13491
+    },
+    "1749": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1749.json",
+      "size_bytes": 13491
+    },
+    "1751": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1751.json",
+      "size_bytes": 13491
+    },
+    "1753": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1753.json",
+      "size_bytes": 2210
+    },
+    "1755": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1755.json",
+      "size_bytes": 2210
+    },
+    "1757": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1757.json",
+      "size_bytes": 2210
+    },
+    "1759": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1759.json",
+      "size_bytes": 2502
+    },
+    "1761": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1761.json",
+      "size_bytes": 2502
+    },
+    "1763": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1763.json",
+      "size_bytes": 2502
+    },
+    "1765": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1765.json",
+      "size_bytes": 7363
+    },
+    "1767": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1767.json",
+      "size_bytes": 7363
+    },
+    "1769": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1769.json",
+      "size_bytes": 7363
+    },
+    "1771": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1771.json",
+      "size_bytes": 4626
+    },
+    "1773": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1773.json",
+      "size_bytes": 4626
+    },
+    "1775": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1775.json",
+      "size_bytes": 4626
+    },
+    "1777": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1777.json",
+      "size_bytes": 13385
+    },
+    "1779": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1779.json",
+      "size_bytes": 13385
+    },
+    "1781": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1781.json",
+      "size_bytes": 13385
+    },
+    "1783": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1783.json",
+      "size_bytes": 2184
+    },
+    "1785": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1785.json",
+      "size_bytes": 2184
+    },
+    "1787": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1787.json",
+      "size_bytes": 2184
+    },
+    "1789": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1789.json",
+      "size_bytes": 2476
+    },
+    "1791": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1791.json",
+      "size_bytes": 2476
+    },
+    "1793": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1793.json",
+      "size_bytes": 2476
+    },
+    "1795": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1795.json",
+      "size_bytes": 7283
+    },
+    "1797": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1797.json",
+      "size_bytes": 7283
+    },
+    "1799": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1799.json",
+      "size_bytes": 7283
+    },
+    "1801": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1801.json",
+      "size_bytes": 4630
+    },
+    "1803": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1803.json",
+      "size_bytes": 4630
+    },
+    "1805": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1805.json",
+      "size_bytes": 4630
+    },
+    "1807": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1807.json",
+      "size_bytes": 13387
+    },
+    "1809": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1809.json",
+      "size_bytes": 13387
+    },
+    "1811": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1811.json",
+      "size_bytes": 13387
+    },
+    "1813": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1813.json",
+      "size_bytes": 2186
+    },
+    "1815": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1815.json",
+      "size_bytes": 2186
+    },
+    "1817": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1817.json",
+      "size_bytes": 2186
+    },
+    "1819": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1819.json",
+      "size_bytes": 2478
+    },
+    "1821": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1821.json",
+      "size_bytes": 2478
+    },
+    "1823": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1823.json",
+      "size_bytes": 2478
+    },
+    "1825": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1825.json",
+      "size_bytes": 7291
+    },
+    "1827": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1827.json",
+      "size_bytes": 7291
+    },
+    "1829": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1829.json",
+      "size_bytes": 7291
+    },
+    "1831": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1831.json",
+      "size_bytes": 4407
+    },
+    "1833": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1833.json",
+      "size_bytes": 4407
+    },
+    "1835": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1835.json",
+      "size_bytes": 4407
+    },
+    "1837": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1837.json",
+      "size_bytes": 11484
+    },
+    "1839": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1839.json",
+      "size_bytes": 11484
+    },
+    "1841": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1841.json",
+      "size_bytes": 11484
+    },
+    "1843": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1843.json",
+      "size_bytes": 2246
+    },
+    "1845": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1845.json",
+      "size_bytes": 2246
+    },
+    "1847": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1847.json",
+      "size_bytes": 2246
+    },
+    "1849": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1849.json",
+      "size_bytes": 2533
+    },
+    "1851": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1851.json",
+      "size_bytes": 2533
+    },
+    "1853": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1853.json",
+      "size_bytes": 2533
+    },
+    "1855": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1855.json",
+      "size_bytes": 7460
+    },
+    "1857": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1857.json",
+      "size_bytes": 7460
+    },
+    "1859": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1859.json",
+      "size_bytes": 7460
+    },
+    "1861": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1861.json",
+      "size_bytes": 4630
+    },
+    "1863": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1863.json",
+      "size_bytes": 4630
+    },
+    "1865": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1865.json",
+      "size_bytes": 4630
+    },
+    "1867": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1867.json",
+      "size_bytes": 13403
+    },
+    "1869": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1869.json",
+      "size_bytes": 13403
+    },
+    "1871": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1871.json",
+      "size_bytes": 13403
+    },
+    "1873": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1873.json",
+      "size_bytes": 2186
+    },
+    "1875": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1875.json",
+      "size_bytes": 2186
+    },
+    "1877": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1877.json",
+      "size_bytes": 2186
+    },
+    "1879": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1879.json",
+      "size_bytes": 2478
+    },
+    "1881": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1881.json",
+      "size_bytes": 2478
+    },
+    "1883": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1883.json",
+      "size_bytes": 2478
+    },
+    "1885": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1885.json",
+      "size_bytes": 7291
+    },
+    "1887": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1887.json",
+      "size_bytes": 7291
+    },
+    "1889": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1889.json",
+      "size_bytes": 7291
+    },
+    "1891": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1891.json",
+      "size_bytes": 4632
+    },
+    "1893": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1893.json",
+      "size_bytes": 4632
+    },
+    "1895": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1895.json",
+      "size_bytes": 4632
+    },
+    "1897": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1897.json",
+      "size_bytes": 13403
+    },
+    "1899": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1899.json",
+      "size_bytes": 13403
+    },
+    "1901": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1901.json",
+      "size_bytes": 13403
+    },
+    "1903": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1903.json",
+      "size_bytes": 2187
+    },
+    "1905": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1905.json",
+      "size_bytes": 2187
+    },
+    "1907": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1907.json",
+      "size_bytes": 2187
+    },
+    "1909": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1909.json",
+      "size_bytes": 2478
+    },
+    "1911": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1911.json",
+      "size_bytes": 2478
+    },
+    "1913": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1913.json",
+      "size_bytes": 2478
+    },
+    "1915": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1915.json",
+      "size_bytes": 7291
+    },
+    "1917": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1917.json",
+      "size_bytes": 7291
+    },
+    "1919": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1919.json",
+      "size_bytes": 7291
+    },
+    "1921": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1921.json",
+      "size_bytes": 4350
+    },
+    "1923": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1923.json",
+      "size_bytes": 4350
+    },
+    "1925": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1925.json",
+      "size_bytes": 4350
+    },
+    "1927": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1927.json",
+      "size_bytes": 11261
+    },
+    "1929": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1929.json",
+      "size_bytes": 11261
+    },
+    "1931": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1931.json",
+      "size_bytes": 11261
+    },
+    "1933": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1933.json",
+      "size_bytes": 2193
+    },
+    "1935": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1935.json",
+      "size_bytes": 2193
+    },
+    "1937": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1937.json",
+      "size_bytes": 2193
+    },
+    "1939": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1939.json",
+      "size_bytes": 2484
+    },
+    "1941": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1941.json",
+      "size_bytes": 2484
+    },
+    "1943": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1943.json",
+      "size_bytes": 2484
+    },
+    "1945": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1945.json",
+      "size_bytes": 7309
+    },
+    "1947": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1947.json",
+      "size_bytes": 7309
+    },
+    "1949": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1949.json",
+      "size_bytes": 7309
+    },
+    "1951": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1951.json",
+      "size_bytes": 4350
+    },
+    "1953": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1953.json",
+      "size_bytes": 4350
+    },
+    "1955": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1955.json",
+      "size_bytes": 4350
+    },
+    "1957": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1957.json",
+      "size_bytes": 11261
+    },
+    "1959": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1959.json",
+      "size_bytes": 11261
+    },
+    "1961": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1961.json",
+      "size_bytes": 11261
+    },
+    "1963": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1963.json",
+      "size_bytes": 2193
+    },
+    "1965": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1965.json",
+      "size_bytes": 2193
+    },
+    "1967": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1967.json",
+      "size_bytes": 2193
+    },
+    "1969": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1969.json",
+      "size_bytes": 2484
+    },
+    "1971": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1971.json",
+      "size_bytes": 2484
+    },
+    "1973": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1973.json",
+      "size_bytes": 2484
+    },
+    "1975": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1975.json",
+      "size_bytes": 7309
+    },
+    "1977": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1977.json",
+      "size_bytes": 7309
+    },
+    "1979": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1979.json",
+      "size_bytes": 7309
+    },
+    "1981": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1981.json",
+      "size_bytes": 4338
+    },
+    "1983": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1983.json",
+      "size_bytes": 4338
+    },
+    "1985": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1985.json",
+      "size_bytes": 4338
+    },
+    "1987": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1987.json",
+      "size_bytes": 11232
+    },
+    "1989": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1989.json",
+      "size_bytes": 11232
+    },
+    "1991": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1991.json",
+      "size_bytes": 11232
+    },
+    "1993": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1993.json",
+      "size_bytes": 2183
+    },
+    "1995": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1995.json",
+      "size_bytes": 2183
+    },
+    "1997": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1997.json",
+      "size_bytes": 2183
+    },
+    "1999": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-1999.json",
+      "size_bytes": 2475
+    },
+    "2001": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2001.json",
+      "size_bytes": 2475
+    },
+    "2003": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2003.json",
+      "size_bytes": 2475
+    },
+    "2005": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2005.json",
+      "size_bytes": 7279
+    },
+    "2007": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2007.json",
+      "size_bytes": 7279
+    },
+    "2009": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2009.json",
+      "size_bytes": 7279
+    },
+    "2011": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2011.json",
+      "size_bytes": 4624
+    },
+    "2013": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2013.json",
+      "size_bytes": 4624
+    },
+    "2015": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2015.json",
+      "size_bytes": 4624
+    },
+    "2017": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2017.json",
+      "size_bytes": 13384
+    },
+    "2019": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2019.json",
+      "size_bytes": 13384
+    },
+    "2021": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2021.json",
+      "size_bytes": 13384
+    },
+    "2023": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2023.json",
+      "size_bytes": 2183
+    },
+    "2025": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2025.json",
+      "size_bytes": 2183
+    },
+    "2027": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2027.json",
+      "size_bytes": 2183
+    },
+    "2029": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2029.json",
+      "size_bytes": 2475
+    },
+    "2031": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2031.json",
+      "size_bytes": 2475
+    },
+    "2033": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2033.json",
+      "size_bytes": 2475
+    },
+    "2035": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2035.json",
+      "size_bytes": 7279
+    },
+    "2037": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2037.json",
+      "size_bytes": 7279
+    },
+    "2039": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2039.json",
+      "size_bytes": 7279
+    },
+    "2041": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2041.json",
+      "size_bytes": 4638
+    },
+    "2043": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2043.json",
+      "size_bytes": 4638
+    },
+    "2045": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2045.json",
+      "size_bytes": 4638
+    },
+    "2047": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2047.json",
+      "size_bytes": 13429
+    },
+    "2049": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2049.json",
+      "size_bytes": 13429
+    },
+    "2051": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2051.json",
+      "size_bytes": 13429
+    },
+    "2053": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2053.json",
+      "size_bytes": 2193
+    },
+    "2055": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2055.json",
+      "size_bytes": 2193
+    },
+    "2057": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2057.json",
+      "size_bytes": 2193
+    },
+    "2059": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2059.json",
+      "size_bytes": 2484
+    },
+    "2061": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2061.json",
+      "size_bytes": 2484
+    },
+    "2063": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2063.json",
+      "size_bytes": 2484
+    },
+    "2065": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2065.json",
+      "size_bytes": 7309
+    },
+    "2067": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2067.json",
+      "size_bytes": 7309
+    },
+    "2069": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2069.json",
+      "size_bytes": 7309
+    },
+    "2071": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2071.json",
+      "size_bytes": 4354
+    },
+    "2073": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2073.json",
+      "size_bytes": 4354
+    },
+    "2075": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2075.json",
+      "size_bytes": 4354
+    },
+    "2077": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2077.json",
+      "size_bytes": 11283
+    },
+    "2079": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2079.json",
+      "size_bytes": 11283
+    },
+    "2081": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2081.json",
+      "size_bytes": 11283
+    },
+    "2083": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2083.json",
+      "size_bytes": 2194
+    },
+    "2085": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2085.json",
+      "size_bytes": 2194
+    },
+    "2087": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2087.json",
+      "size_bytes": 2194
+    },
+    "2089": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2089.json",
+      "size_bytes": 2481
+    },
+    "2091": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2091.json",
+      "size_bytes": 2481
+    },
+    "2093": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2093.json",
+      "size_bytes": 2481
+    },
+    "2095": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2095.json",
+      "size_bytes": 7297
+    },
+    "2097": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2097.json",
+      "size_bytes": 7297
+    },
+    "2099": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2099.json",
+      "size_bytes": 7297
+    },
+    "2101": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2101.json",
+      "size_bytes": 4344
+    },
+    "2103": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2103.json",
+      "size_bytes": 4344
+    },
+    "2105": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2105.json",
+      "size_bytes": 4344
+    },
+    "2107": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2107.json",
+      "size_bytes": 11236
+    },
+    "2109": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2109.json",
+      "size_bytes": 11236
+    },
+    "2111": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2111.json",
+      "size_bytes": 11236
+    },
+    "2113": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2113.json",
+      "size_bytes": 2187
+    },
+    "2115": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2115.json",
+      "size_bytes": 2187
+    },
+    "2117": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2117.json",
+      "size_bytes": 2187
+    },
+    "2119": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2119.json",
+      "size_bytes": 2479
+    },
+    "2121": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2121.json",
+      "size_bytes": 2479
+    },
+    "2123": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2123.json",
+      "size_bytes": 2479
+    },
+    "2125": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2125.json",
+      "size_bytes": 7295
+    },
+    "2127": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2127.json",
+      "size_bytes": 7295
+    },
+    "2129": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2129.json",
+      "size_bytes": 7295
+    },
+    "2131": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2131.json",
+      "size_bytes": 4352
+    },
+    "2133": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2133.json",
+      "size_bytes": 4352
+    },
+    "2135": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2135.json",
+      "size_bytes": 4352
+    },
+    "2137": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2137.json",
+      "size_bytes": 11261
+    },
+    "2139": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2139.json",
+      "size_bytes": 11261
+    },
+    "2141": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2141.json",
+      "size_bytes": 11261
+    },
+    "2143": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2143.json",
+      "size_bytes": 2194
+    },
+    "2145": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2145.json",
+      "size_bytes": 2194
+    },
+    "2147": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2147.json",
+      "size_bytes": 2194
+    },
+    "2149": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2149.json",
+      "size_bytes": 2484
+    },
+    "2151": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2151.json",
+      "size_bytes": 2484
+    },
+    "2153": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2153.json",
+      "size_bytes": 2484
+    },
+    "2155": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2155.json",
+      "size_bytes": 7309
+    },
+    "2157": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2157.json",
+      "size_bytes": 7309
+    },
+    "2159": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2159.json",
+      "size_bytes": 7309
+    },
+    "2161": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2161.json",
+      "size_bytes": 4648
+    },
+    "2163": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2163.json",
+      "size_bytes": 4648
+    },
+    "2165": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2165.json",
+      "size_bytes": 4648
+    },
+    "2167": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2167.json",
+      "size_bytes": 13488
+    },
+    "2169": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2169.json",
+      "size_bytes": 13488
+    },
+    "2171": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2171.json",
+      "size_bytes": 13488
+    },
+    "2173": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2173.json",
+      "size_bytes": 2207
+    },
+    "2175": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2175.json",
+      "size_bytes": 2207
+    },
+    "2177": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2177.json",
+      "size_bytes": 2207
+    },
+    "2179": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2179.json",
+      "size_bytes": 2499
+    },
+    "2181": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2181.json",
+      "size_bytes": 2499
+    },
+    "2183": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2183.json",
+      "size_bytes": 2499
+    },
+    "2185": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2185.json",
+      "size_bytes": 7351
+    },
+    "2187": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2187.json",
+      "size_bytes": 7351
+    },
+    "2189": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2189.json",
+      "size_bytes": 7351
+    },
+    "2191": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2191.json",
+      "size_bytes": 4626
+    },
+    "2193": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2193.json",
+      "size_bytes": 4626
+    },
+    "2195": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2195.json",
+      "size_bytes": 4626
+    },
+    "2197": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2197.json",
+      "size_bytes": 13401
+    },
+    "2199": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2199.json",
+      "size_bytes": 13401
+    },
+    "2201": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2201.json",
+      "size_bytes": 13401
+    },
+    "2203": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2203.json",
+      "size_bytes": 2184
+    },
+    "2205": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2205.json",
+      "size_bytes": 2184
+    },
+    "2207": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2207.json",
+      "size_bytes": 2184
+    },
+    "2209": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2209.json",
+      "size_bytes": 2476
+    },
+    "2211": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2211.json",
+      "size_bytes": 2476
+    },
+    "2213": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2213.json",
+      "size_bytes": 2476
+    },
+    "2215": {
+      "category": "brands-batch1",
+      "file": "/tmp/design-library-export/brands-batch1/page-2215.json",
+      "size_bytes": 7283
+    },
+    "2225": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2225.json",
+      "size_bytes": 4302
+    },
+    "2227": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2227.json",
+      "size_bytes": 4302
+    },
+    "2229": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2229.json",
+      "size_bytes": 4302
+    },
+    "2231": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2231.json",
+      "size_bytes": 11235
+    },
+    "2233": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2233.json",
+      "size_bytes": 11235
+    },
+    "2235": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2235.json",
+      "size_bytes": 11235
+    },
+    "2237": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2237.json",
+      "size_bytes": 2187
+    },
+    "2239": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2239.json",
+      "size_bytes": 2187
+    },
+    "2241": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2241.json",
+      "size_bytes": 2187
+    },
+    "2243": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2243.json",
+      "size_bytes": 2475
+    },
+    "2245": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2245.json",
+      "size_bytes": 2475
+    },
+    "2247": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2247.json",
+      "size_bytes": 2475
+    },
+    "2249": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2249.json",
+      "size_bytes": 7279
+    },
+    "2251": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2251.json",
+      "size_bytes": 7279
+    },
+    "2253": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2253.json",
+      "size_bytes": 7279
+    },
+    "2255": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2255.json",
+      "size_bytes": 4300
+    },
+    "2257": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2257.json",
+      "size_bytes": 4300
+    },
+    "2259": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2259.json",
+      "size_bytes": 4300
+    },
+    "2261": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2261.json",
+      "size_bytes": 13403
+    },
+    "2263": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2263.json",
+      "size_bytes": 13403
+    },
+    "2265": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2265.json",
+      "size_bytes": 13403
+    },
+    "2267": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2267.json",
+      "size_bytes": 2186
+    },
+    "2269": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2269.json",
+      "size_bytes": 2186
+    },
+    "2271": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2271.json",
+      "size_bytes": 2186
+    },
+    "2273": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2273.json",
+      "size_bytes": 2475
+    },
+    "2275": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2275.json",
+      "size_bytes": 2475
+    },
+    "2277": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2277.json",
+      "size_bytes": 2475
+    },
+    "2279": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2279.json",
+      "size_bytes": 7279
+    },
+    "2281": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2281.json",
+      "size_bytes": 7279
+    },
+    "2283": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2283.json",
+      "size_bytes": 7279
+    },
+    "2285": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2285.json",
+      "size_bytes": 4300
+    },
+    "2287": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2287.json",
+      "size_bytes": 4300
+    },
+    "2289": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2289.json",
+      "size_bytes": 4300
+    },
+    "2291": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2291.json",
+      "size_bytes": 13403
+    },
+    "2293": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2293.json",
+      "size_bytes": 13403
+    },
+    "2295": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2295.json",
+      "size_bytes": 13403
+    },
+    "2297": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2297.json",
+      "size_bytes": 2186
+    },
+    "2299": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2299.json",
+      "size_bytes": 2186
+    },
+    "2301": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2301.json",
+      "size_bytes": 2186
+    },
+    "2303": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2303.json",
+      "size_bytes": 2475
+    },
+    "2305": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2305.json",
+      "size_bytes": 2475
+    },
+    "2307": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2307.json",
+      "size_bytes": 2475
+    },
+    "2309": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2309.json",
+      "size_bytes": 7279
+    },
+    "2311": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2311.json",
+      "size_bytes": 7279
+    },
+    "2313": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2313.json",
+      "size_bytes": 7279
+    },
+    "2315": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2315.json",
+      "size_bytes": 4300
+    },
+    "2317": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2317.json",
+      "size_bytes": 4300
+    },
+    "2319": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2319.json",
+      "size_bytes": 4300
+    },
+    "2321": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2321.json",
+      "size_bytes": 13387
+    },
+    "2323": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2323.json",
+      "size_bytes": 13387
+    },
+    "2325": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2325.json",
+      "size_bytes": 13387
+    },
+    "2327": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2327.json",
+      "size_bytes": 2186
+    },
+    "2329": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2329.json",
+      "size_bytes": 2186
+    },
+    "2331": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2331.json",
+      "size_bytes": 2186
+    },
+    "2333": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2333.json",
+      "size_bytes": 2475
+    },
+    "2335": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2335.json",
+      "size_bytes": 2475
+    },
+    "2337": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2337.json",
+      "size_bytes": 2475
+    },
+    "2339": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2339.json",
+      "size_bytes": 7279
+    },
+    "2341": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2341.json",
+      "size_bytes": 7279
+    },
+    "2343": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2343.json",
+      "size_bytes": 7279
+    },
+    "2345": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2345.json",
+      "size_bytes": 4306
+    },
+    "2347": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2347.json",
+      "size_bytes": 4306
+    },
+    "2349": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2349.json",
+      "size_bytes": 4306
+    },
+    "2351": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2351.json",
+      "size_bytes": 11235
+    },
+    "2353": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2353.json",
+      "size_bytes": 11235
+    },
+    "2355": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2355.json",
+      "size_bytes": 11235
+    },
+    "2357": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2357.json",
+      "size_bytes": 2189
+    },
+    "2359": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2359.json",
+      "size_bytes": 2189
+    },
+    "2361": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2361.json",
+      "size_bytes": 2189
+    },
+    "2363": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2363.json",
+      "size_bytes": 2475
+    },
+    "2365": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2365.json",
+      "size_bytes": 2475
+    },
+    "2367": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2367.json",
+      "size_bytes": 2475
+    },
+    "2369": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2369.json",
+      "size_bytes": 7279
+    },
+    "2371": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2371.json",
+      "size_bytes": 7279
+    },
+    "2373": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2373.json",
+      "size_bytes": 7279
+    },
+    "2375": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2375.json",
+      "size_bytes": 4298
+    },
+    "2377": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2377.json",
+      "size_bytes": 4298
+    },
+    "2379": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2379.json",
+      "size_bytes": 4298
+    },
+    "2381": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2381.json",
+      "size_bytes": 11233
+    },
+    "2383": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2383.json",
+      "size_bytes": 11233
+    },
+    "2385": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2385.json",
+      "size_bytes": 11233
+    },
+    "2387": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2387.json",
+      "size_bytes": 2184
+    },
+    "2389": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2389.json",
+      "size_bytes": 2184
+    },
+    "2391": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2391.json",
+      "size_bytes": 2184
+    },
+    "2393": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2393.json",
+      "size_bytes": 2475
+    },
+    "2395": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2395.json",
+      "size_bytes": 2475
+    },
+    "2397": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2397.json",
+      "size_bytes": 2475
+    },
+    "2399": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2399.json",
+      "size_bytes": 7279
+    },
+    "2401": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2401.json",
+      "size_bytes": 7279
+    },
+    "2403": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2403.json",
+      "size_bytes": 7279
+    },
+    "2405": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2405.json",
+      "size_bytes": 4297
+    },
+    "2407": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2407.json",
+      "size_bytes": 4297
+    },
+    "2409": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2409.json",
+      "size_bytes": 4297
+    },
+    "2411": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2411.json",
+      "size_bytes": 13400
+    },
+    "2413": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2413.json",
+      "size_bytes": 13400
+    },
+    "2415": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2415.json",
+      "size_bytes": 13400
+    },
+    "2417": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2417.json",
+      "size_bytes": 2183
+    },
+    "2419": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2419.json",
+      "size_bytes": 2183
+    },
+    "2421": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2421.json",
+      "size_bytes": 2183
+    },
+    "2423": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2423.json",
+      "size_bytes": 2475
+    },
+    "2425": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2425.json",
+      "size_bytes": 2475
+    },
+    "2427": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2427.json",
+      "size_bytes": 2475
+    },
+    "2429": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2429.json",
+      "size_bytes": 7279
+    },
+    "2431": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2431.json",
+      "size_bytes": 7279
+    },
+    "2433": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2433.json",
+      "size_bytes": 7279
+    },
+    "2435": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2435.json",
+      "size_bytes": 4300
+    },
+    "2437": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2437.json",
+      "size_bytes": 4300
+    },
+    "2439": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2439.json",
+      "size_bytes": 4300
+    },
+    "2441": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2441.json",
+      "size_bytes": 13387
+    },
+    "2443": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2443.json",
+      "size_bytes": 13387
+    },
+    "2445": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2445.json",
+      "size_bytes": 13387
+    },
+    "2447": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2447.json",
+      "size_bytes": 2186
+    },
+    "2449": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2449.json",
+      "size_bytes": 2186
+    },
+    "2451": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2451.json",
+      "size_bytes": 2186
+    },
+    "2453": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2453.json",
+      "size_bytes": 2475
+    },
+    "2455": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2455.json",
+      "size_bytes": 2475
+    },
+    "2457": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2457.json",
+      "size_bytes": 2475
+    },
+    "2459": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2459.json",
+      "size_bytes": 7279
+    },
+    "2461": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2461.json",
+      "size_bytes": 7279
+    },
+    "2463": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2463.json",
+      "size_bytes": 7279
+    },
+    "2465": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2465.json",
+      "size_bytes": 4298
+    },
+    "2467": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2467.json",
+      "size_bytes": 4298
+    },
+    "2469": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2469.json",
+      "size_bytes": 4298
+    },
+    "2471": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2471.json",
+      "size_bytes": 13385
+    },
+    "2473": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2473.json",
+      "size_bytes": 13385
+    },
+    "2475": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2475.json",
+      "size_bytes": 13385
+    },
+    "2477": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2477.json",
+      "size_bytes": 2184
+    },
+    "2479": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2479.json",
+      "size_bytes": 2184
+    },
+    "2481": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2481.json",
+      "size_bytes": 2184
+    },
+    "2483": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2483.json",
+      "size_bytes": 2475
+    },
+    "2485": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2485.json",
+      "size_bytes": 2475
+    },
+    "2487": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2487.json",
+      "size_bytes": 2475
+    },
+    "2489": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2489.json",
+      "size_bytes": 7279
+    },
+    "2491": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2491.json",
+      "size_bytes": 7279
+    },
+    "2493": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2493.json",
+      "size_bytes": 7279
+    },
+    "2495": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2495.json",
+      "size_bytes": 4302
+    },
+    "2497": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2497.json",
+      "size_bytes": 4302
+    },
+    "2499": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2499.json",
+      "size_bytes": 4302
+    },
+    "2501": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2501.json",
+      "size_bytes": 11235
+    },
+    "2503": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2503.json",
+      "size_bytes": 11235
+    },
+    "2505": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2505.json",
+      "size_bytes": 11235
+    },
+    "2507": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2507.json",
+      "size_bytes": 2187
+    },
+    "2509": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2509.json",
+      "size_bytes": 2187
+    },
+    "2511": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2511.json",
+      "size_bytes": 2187
+    },
+    "2513": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2513.json",
+      "size_bytes": 2475
+    },
+    "2515": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2515.json",
+      "size_bytes": 2475
+    },
+    "2517": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2517.json",
+      "size_bytes": 2475
+    },
+    "2519": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2519.json",
+      "size_bytes": 7279
+    },
+    "2521": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2521.json",
+      "size_bytes": 7279
+    },
+    "2523": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2523.json",
+      "size_bytes": 7279
+    },
+    "2525": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2525.json",
+      "size_bytes": 4300
+    },
+    "2527": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2527.json",
+      "size_bytes": 4300
+    },
+    "2529": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2529.json",
+      "size_bytes": 4300
+    },
+    "2531": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2531.json",
+      "size_bytes": 13387
+    },
+    "2533": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2533.json",
+      "size_bytes": 13387
+    },
+    "2535": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2535.json",
+      "size_bytes": 13387
+    },
+    "2537": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2537.json",
+      "size_bytes": 2186
+    },
+    "2539": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2539.json",
+      "size_bytes": 2186
+    },
+    "2541": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2541.json",
+      "size_bytes": 2186
+    },
+    "2543": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2543.json",
+      "size_bytes": 2475
+    },
+    "2545": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2545.json",
+      "size_bytes": 2475
+    },
+    "2547": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2547.json",
+      "size_bytes": 2475
+    },
+    "2549": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2549.json",
+      "size_bytes": 7279
+    },
+    "2551": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2551.json",
+      "size_bytes": 7279
+    },
+    "2553": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2553.json",
+      "size_bytes": 7279
+    },
+    "2555": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2555.json",
+      "size_bytes": 4300
+    },
+    "2557": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2557.json",
+      "size_bytes": 4300
+    },
+    "2559": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2559.json",
+      "size_bytes": 4300
+    },
+    "2561": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2561.json",
+      "size_bytes": 11235
+    },
+    "2563": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2563.json",
+      "size_bytes": 11235
+    },
+    "2565": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2565.json",
+      "size_bytes": 11235
+    },
+    "2567": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2567.json",
+      "size_bytes": 2186
+    },
+    "2569": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2569.json",
+      "size_bytes": 2186
+    },
+    "2571": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2571.json",
+      "size_bytes": 2186
+    },
+    "2573": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2573.json",
+      "size_bytes": 2475
+    },
+    "2575": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2575.json",
+      "size_bytes": 2475
+    },
+    "2577": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2577.json",
+      "size_bytes": 2475
+    },
+    "2579": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2579.json",
+      "size_bytes": 7279
+    },
+    "2581": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2581.json",
+      "size_bytes": 7279
+    },
+    "2583": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2583.json",
+      "size_bytes": 7279
+    },
+    "2585": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2585.json",
+      "size_bytes": 4308
+    },
+    "2587": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2587.json",
+      "size_bytes": 4308
+    },
+    "2589": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2589.json",
+      "size_bytes": 4308
+    },
+    "2591": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2591.json",
+      "size_bytes": 11261
+    },
+    "2593": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2593.json",
+      "size_bytes": 11261
+    },
+    "2595": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2595.json",
+      "size_bytes": 11261
+    },
+    "2597": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2597.json",
+      "size_bytes": 2193
+    },
+    "2599": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2599.json",
+      "size_bytes": 2193
+    },
+    "2601": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2601.json",
+      "size_bytes": 2193
+    },
+    "2603": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2603.json",
+      "size_bytes": 2481
+    },
+    "2605": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2605.json",
+      "size_bytes": 2481
+    },
+    "2607": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2607.json",
+      "size_bytes": 2481
+    },
+    "2609": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2609.json",
+      "size_bytes": 7297
+    },
+    "2611": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2611.json",
+      "size_bytes": 7297
+    },
+    "2613": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2613.json",
+      "size_bytes": 7297
+    },
+    "2615": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2615.json",
+      "size_bytes": 4298
+    },
+    "2617": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2617.json",
+      "size_bytes": 4298
+    },
+    "2619": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2619.json",
+      "size_bytes": 4298
+    },
+    "2621": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2621.json",
+      "size_bytes": 11233
+    },
+    "2623": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2623.json",
+      "size_bytes": 11233
+    },
+    "2625": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2625.json",
+      "size_bytes": 11233
+    },
+    "2627": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2627.json",
+      "size_bytes": 2184
+    },
+    "2629": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2629.json",
+      "size_bytes": 2184
+    },
+    "2631": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2631.json",
+      "size_bytes": 2184
+    },
+    "2633": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2633.json",
+      "size_bytes": 2475
+    },
+    "2635": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2635.json",
+      "size_bytes": 2475
+    },
+    "2637": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2637.json",
+      "size_bytes": 2475
+    },
+    "2639": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2639.json",
+      "size_bytes": 7279
+    },
+    "2641": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2641.json",
+      "size_bytes": 7279
+    },
+    "2643": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2643.json",
+      "size_bytes": 7279
+    },
+    "2645": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2645.json",
+      "size_bytes": 4298
+    },
+    "2647": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2647.json",
+      "size_bytes": 4298
+    },
+    "2649": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2649.json",
+      "size_bytes": 4298
+    },
+    "2651": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2651.json",
+      "size_bytes": 13385
+    },
+    "2653": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2653.json",
+      "size_bytes": 13385
+    },
+    "2655": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2655.json",
+      "size_bytes": 13385
+    },
+    "2657": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2657.json",
+      "size_bytes": 2184
+    },
+    "2659": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2659.json",
+      "size_bytes": 2184
+    },
+    "2661": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2661.json",
+      "size_bytes": 2184
+    },
+    "2663": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2663.json",
+      "size_bytes": 2475
+    },
+    "2665": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2665.json",
+      "size_bytes": 2475
+    },
+    "2667": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2667.json",
+      "size_bytes": 2475
+    },
+    "2669": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2669.json",
+      "size_bytes": 7279
+    },
+    "2671": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2671.json",
+      "size_bytes": 7279
+    },
+    "2673": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2673.json",
+      "size_bytes": 7279
+    },
+    "2675": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2675.json",
+      "size_bytes": 4312
+    },
+    "2677": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2677.json",
+      "size_bytes": 4312
+    },
+    "2679": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2679.json",
+      "size_bytes": 4312
+    },
+    "2681": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2681.json",
+      "size_bytes": 11261
+    },
+    "2683": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2683.json",
+      "size_bytes": 11261
+    },
+    "2685": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2685.json",
+      "size_bytes": 11261
+    },
+    "2687": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2687.json",
+      "size_bytes": 2195
+    },
+    "2689": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2689.json",
+      "size_bytes": 2195
+    },
+    "2691": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2691.json",
+      "size_bytes": 2195
+    },
+    "2693": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2693.json",
+      "size_bytes": 2481
+    },
+    "2695": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2695.json",
+      "size_bytes": 2481
+    },
+    "2697": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2697.json",
+      "size_bytes": 2481
+    },
+    "2699": {
+      "category": "brands-batch2",
+      "file": "/tmp/design-library-export/brands-batch2/page-2699.json",
+      "size_bytes": 7297
+    },
+    "2705": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2705.json",
+      "size_bytes": 4306
+    },
+    "2707": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2707.json",
+      "size_bytes": 4306
+    },
+    "2709": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2709.json",
+      "size_bytes": 4306
+    },
+    "2711": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2711.json",
+      "size_bytes": 13413
+    },
+    "2713": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2713.json",
+      "size_bytes": 13413
+    },
+    "2715": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2715.json",
+      "size_bytes": 13413
+    },
+    "2717": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2717.json",
+      "size_bytes": 2192
+    },
+    "2719": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2719.json",
+      "size_bytes": 2192
+    },
+    "2721": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2721.json",
+      "size_bytes": 2192
+    },
+    "2723": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2723.json",
+      "size_bytes": 2481
+    },
+    "2725": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2725.json",
+      "size_bytes": 2481
+    },
+    "2727": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2727.json",
+      "size_bytes": 2481
+    },
+    "2729": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2729.json",
+      "size_bytes": 7297
+    },
+    "2731": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2731.json",
+      "size_bytes": 7297
+    },
+    "2733": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2733.json",
+      "size_bytes": 7297
+    },
+    "2735": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2735.json",
+      "size_bytes": 4302
+    },
+    "2737": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2737.json",
+      "size_bytes": 4302
+    },
+    "2739": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2739.json",
+      "size_bytes": 4302
+    },
+    "2741": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2741.json",
+      "size_bytes": 11235
+    },
+    "2743": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2743.json",
+      "size_bytes": 11235
+    },
+    "2745": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2745.json",
+      "size_bytes": 11235
+    },
+    "2747": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2747.json",
+      "size_bytes": 2187
+    },
+    "2749": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2749.json",
+      "size_bytes": 2187
+    },
+    "2751": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2751.json",
+      "size_bytes": 2187
+    },
+    "2753": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2753.json",
+      "size_bytes": 2475
+    },
+    "2755": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2755.json",
+      "size_bytes": 2475
+    },
+    "2757": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2757.json",
+      "size_bytes": 2475
+    },
+    "2759": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2759.json",
+      "size_bytes": 7279
+    },
+    "2761": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2761.json",
+      "size_bytes": 7279
+    },
+    "2763": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2763.json",
+      "size_bytes": 7279
+    },
+    "2765": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2765.json",
+      "size_bytes": 4300
+    },
+    "2767": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2767.json",
+      "size_bytes": 4300
+    },
+    "2769": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2769.json",
+      "size_bytes": 4300
+    },
+    "2771": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2771.json",
+      "size_bytes": 11233
+    },
+    "2773": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2773.json",
+      "size_bytes": 11233
+    },
+    "2775": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2775.json",
+      "size_bytes": 11233
+    },
+    "2777": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2777.json",
+      "size_bytes": 2185
+    },
+    "2779": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2779.json",
+      "size_bytes": 2185
+    },
+    "2781": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2781.json",
+      "size_bytes": 2185
+    },
+    "2783": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2783.json",
+      "size_bytes": 2475
+    },
+    "2785": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2785.json",
+      "size_bytes": 2475
+    },
+    "2787": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2787.json",
+      "size_bytes": 2475
+    },
+    "2789": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2789.json",
+      "size_bytes": 7279
+    },
+    "2791": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2791.json",
+      "size_bytes": 7279
+    },
+    "2793": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2793.json",
+      "size_bytes": 7279
+    },
+    "2795": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2795.json",
+      "size_bytes": 4298
+    },
+    "2797": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2797.json",
+      "size_bytes": 4298
+    },
+    "2799": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2799.json",
+      "size_bytes": 4298
+    },
+    "2801": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2801.json",
+      "size_bytes": 11233
+    },
+    "2803": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2803.json",
+      "size_bytes": 11233
+    },
+    "2805": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2805.json",
+      "size_bytes": 11233
+    },
+    "2807": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2807.json",
+      "size_bytes": 2184
+    },
+    "2809": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2809.json",
+      "size_bytes": 2184
+    },
+    "2811": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2811.json",
+      "size_bytes": 2184
+    },
+    "2813": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2813.json",
+      "size_bytes": 2475
+    },
+    "2815": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2815.json",
+      "size_bytes": 2475
+    },
+    "2817": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2817.json",
+      "size_bytes": 2475
+    },
+    "2819": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2819.json",
+      "size_bytes": 7279
+    },
+    "2821": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2821.json",
+      "size_bytes": 7279
+    },
+    "2823": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2823.json",
+      "size_bytes": 7279
+    },
+    "2825": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2825.json",
+      "size_bytes": 4304
+    },
+    "2827": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2827.json",
+      "size_bytes": 4304
+    },
+    "2829": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2829.json",
+      "size_bytes": 4304
+    },
+    "2831": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2831.json",
+      "size_bytes": 13411
+    },
+    "2833": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2833.json",
+      "size_bytes": 13411
+    },
+    "2835": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2835.json",
+      "size_bytes": 13411
+    },
+    "2837": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2837.json",
+      "size_bytes": 2190
+    },
+    "2839": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2839.json",
+      "size_bytes": 2190
+    },
+    "2841": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2841.json",
+      "size_bytes": 2190
+    },
+    "2843": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2843.json",
+      "size_bytes": 2481
+    },
+    "2845": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2845.json",
+      "size_bytes": 2481
+    },
+    "2847": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2847.json",
+      "size_bytes": 2481
+    },
+    "2849": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2849.json",
+      "size_bytes": 7297
+    },
+    "2851": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2851.json",
+      "size_bytes": 7297
+    },
+    "2853": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2853.json",
+      "size_bytes": 7297
+    },
+    "2855": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2855.json",
+      "size_bytes": 4300
+    },
+    "2857": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2857.json",
+      "size_bytes": 4300
+    },
+    "2859": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2859.json",
+      "size_bytes": 4300
+    },
+    "2861": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2861.json",
+      "size_bytes": 13387
+    },
+    "2863": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2863.json",
+      "size_bytes": 13387
+    },
+    "2865": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2865.json",
+      "size_bytes": 13387
+    },
+    "2867": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2867.json",
+      "size_bytes": 2186
+    },
+    "2869": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2869.json",
+      "size_bytes": 2186
+    },
+    "2871": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2871.json",
+      "size_bytes": 2186
+    },
+    "2873": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2873.json",
+      "size_bytes": 2475
+    },
+    "2875": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2875.json",
+      "size_bytes": 2475
+    },
+    "2877": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2877.json",
+      "size_bytes": 2475
+    },
+    "2879": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2879.json",
+      "size_bytes": 7279
+    },
+    "2881": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2881.json",
+      "size_bytes": 7279
+    },
+    "2883": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2883.json",
+      "size_bytes": 7279
+    },
+    "2885": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2885.json",
+      "size_bytes": 4302
+    },
+    "2887": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2887.json",
+      "size_bytes": 4302
+    },
+    "2889": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2889.json",
+      "size_bytes": 4302
+    },
+    "2891": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2891.json",
+      "size_bytes": 13395
+    },
+    "2893": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2893.json",
+      "size_bytes": 13395
+    },
+    "2895": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2895.json",
+      "size_bytes": 13395
+    },
+    "2897": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2897.json",
+      "size_bytes": 2188
+    },
+    "2899": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2899.json",
+      "size_bytes": 2188
+    },
+    "2901": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2901.json",
+      "size_bytes": 2188
+    },
+    "2903": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2903.json",
+      "size_bytes": 2479
+    },
+    "2905": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2905.json",
+      "size_bytes": 2479
+    },
+    "2907": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2907.json",
+      "size_bytes": 2479
+    },
+    "2909": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2909.json",
+      "size_bytes": 7289
+    },
+    "2911": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2911.json",
+      "size_bytes": 7289
+    },
+    "2913": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2913.json",
+      "size_bytes": 7289
+    },
+    "2915": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2915.json",
+      "size_bytes": 4306
+    },
+    "2917": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2917.json",
+      "size_bytes": 4306
+    },
+    "2919": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2919.json",
+      "size_bytes": 4306
+    },
+    "2921": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2921.json",
+      "size_bytes": 13413
+    },
+    "2923": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2923.json",
+      "size_bytes": 13413
+    },
+    "2925": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2925.json",
+      "size_bytes": 13413
+    },
+    "2927": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2927.json",
+      "size_bytes": 2192
+    },
+    "2929": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2929.json",
+      "size_bytes": 2192
+    },
+    "2931": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2931.json",
+      "size_bytes": 2192
+    },
+    "2933": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2933.json",
+      "size_bytes": 2481
+    },
+    "2935": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2935.json",
+      "size_bytes": 2481
+    },
+    "2937": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2937.json",
+      "size_bytes": 2481
+    },
+    "2939": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2939.json",
+      "size_bytes": 7297
+    },
+    "2941": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2941.json",
+      "size_bytes": 7297
+    },
+    "2943": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2943.json",
+      "size_bytes": 7297
+    },
+    "2945": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2945.json",
+      "size_bytes": 4306
+    },
+    "2947": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2947.json",
+      "size_bytes": 4306
+    },
+    "2949": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2949.json",
+      "size_bytes": 4306
+    },
+    "2951": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2951.json",
+      "size_bytes": 13413
+    },
+    "2953": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2953.json",
+      "size_bytes": 13413
+    },
+    "2955": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2955.json",
+      "size_bytes": 13413
+    },
+    "2957": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2957.json",
+      "size_bytes": 2192
+    },
+    "2959": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2959.json",
+      "size_bytes": 2192
+    },
+    "2961": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2961.json",
+      "size_bytes": 2192
+    },
+    "2963": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2963.json",
+      "size_bytes": 2481
+    },
+    "2965": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2965.json",
+      "size_bytes": 2481
+    },
+    "2967": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2967.json",
+      "size_bytes": 2481
+    },
+    "2969": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2969.json",
+      "size_bytes": 7297
+    },
+    "2971": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2971.json",
+      "size_bytes": 7297
+    },
+    "2973": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2973.json",
+      "size_bytes": 7297
+    },
+    "2975": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2975.json",
+      "size_bytes": 4313
+    },
+    "2977": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2977.json",
+      "size_bytes": 4313
+    },
+    "2979": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2979.json",
+      "size_bytes": 4313
+    },
+    "2981": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2981.json",
+      "size_bytes": 13461
+    },
+    "2983": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2983.json",
+      "size_bytes": 13461
+    },
+    "2985": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2985.json",
+      "size_bytes": 13461
+    },
+    "2987": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2987.json",
+      "size_bytes": 2199
+    },
+    "2989": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2989.json",
+      "size_bytes": 2199
+    },
+    "2991": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2991.json",
+      "size_bytes": 2199
+    },
+    "2993": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2993.json",
+      "size_bytes": 2475
+    },
+    "2995": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2995.json",
+      "size_bytes": 2475
+    },
+    "2997": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2997.json",
+      "size_bytes": 2475
+    },
+    "2999": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-2999.json",
+      "size_bytes": 7354
+    },
+    "3001": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3001.json",
+      "size_bytes": 7354
+    },
+    "3003": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3003.json",
+      "size_bytes": 7354
+    },
+    "3005": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3005.json",
+      "size_bytes": 4298
+    },
+    "3007": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3007.json",
+      "size_bytes": 4298
+    },
+    "3009": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3009.json",
+      "size_bytes": 4298
+    },
+    "3011": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3011.json",
+      "size_bytes": 13401
+    },
+    "3013": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3013.json",
+      "size_bytes": 13401
+    },
+    "3015": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3015.json",
+      "size_bytes": 13401
+    },
+    "3017": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3017.json",
+      "size_bytes": 2184
+    },
+    "3019": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3019.json",
+      "size_bytes": 2184
+    },
+    "3021": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3021.json",
+      "size_bytes": 2184
+    },
+    "3023": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3023.json",
+      "size_bytes": 2475
+    },
+    "3025": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3025.json",
+      "size_bytes": 2475
+    },
+    "3027": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3027.json",
+      "size_bytes": 2475
+    },
+    "3029": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3029.json",
+      "size_bytes": 7279
+    },
+    "3031": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3031.json",
+      "size_bytes": 7279
+    },
+    "3033": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3033.json",
+      "size_bytes": 7279
+    },
+    "3035": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3035.json",
+      "size_bytes": 4302
+    },
+    "3037": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3037.json",
+      "size_bytes": 4302
+    },
+    "3039": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3039.json",
+      "size_bytes": 4302
+    },
+    "3041": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3041.json",
+      "size_bytes": 11235
+    },
+    "3043": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3043.json",
+      "size_bytes": 11235
+    },
+    "3045": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3045.json",
+      "size_bytes": 11235
+    },
+    "3047": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3047.json",
+      "size_bytes": 2187
+    },
+    "3049": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3049.json",
+      "size_bytes": 2187
+    },
+    "3051": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3051.json",
+      "size_bytes": 2187
+    },
+    "3053": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3053.json",
+      "size_bytes": 2475
+    },
+    "3055": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3055.json",
+      "size_bytes": 2475
+    },
+    "3057": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3057.json",
+      "size_bytes": 2475
+    },
+    "3059": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3059.json",
+      "size_bytes": 7279
+    },
+    "3061": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3061.json",
+      "size_bytes": 7279
+    },
+    "3063": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3063.json",
+      "size_bytes": 7279
+    },
+    "3065": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3065.json",
+      "size_bytes": 4300
+    },
+    "3067": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3067.json",
+      "size_bytes": 4300
+    },
+    "3069": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3069.json",
+      "size_bytes": 4300
+    },
+    "3071": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3071.json",
+      "size_bytes": 11235
+    },
+    "3073": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3073.json",
+      "size_bytes": 11235
+    },
+    "3075": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3075.json",
+      "size_bytes": 11235
+    },
+    "3077": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3077.json",
+      "size_bytes": 2186
+    },
+    "3079": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3079.json",
+      "size_bytes": 2186
+    },
+    "3081": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3081.json",
+      "size_bytes": 2186
+    },
+    "3083": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3083.json",
+      "size_bytes": 2475
+    },
+    "3085": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3085.json",
+      "size_bytes": 2475
+    },
+    "3087": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3087.json",
+      "size_bytes": 2475
+    },
+    "3089": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3089.json",
+      "size_bytes": 7279
+    },
+    "3091": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3091.json",
+      "size_bytes": 7279
+    },
+    "3093": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3093.json",
+      "size_bytes": 7279
+    },
+    "3095": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3095.json",
+      "size_bytes": 4300
+    },
+    "3097": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3097.json",
+      "size_bytes": 4300
+    },
+    "3099": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3099.json",
+      "size_bytes": 4300
+    },
+    "3101": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3101.json",
+      "size_bytes": 13401
+    },
+    "3103": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3103.json",
+      "size_bytes": 13401
+    },
+    "3105": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3105.json",
+      "size_bytes": 13401
+    },
+    "3107": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3107.json",
+      "size_bytes": 2185
+    },
+    "3109": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3109.json",
+      "size_bytes": 2185
+    },
+    "3111": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3111.json",
+      "size_bytes": 2185
+    },
+    "3113": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3113.json",
+      "size_bytes": 2475
+    },
+    "3115": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3115.json",
+      "size_bytes": 2475
+    },
+    "3117": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3117.json",
+      "size_bytes": 2475
+    },
+    "3119": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3119.json",
+      "size_bytes": 7279
+    },
+    "3121": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3121.json",
+      "size_bytes": 7279
+    },
+    "3123": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3123.json",
+      "size_bytes": 7279
+    },
+    "3125": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3125.json",
+      "size_bytes": 4310
+    },
+    "3127": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3127.json",
+      "size_bytes": 4310
+    },
+    "3129": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3129.json",
+      "size_bytes": 4310
+    },
+    "3131": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3131.json",
+      "size_bytes": 13459
+    },
+    "3133": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3133.json",
+      "size_bytes": 13459
+    },
+    "3135": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3135.json",
+      "size_bytes": 13459
+    },
+    "3137": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3137.json",
+      "size_bytes": 2193
+    },
+    "3139": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3139.json",
+      "size_bytes": 2193
+    },
+    "3141": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3141.json",
+      "size_bytes": 2193
+    },
+    "3143": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3143.json",
+      "size_bytes": 2481
+    },
+    "3145": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3145.json",
+      "size_bytes": 2481
+    },
+    "3147": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3147.json",
+      "size_bytes": 2481
+    },
+    "3149": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3149.json",
+      "size_bytes": 7297
+    },
+    "3151": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3151.json",
+      "size_bytes": 7297
+    },
+    "3153": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3153.json",
+      "size_bytes": 7297
+    },
+    "3155": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3155.json",
+      "size_bytes": 4302
+    },
+    "3157": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3157.json",
+      "size_bytes": 4302
+    },
+    "3159": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3159.json",
+      "size_bytes": 4302
+    },
+    "3161": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3161.json",
+      "size_bytes": 13395
+    },
+    "3163": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3163.json",
+      "size_bytes": 13395
+    },
+    "3165": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3165.json",
+      "size_bytes": 13395
+    },
+    "3167": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3167.json",
+      "size_bytes": 2188
+    },
+    "3169": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3169.json",
+      "size_bytes": 2188
+    },
+    "3171": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3171.json",
+      "size_bytes": 2188
+    },
+    "3173": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3173.json",
+      "size_bytes": 2479
+    },
+    "3175": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3175.json",
+      "size_bytes": 2479
+    },
+    "3177": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3177.json",
+      "size_bytes": 2479
+    },
+    "3179": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3179.json",
+      "size_bytes": 7289
+    },
+    "3181": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3181.json",
+      "size_bytes": 7289
+    },
+    "3183": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3183.json",
+      "size_bytes": 7289
+    },
+    "3185": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3185.json",
+      "size_bytes": 4300
+    },
+    "3187": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3187.json",
+      "size_bytes": 4300
+    },
+    "3189": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3189.json",
+      "size_bytes": 4300
+    },
+    "3191": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3191.json",
+      "size_bytes": 13387
+    },
+    "3193": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3193.json",
+      "size_bytes": 13387
+    },
+    "3195": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3195.json",
+      "size_bytes": 13387
+    },
+    "3197": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3197.json",
+      "size_bytes": 2186
+    },
+    "3199": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3199.json",
+      "size_bytes": 2186
+    },
+    "3201": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3201.json",
+      "size_bytes": 2186
+    },
+    "3203": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3203.json",
+      "size_bytes": 2475
+    },
+    "3205": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3205.json",
+      "size_bytes": 2475
+    },
+    "3207": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3207.json",
+      "size_bytes": 2475
+    },
+    "3209": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3209.json",
+      "size_bytes": 7279
+    },
+    "3211": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3211.json",
+      "size_bytes": 7279
+    },
+    "3213": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3213.json",
+      "size_bytes": 7279
+    },
+    "3215": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3215.json",
+      "size_bytes": 4322
+    },
+    "3217": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3217.json",
+      "size_bytes": 4322
+    },
+    "3219": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3219.json",
+      "size_bytes": 4322
+    },
+    "3221": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3221.json",
+      "size_bytes": 11337
+    },
+    "3223": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3223.json",
+      "size_bytes": 11337
+    },
+    "3225": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3225.json",
+      "size_bytes": 11337
+    },
+    "3227": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3227.json",
+      "size_bytes": 2208
+    },
+    "3229": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3229.json",
+      "size_bytes": 2208
+    },
+    "3231": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3231.json",
+      "size_bytes": 2208
+    },
+    "3233": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3233.json",
+      "size_bytes": 2499
+    },
+    "3235": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3235.json",
+      "size_bytes": 2499
+    },
+    "3237": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3237.json",
+      "size_bytes": 2499
+    },
+    "3239": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3239.json",
+      "size_bytes": 7351
+    },
+    "3241": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3241.json",
+      "size_bytes": 7351
+    },
+    "3243": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3243.json",
+      "size_bytes": 7351
+    },
+    "3245": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3245.json",
+      "size_bytes": 4298
+    },
+    "3247": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3247.json",
+      "size_bytes": 4298
+    },
+    "3249": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3249.json",
+      "size_bytes": 4298
+    },
+    "3251": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3251.json",
+      "size_bytes": 11233
+    },
+    "3253": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3253.json",
+      "size_bytes": 11233
+    },
+    "3255": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3255.json",
+      "size_bytes": 11233
+    },
+    "3257": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3257.json",
+      "size_bytes": 2184
+    },
+    "3259": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3259.json",
+      "size_bytes": 2184
+    },
+    "3261": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3261.json",
+      "size_bytes": 2184
+    },
+    "3263": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3263.json",
+      "size_bytes": 2475
+    },
+    "3265": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3265.json",
+      "size_bytes": 2475
+    },
+    "3267": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3267.json",
+      "size_bytes": 2475
+    },
+    "3269": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3269.json",
+      "size_bytes": 7279
+    },
+    "3271": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3271.json",
+      "size_bytes": 7279
+    },
+    "3273": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3273.json",
+      "size_bytes": 7279
+    },
+    "3275": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3275.json",
+      "size_bytes": 4300
+    },
+    "3277": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3277.json",
+      "size_bytes": 4300
+    },
+    "3279": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3279.json",
+      "size_bytes": 4300
+    },
+    "3281": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3281.json",
+      "size_bytes": 11235
+    },
+    "3283": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3283.json",
+      "size_bytes": 11235
+    },
+    "3285": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3285.json",
+      "size_bytes": 11235
+    },
+    "3287": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3287.json",
+      "size_bytes": 2186
+    },
+    "3289": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3289.json",
+      "size_bytes": 2186
+    },
+    "3291": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3291.json",
+      "size_bytes": 2186
+    },
+    "3293": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3293.json",
+      "size_bytes": 2475
+    },
+    "3295": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3295.json",
+      "size_bytes": 2475
+    },
+    "3297": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3297.json",
+      "size_bytes": 2475
+    },
+    "3299": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3299.json",
+      "size_bytes": 7279
+    },
+    "3301": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3301.json",
+      "size_bytes": 7279
+    },
+    "3303": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3303.json",
+      "size_bytes": 7279
+    },
+    "3305": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3305.json",
+      "size_bytes": 4300
+    },
+    "3307": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3307.json",
+      "size_bytes": 4300
+    },
+    "3309": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3309.json",
+      "size_bytes": 4300
+    },
+    "3311": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3311.json",
+      "size_bytes": 13403
+    },
+    "3313": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3313.json",
+      "size_bytes": 13403
+    },
+    "3315": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3315.json",
+      "size_bytes": 13403
+    },
+    "3317": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3317.json",
+      "size_bytes": 2186
+    },
+    "3319": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3319.json",
+      "size_bytes": 2186
+    },
+    "3321": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3321.json",
+      "size_bytes": 2186
+    },
+    "3323": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3323.json",
+      "size_bytes": 2475
+    },
+    "3325": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3325.json",
+      "size_bytes": 2475
+    },
+    "3327": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3327.json",
+      "size_bytes": 2475
+    },
+    "3329": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3329.json",
+      "size_bytes": 7279
+    },
+    "3331": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3331.json",
+      "size_bytes": 7279
+    },
+    "3333": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3333.json",
+      "size_bytes": 7279
+    },
+    "3335": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3335.json",
+      "size_bytes": 4300
+    },
+    "3337": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3337.json",
+      "size_bytes": 4300
+    },
+    "3339": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3339.json",
+      "size_bytes": 4300
+    },
+    "3341": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3341.json",
+      "size_bytes": 13393
+    },
+    "3343": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3343.json",
+      "size_bytes": 13393
+    },
+    "3345": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3345.json",
+      "size_bytes": 13393
+    },
+    "3347": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3347.json",
+      "size_bytes": 2186
+    },
+    "3349": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3349.json",
+      "size_bytes": 2186
+    },
+    "3351": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3351.json",
+      "size_bytes": 2186
+    },
+    "3353": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3353.json",
+      "size_bytes": 2479
+    },
+    "3355": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3355.json",
+      "size_bytes": 2479
+    },
+    "3357": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3357.json",
+      "size_bytes": 2479
+    },
+    "3359": {
+      "category": "brands-batch3",
+      "file": "/tmp/design-library-export/brands-batch3/page-3359.json",
+      "size_bytes": 7289
+    },
+    "737": {
+      "category": "index-pages",
+      "file": "/tmp/design-library-export/index-pages/page-737.json",
+      "size_bytes": 318899
+    },
+    "1737": {
+      "category": "index-pages",
+      "file": "/tmp/design-library-export/index-pages/page-1737.json",
+      "size_bytes": 172216
+    },
+    "2221": {
+      "category": "index-pages",
+      "file": "/tmp/design-library-export/index-pages/page-2221.json",
+      "size_bytes": 97901
+    }
+  },
+  "errors": []
+}

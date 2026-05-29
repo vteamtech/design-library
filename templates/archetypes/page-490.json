@@ -1,0 +1,246 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 490,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:39Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "fb2b77f",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "ad8ac90",
+            "elType": "widget",
+            "settings": {
+              "title": "Our Team",
+              "size": "36",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "19e4202",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "40",
+              "padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0"
+              },
+              "flex_wrap": "wrap",
+              "flex_justify_content": "center"
+            },
+            "elements": [
+              {
+                "id": "fed90dd",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "89ee8fe",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/120x120/1a1a2e/ffffff?text=JD"
+                      },
+                      "border_radius": {
+                        "unit": "%",
+                        "top": "50",
+                        "right": "50",
+                        "bottom": "50",
+                        "left": "50"
+                      },
+                      "width": {
+                        "unit": "px",
+                        "size": "64"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "681ba89",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Jane Doe",
+                      "size": "16",
+                      "align": "center",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "d64ad1b",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#999;font-size:13px'>Managing Director</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "b5ae179",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "f5f1657",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/120x120/1a1a2e/ffffff?text=RS"
+                      },
+                      "border_radius": {
+                        "unit": "%",
+                        "top": "50",
+                        "right": "50",
+                        "bottom": "50",
+                        "left": "50"
+                      },
+                      "width": {
+                        "unit": "px",
+                        "size": "64"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "dee248d",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Robert Smith",
+                      "size": "16",
+                      "align": "center",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "7045ed4",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#999;font-size:13px'>Senior Consultant</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "60efec6",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "dea83ce",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/120x120/1a1a2e/ffffff?text=AM"
+                      },
+                      "border_radius": {
+                        "unit": "%",
+                        "top": "50",
+                        "right": "50",
+                        "bottom": "50",
+                        "left": "50"
+                      },
+                      "width": {
+                        "unit": "px",
+                        "size": "64"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "01f7fa2",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Alice Martin",
+                      "size": "16",
+                      "align": "center",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "785ce1e",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#999;font-size:13px'>Client Relations</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

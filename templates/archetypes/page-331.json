@@ -1,0 +1,220 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 331,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:30Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "7cd0ffa",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "text_align": "center",
+          "padding": {
+            "top": 80,
+            "bottom": 80,
+            "left": 40,
+            "right": 40,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "top": 50,
+            "bottom": 50,
+            "left": 20,
+            "right": 20,
+            "unit": "px",
+            "isLinked": false
+          },
+          "background_background": "classic",
+          "background_color": "#1a1a2e",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "e4e9d61",
+            "elType": "widget",
+            "settings": {
+              "title": "Ready to Protect Your Family's Future?",
+              "header_size": "h2",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "size": 40,
+                "unit": "px"
+              },
+              "typography_font_size_mobile": {
+                "size": 28,
+                "unit": "px"
+              },
+              "typography_font_weight": "700",
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "2693100",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='color:#cccccc'>Book a free consultation today and take the first step towards peace of mind. Our expert team is here to help.</p>",
+              "text_color": "#cccccc",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "size": 18,
+                "unit": "px"
+              },
+              "typography_font_size_mobile": {
+                "size": 16,
+                "unit": "px"
+              },
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "11c18a2",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "size": 32,
+                "unit": "px"
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "bf21612",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": {
+                "size": 16,
+                "unit": "px"
+              },
+              "flex_direction_mobile": "column",
+              "gap_mobile": {
+                "size": 12,
+                "unit": "px"
+              },
+              "flex_align_items_mobile": "center",
+              "width": {
+                "size": 100,
+                "unit": "%"
+              },
+              "flex_justify_content": "center",
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "7511845",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "01ed6ad",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Book Free Consultation",
+                      "link": {
+                        "url": "/contact-us"
+                      },
+                      "size": "lg",
+                      "background_color": "#c8a951",
+                      "button_text_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_weight": "700",
+                      "border_radius": {
+                        "top": 8,
+                        "right": 8,
+                        "bottom": 8,
+                        "left": 8,
+                        "unit": "px",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "f4d06bb",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "5186c1d",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Call +44 123 456 7890",
+                      "link": {
+                        "url": "tel:+441234567890"
+                      },
+                      "size": "lg",
+                      "background_color": "transparent",
+                      "button_text_color": "#ffffff",
+                      "border_border": "solid",
+                      "border_width": {
+                        "top": 2,
+                        "right": 2,
+                        "bottom": 2,
+                        "left": 2,
+                        "unit": "px",
+                        "isLinked": true
+                      },
+                      "border_color": "#ffffff",
+                      "typography_typography": "custom",
+                      "typography_font_weight": "600",
+                      "border_radius": {
+                        "top": 8,
+                        "right": 8,
+                        "bottom": 8,
+                        "left": 8,
+                        "unit": "px",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

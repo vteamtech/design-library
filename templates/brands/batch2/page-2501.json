@@ -1,0 +1,290 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 2501,
+  "category": "brands-batch2",
+  "exported_at": "2026-05-28T23:59:51Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "1eb9222",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "full",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "40",
+            "bottom": "60",
+            "left": "40"
+          },
+          "background_background": "classic",
+          "background_color": "#F5F3EF",
+          "gap": {
+            "unit": "px",
+            "size": "40"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "a494df4",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#1C1C1E;font-size:36px;font-weight:700;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:-0.5px;text-align:center;line-height:1.6;'>WHAT WE DO</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "9438413",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "row",
+              "gap": {
+                "unit": "px",
+                "size": "16"
+              },
+              "flex_wrap": "wrap"
+            },
+            "elements": [
+              {
+                "id": "86608f2",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": 25
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "28",
+                    "right": "20",
+                    "bottom": "28",
+                    "left": "20"
+                  },
+                  "background_background": "classic",
+                  "background_color": "#FFFFFF",
+                  "gap": {
+                    "unit": "px",
+                    "size": "12"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "80d561a",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#FFD02F;font-size:32px;font-weight:700;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>01</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "2a19ff0",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#1C1C1E;font-size:16px;font-weight:700;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Strategy</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "88ff0fe",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#6E6E73;font-size:14px;font-weight:400;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Research-driven insights that guide every decision.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "c3c886d",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": 25
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "28",
+                    "right": "20",
+                    "bottom": "28",
+                    "left": "20"
+                  },
+                  "background_background": "classic",
+                  "background_color": "#FFFFFF",
+                  "gap": {
+                    "unit": "px",
+                    "size": "12"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "8dfd3ef",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#FFD02F;font-size:32px;font-weight:700;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>02</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "08f2b0e",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#1C1C1E;font-size:16px;font-weight:700;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Design</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "010249a",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#6E6E73;font-size:14px;font-weight:400;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Beautiful interfaces crafted with attention to detail.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "07300a3",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": 25
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "28",
+                    "right": "20",
+                    "bottom": "28",
+                    "left": "20"
+                  },
+                  "background_background": "classic",
+                  "background_color": "#FFFFFF",
+                  "gap": {
+                    "unit": "px",
+                    "size": "12"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "f82659a",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#FFD02F;font-size:32px;font-weight:700;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>03</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "22ae5b8",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#1C1C1E;font-size:16px;font-weight:700;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Build</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "f629f27",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#6E6E73;font-size:14px;font-weight:400;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Robust solutions built on proven technology.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "6f3bd17",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": 25
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "28",
+                    "right": "20",
+                    "bottom": "28",
+                    "left": "20"
+                  },
+                  "background_background": "classic",
+                  "background_color": "#FFFFFF",
+                  "gap": {
+                    "unit": "px",
+                    "size": "12"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "8ec62a0",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#FFD02F;font-size:32px;font-weight:700;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>04</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "2b780c3",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#1C1C1E;font-size:16px;font-weight:700;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Support</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "8fded38",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#6E6E73;font-size:14px;font-weight:400;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Ongoing partnership for lasting success.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

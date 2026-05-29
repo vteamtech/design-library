@@ -1,0 +1,282 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 358,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:51Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "a2c0ffb",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "unit": "px",
+            "isLinked": false
+          },
+          "background_background": "classic",
+          "background_color": "#ffffff",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "b38021d",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "flex_direction_tablet": "column",
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "51f096e",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "min_height": {
+                    "size": 400,
+                    "unit": "px"
+                  },
+                  "background_background": "classic",
+                  "background_image": {
+                    "url": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800&q=80",
+                    "id": ""
+                  },
+                  "background_size": "cover",
+                  "background_position": "center center",
+                  "flex_align_items": "center"
+                },
+                "elements": [],
+                "isInner": true
+              },
+              {
+                "id": "c323fac",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "padding": {
+                    "top": 60,
+                    "bottom": 60,
+                    "left": 50,
+                    "right": 50,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "padding_mobile": {
+                    "top": 40,
+                    "bottom": 40,
+                    "left": 24,
+                    "right": 24,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "padding_tablet": {
+                    "top": 50,
+                    "bottom": 50,
+                    "left": 36,
+                    "right": 36,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "flex_justify_content": "center",
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "91d9f60",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-transform:uppercase;letter-spacing:2px;font-size:12px;color:#c8a951;font-weight:600;margin:0'>About Us</p>",
+                      "text_color": "#c8a951",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 12,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "666cd26",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 12,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "a125734",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Two Decades of Protecting Families",
+                      "header_size": "h2",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 36,
+                        "unit": "px"
+                      },
+                      "typography_font_size_mobile": {
+                        "size": 28,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "ff500b3",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "cbba247",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#555555'>Since 2003, we've helped thousands of families across the UK protect their assets and plan for the future. Our approach is simple: clear advice, honest pricing, and documents you can trust.</p>",
+                      "text_color": "#555555",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "dd780fb",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 12,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "88133e3",
+                    "elType": "widget",
+                    "settings": {
+                      "icon_list": [
+                        {
+                          "text": "Over 5,000 wills drafted",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          }
+                        },
+                        {
+                          "text": "No hidden fees, fixed pricing",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          }
+                        },
+                        {
+                          "text": "Free storage with every will",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          }
+                        }
+                      ],
+                      "view": "traditional",
+                      "text_color": "#333333"
+                    },
+                    "elements": [],
+                    "widgetType": "icon-list"
+                  },
+                  {
+                    "id": "bb26e9e",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 24,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "165b5e0",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Learn More About Us",
+                      "link": {
+                        "url": "/about-us"
+                      },
+                      "size": "md",
+                      "background_color": "#1a1a2e",
+                      "button_text_color": "#ffffff",
+                      "typography_typography": "custom",
+                      "typography_font_weight": "600",
+                      "border_radius": {
+                        "top": 8,
+                        "right": 8,
+                        "bottom": 8,
+                        "left": 8,
+                        "unit": "px",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

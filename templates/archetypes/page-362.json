@@ -1,0 +1,220 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 362,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:54Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "56165a9",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "unit": "px",
+            "isLinked": false
+          },
+          "background_background": "classic",
+          "background_color": "#ffffff",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "f467383",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "flex_direction_tablet": "column",
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "00af5a3",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "padding": {
+                    "top": 60,
+                    "bottom": 60,
+                    "left": 50,
+                    "right": 50,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "padding_mobile": {
+                    "top": 40,
+                    "bottom": 40,
+                    "left": 24,
+                    "right": 24,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "93fc023",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "See How It Works",
+                      "header_size": "h2",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 36,
+                        "unit": "px"
+                      },
+                      "typography_font_size_mobile": {
+                        "size": 28,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "505289a",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "64e7c31",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#555555'>Watch our 2-minute explainer to understand how we make will writing simple, clear, and stress-free.</p>",
+                      "text_color": "#555555",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "84c28eb",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 20,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "330bfea",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Book a Consultation",
+                      "link": {
+                        "url": "/contact-us"
+                      },
+                      "size": "md",
+                      "background_color": "#1a1a2e",
+                      "button_text_color": "#ffffff",
+                      "typography_typography": "custom",
+                      "typography_font_weight": "600",
+                      "border_radius": {
+                        "top": 8,
+                        "right": 8,
+                        "bottom": 8,
+                        "left": 8,
+                        "unit": "px",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "502f07f",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "padding": {
+                    "top": 60,
+                    "bottom": 60,
+                    "left": 40,
+                    "right": 40,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "padding_mobile": {
+                    "top": 40,
+                    "bottom": 40,
+                    "left": 20,
+                    "right": 20,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "flex_justify_content": "center",
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "e1ad0f7",
+                    "elType": "widget",
+                    "settings": {
+                      "video_type": "youtube",
+                      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                      "aspect_ratio": "169",
+                      "lazy_load": "yes",
+                      "show_image_overlay": "yes"
+                    },
+                    "elements": [],
+                    "widgetType": "video"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

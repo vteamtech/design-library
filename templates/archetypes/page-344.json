@@ -1,0 +1,385 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 344,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:39Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "c311e19",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "top": 80,
+            "bottom": 80,
+            "left": 40,
+            "right": 40,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "top": 50,
+            "bottom": 50,
+            "left": 20,
+            "right": 20,
+            "unit": "px",
+            "isLinked": false
+          },
+          "background_background": "classic",
+          "background_color": "#ffffff",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "e305f2f",
+            "elType": "widget",
+            "settings": {
+              "title": "What We Do",
+              "header_size": "h2",
+              "title_color": "#1a1a2e",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "size": 40,
+                "unit": "px"
+              },
+              "typography_font_size_mobile": {
+                "size": 28,
+                "unit": "px"
+              },
+              "typography_font_weight": "700",
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "04abcca",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "size": 50,
+                "unit": "px"
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "b9280b7",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "gap": {
+                "size": 48,
+                "unit": "px"
+              },
+              "gap_mobile": {
+                "size": 32,
+                "unit": "px"
+              }
+            },
+            "elements": [
+              {
+                "id": "6b2edb3",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "text_align": "center",
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "29dd387",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fas fa-shield-alt",
+                        "library": "fa-solid"
+                      },
+                      "view": "default",
+                      "primary_color": "#1a1a2e",
+                      "size": {
+                        "size": 40,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon"
+                  },
+                  {
+                    "id": "17bf3a7",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "586be96",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Asset Protection",
+                      "header_size": "h3",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 20,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "600",
+                      "align": "center",
+                      "align_mobile": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "320a002",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 8,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "5218e1c",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666666'>Safeguard your wealth for future generations.</p>",
+                      "text_color": "#666666",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 15,
+                        "unit": "px"
+                      },
+                      "align": "center",
+                      "align_mobile": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "dc9e757",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "text_align": "center",
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "6a3318f",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fas fa-users",
+                        "library": "fa-solid"
+                      },
+                      "view": "default",
+                      "primary_color": "#1a1a2e",
+                      "size": {
+                        "size": 40,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon"
+                  },
+                  {
+                    "id": "655dead",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "7316c44",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Family Guidance",
+                      "header_size": "h3",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 20,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "600",
+                      "align": "center",
+                      "align_mobile": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "158b669",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 8,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "4a572ca",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666666'>Clear advice for complex family situations.</p>",
+                      "text_color": "#666666",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 15,
+                        "unit": "px"
+                      },
+                      "align": "center",
+                      "align_mobile": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "f28df69",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "text_align": "center",
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "2c1bf8a",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fas fa-handshake",
+                        "library": "fa-solid"
+                      },
+                      "view": "default",
+                      "primary_color": "#1a1a2e",
+                      "size": {
+                        "size": 40,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon"
+                  },
+                  {
+                    "id": "e869aca",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "ea0a94b",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Trusted Advice",
+                      "header_size": "h3",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 20,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "600",
+                      "align": "center",
+                      "align_mobile": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "be2e6db",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 8,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "bd97122",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666666'>Two decades of expertise you can rely on.</p>",
+                      "text_color": "#666666",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 15,
+                        "unit": "px"
+                      },
+                      "align": "center",
+                      "align_mobile": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

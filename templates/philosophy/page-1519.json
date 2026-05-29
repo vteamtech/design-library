@@ -1,0 +1,72 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 1519,
+  "category": "philosophy",
+  "exported_at": "2026-05-28T23:53:56Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "febf79c",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "70",
+            "right": "40",
+            "bottom": "70",
+            "left": "40"
+          },
+          "background_background": "classic",
+          "background_color": "#0A0A0A",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "71f4469",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#D4AF37;font-size:100px;font-weight:400;font-family:'Poiret One',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:center;line-height:1;margin:0;line-height:0.5;'>\u201c</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "95d364e",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#F5E6C8;font-size:22px;font-weight:400;font-family:'Raleway',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:center;line-height:1.7;max-width:700px;'>Working with this team was transformative. They understood our vision perfectly and delivered beyond our expectations.</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "78a4e2d",
+            "elType": "widget",
+            "settings": {
+              "html": "<div style='width:40px;height:2px;background:#D4AF37;margin:10px auto;'></div>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "9173dac",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#D4AF37;font-size:13px;font-weight:600;font-family:'Raleway',sans-serif,serif;text-transform:none;letter-spacing:6px;text-align:center;line-height:1.6;'>ALEXANDRA REID, FOUNDER & CEO</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

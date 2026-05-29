@@ -1,0 +1,367 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 342,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:38Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "ffa6835",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "top": 80,
+            "bottom": 80,
+            "left": 40,
+            "right": 40,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "top": 50,
+            "bottom": 50,
+            "left": 20,
+            "right": 20,
+            "unit": "px",
+            "isLinked": false
+          },
+          "background_background": "classic",
+          "background_color": "#ffffff",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "92a0962",
+            "elType": "widget",
+            "settings": {
+              "title": "Our Process",
+              "header_size": "h2",
+              "title_color": "#1a1a2e",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "size": 40,
+                "unit": "px"
+              },
+              "typography_font_size_mobile": {
+                "size": 28,
+                "unit": "px"
+              },
+              "typography_font_weight": "700",
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "75a6dd1",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "size": 48,
+                "unit": "px"
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "8c1cf0c",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "gap": {
+                "size": 32,
+                "unit": "px"
+              },
+              "gap_mobile": {
+                "size": 24,
+                "unit": "px"
+              }
+            },
+            "elements": [
+              {
+                "id": "ab882e8",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "left": 0,
+                    "right": 0,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "40aa02d",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "01",
+                      "header_size": "h2",
+                      "title_color": "#c8a951",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 64,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "800",
+                      "typography_line_height": {
+                        "size": 1,
+                        "unit": "em"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "fdf1b06",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 12,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "c93c739",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Initial Consultation",
+                      "header_size": "h3",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 22,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "057a95f",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666666'>We discuss your circumstances, assets, and wishes in a confidential, no-obligation meeting.</p>",
+                      "text_color": "#666666",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 15,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "d4db3e0",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "left": 0,
+                    "right": 0,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "8c66341",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "02",
+                      "header_size": "h2",
+                      "title_color": "#c8a951",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 64,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "800",
+                      "typography_line_height": {
+                        "size": 1,
+                        "unit": "em"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "6927dd5",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 12,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "ab981cd",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Draft & Review",
+                      "header_size": "h3",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 22,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "9a1b2b1",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666666'>We prepare your documents and walk you through every clause so you understand exactly what you're signing.</p>",
+                      "text_color": "#666666",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 15,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "8c0cedf",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "left": 0,
+                    "right": 0,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "5d66da0",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "03",
+                      "header_size": "h2",
+                      "title_color": "#c8a951",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 64,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "800",
+                      "typography_line_height": {
+                        "size": 1,
+                        "unit": "em"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "19dd9b8",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 12,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "73008fa",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Execute & Store",
+                      "header_size": "h3",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 22,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "2c8ccd7",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666666'>Your will is properly witnessed, executed, and stored safely. We're here whenever you need updates.</p>",
+                      "text_color": "#666666",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 15,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

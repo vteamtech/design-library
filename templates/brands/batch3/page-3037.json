@@ -1,0 +1,123 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 3037,
+  "category": "brands-batch3",
+  "exported_at": "2026-05-29T00:03:16Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "cc5afee",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "full",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "80",
+            "right": "40",
+            "bottom": "80",
+            "left": "40"
+          },
+          "background_background": "classic",
+          "background_color": "#F7F4ED",
+          "gap": {
+            "unit": "px",
+            "size": "24"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "dd83372",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#1C1C1C;font-size:56px;font-weight:600;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:-0.5px;text-align:center;line-height:1.1;'>Design That Makes<br>a Statement</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "df2f381",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#7A7568;font-size:18px;font-weight:400;font-family:'Inter',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:center;line-height:1.7;max-width:600px;margin:0 auto;'>Every great brand deserves a digital presence that reflects its unique character. We craft experiences that resonate.</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "5f29923",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": {
+                "unit": "px",
+                "size": "16"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "108f635",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "f16462f",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<a href='/contact' style='display:inline-block;padding:14px 36px;background:#1C1C1C;color:#F7F4ED;text-decoration:none;font-weight:700;font-family:'Inter',sans-serif;border-radius:12px;font-size:15px;'>Get Started</a>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "e3055b6",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "9667460",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<a href='/about' style='display:inline-block;padding:14px 36px;background:transparent;color:#1C1C1C;text-decoration:none;font-weight:600;border:2px solid #1C1C1C;border-radius:12px;font-size:15px;'>Learn More</a>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

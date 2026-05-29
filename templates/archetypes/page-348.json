@@ -1,0 +1,469 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 348,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:43Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "3c67a5d",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "top": 80,
+            "bottom": 80,
+            "left": 40,
+            "right": 40,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "top": 50,
+            "bottom": 50,
+            "left": 20,
+            "right": 20,
+            "unit": "px",
+            "isLinked": false
+          },
+          "background_background": "classic",
+          "background_color": "#ffffff",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "ca4d242",
+            "elType": "widget",
+            "settings": {
+              "title": "Our Services",
+              "header_size": "h2",
+              "title_color": "#1a1a2e",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "size": 40,
+                "unit": "px"
+              },
+              "typography_font_size_mobile": {
+                "size": 28,
+                "unit": "px"
+              },
+              "typography_font_weight": "700",
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "e1c279a",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "size": 40,
+                "unit": "px"
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "ca6237b",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "gap": {
+                "size": 24,
+                "unit": "px"
+              },
+              "gap_mobile": {
+                "size": 16,
+                "unit": "px"
+              }
+            },
+            "elements": [
+              {
+                "id": "00b81e1",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "text_align": "center",
+                  "padding": {
+                    "top": 36,
+                    "bottom": 36,
+                    "left": 28,
+                    "right": 28,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "background_background": "classic",
+                  "background_color": "#ffffff",
+                  "border_radius": {
+                    "top": 12,
+                    "right": 12,
+                    "bottom": 12,
+                    "left": 12,
+                    "unit": "px",
+                    "isLinked": true
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "top": 2,
+                    "right": 2,
+                    "bottom": 2,
+                    "left": 2,
+                    "unit": "px",
+                    "isLinked": true
+                  },
+                  "border_color": "#e0e0e0",
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "631f32a",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fas fa-pen-fancy",
+                        "library": "fa-solid"
+                      },
+                      "view": "default",
+                      "primary_color": "#c8a951",
+                      "size": {
+                        "size": 40,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon"
+                  },
+                  {
+                    "id": "9614e59",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "43a9465",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Will Writing",
+                      "header_size": "h3",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 20,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "600",
+                      "align": "center",
+                      "align_mobile": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "c400a46",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 8,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "a12725d",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666666'>Clear, legally binding wills written to protect your family.</p>",
+                      "text_color": "#666666",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 14,
+                        "unit": "px"
+                      },
+                      "align": "center",
+                      "align_mobile": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "29f9081",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "text_align": "center",
+                  "padding": {
+                    "top": 36,
+                    "bottom": 36,
+                    "left": 28,
+                    "right": 28,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "background_background": "classic",
+                  "background_color": "#ffffff",
+                  "border_radius": {
+                    "top": 12,
+                    "right": 12,
+                    "bottom": 12,
+                    "left": 12,
+                    "unit": "px",
+                    "isLinked": true
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "top": 2,
+                    "right": 2,
+                    "bottom": 2,
+                    "left": 2,
+                    "unit": "px",
+                    "isLinked": true
+                  },
+                  "border_color": "#e0e0e0",
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "9153b1f",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fas fa-user-shield",
+                        "library": "fa-solid"
+                      },
+                      "view": "default",
+                      "primary_color": "#c8a951",
+                      "size": {
+                        "size": 40,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon"
+                  },
+                  {
+                    "id": "21c4420",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "7ef1669",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Power of Attorney",
+                      "header_size": "h3",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 20,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "600",
+                      "align": "center",
+                      "align_mobile": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "ee0896e",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 8,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "cd71c0d",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666666'>Appoint trusted people to manage your affairs if you cannot.</p>",
+                      "text_color": "#666666",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 14,
+                        "unit": "px"
+                      },
+                      "align": "center",
+                      "align_mobile": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "b05e2c0",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "text_align": "center",
+                  "padding": {
+                    "top": 36,
+                    "bottom": 36,
+                    "left": 28,
+                    "right": 28,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "background_background": "classic",
+                  "background_color": "#ffffff",
+                  "border_radius": {
+                    "top": 12,
+                    "right": 12,
+                    "bottom": 12,
+                    "left": 12,
+                    "unit": "px",
+                    "isLinked": true
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "top": 2,
+                    "right": 2,
+                    "bottom": 2,
+                    "left": 2,
+                    "unit": "px",
+                    "isLinked": true
+                  },
+                  "border_color": "#e0e0e0",
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "8c86d46",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fas fa-landmark",
+                        "library": "fa-solid"
+                      },
+                      "view": "default",
+                      "primary_color": "#c8a951",
+                      "size": {
+                        "size": 40,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon"
+                  },
+                  {
+                    "id": "6bee4ba",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "109b2e7",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Probate Services",
+                      "header_size": "h3",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 20,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "600",
+                      "align": "center",
+                      "align_mobile": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "79e7127",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 8,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "0c18505",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666666'>Expert support administering an estate with care and diligence.</p>",
+                      "text_color": "#666666",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 14,
+                        "unit": "px"
+                      },
+                      "align": "center",
+                      "align_mobile": "center"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

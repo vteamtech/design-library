@@ -1,0 +1,254 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 314,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:17Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "8f1e71b",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "top": 100,
+            "bottom": 100,
+            "left": 40,
+            "right": 40,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "top": 60,
+            "bottom": 60,
+            "left": 20,
+            "right": 20,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "top": 80,
+            "bottom": 80,
+            "left": 30,
+            "right": 30,
+            "unit": "px",
+            "isLinked": false
+          },
+          "background_background": "classic",
+          "background_color": "#ffffff",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "d3362a6",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "column",
+              "max_width": {
+                "size": 800,
+                "unit": "px"
+              },
+              "width": {
+                "size": 100,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "c3a9c03",
+                "elType": "widget",
+                "settings": {
+                  "title": "Protect Your Family's Future",
+                  "header_size": "h1",
+                  "title_color": "#1a1a2e",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "size": 52,
+                    "unit": "px"
+                  },
+                  "typography_font_size_tablet": {
+                    "size": 40,
+                    "unit": "px"
+                  },
+                  "typography_font_size_mobile": {
+                    "size": 32,
+                    "unit": "px"
+                  },
+                  "typography_font_weight": "700",
+                  "align": "center",
+                  "align_tablet": "center",
+                  "align_mobile": "center"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "ae229c8",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p>Expert will writing and estate planning services. Secure your legacy with clear, legally sound documents tailored to your circumstances.</p>",
+                  "text_color": "#555555",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "size": 20,
+                    "unit": "px"
+                  },
+                  "typography_font_size_mobile": {
+                    "size": 17,
+                    "unit": "px"
+                  },
+                  "align": "center",
+                  "align_tablet": "center",
+                  "align_mobile": "center"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              },
+              {
+                "id": "6b5ecb0",
+                "elType": "widget",
+                "settings": {
+                  "space": {
+                    "size": 32,
+                    "unit": "px"
+                  }
+                },
+                "elements": [],
+                "widgetType": "spacer"
+              },
+              {
+                "id": "114fbb2",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "row",
+                  "gap": {
+                    "size": 16,
+                    "unit": "px"
+                  },
+                  "flex_direction_mobile": "column",
+                  "gap_mobile": {
+                    "size": 12,
+                    "unit": "px"
+                  },
+                  "flex_align_items_mobile": "center",
+                  "width": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "flex_justify_content": "center",
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "807084e",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "841145b",
+                        "elType": "widget",
+                        "settings": {
+                          "text": "Write Your Will",
+                          "link": {
+                            "url": "/contact-us"
+                          },
+                          "size": "lg",
+                          "background_color": "#1a1a2e",
+                          "button_text_color": "#ffffff",
+                          "typography_typography": "custom",
+                          "typography_font_weight": "600",
+                          "border_radius": {
+                            "top": 8,
+                            "right": 8,
+                            "bottom": 8,
+                            "left": 8,
+                            "unit": "px",
+                            "isLinked": true
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "button"
+                      }
+                    ],
+                    "isInner": true
+                  },
+                  {
+                    "id": "9ae93f0",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "d6f6cdf",
+                        "elType": "widget",
+                        "settings": {
+                          "text": "Free Consultation",
+                          "link": {
+                            "url": "/contact-us"
+                          },
+                          "size": "lg",
+                          "background_color": "transparent",
+                          "button_text_color": "#1a1a2e",
+                          "border_border": "solid",
+                          "border_width": {
+                            "top": 2,
+                            "right": 2,
+                            "bottom": 2,
+                            "left": 2,
+                            "unit": "px",
+                            "isLinked": true
+                          },
+                          "border_color": "#1a1a2e",
+                          "typography_typography": "custom",
+                          "typography_font_weight": "600",
+                          "border_radius": {
+                            "top": 8,
+                            "right": 8,
+                            "bottom": 8,
+                            "left": 8,
+                            "unit": "px",
+                            "isLinked": true
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "button"
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

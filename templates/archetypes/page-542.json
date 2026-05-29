@@ -1,0 +1,162 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 542,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:52:21Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "3e83acb",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "16",
+            "right": "24",
+            "bottom": "16",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "1140",
+          "border_border": "solid",
+          "border_width": {
+            "unit": "px",
+            "bottom": "1"
+          },
+          "border_color": "#e5e5e5",
+          "flex_justify_content": "space-between",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "6199c94",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "column",
+              "width": {
+                "size": 33.33,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "77747b3",
+                "elType": "widget",
+                "settings": {
+                  "title": "Brand",
+                  "size": "24",
+                  "typography_font_weight": "700"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "4f2bb1a",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "column",
+              "width": {
+                "size": 33.33,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "137fa1f",
+                "elType": "widget",
+                "settings": {
+                  "icon_list": [
+                    {
+                      "text": "Home",
+                      "selected_icon": {
+                        "value": "",
+                        "library": ""
+                      },
+                      "icon_color": "transparent"
+                    },
+                    {
+                      "text": "About",
+                      "selected_icon": {
+                        "value": "",
+                        "library": ""
+                      },
+                      "icon_color": "transparent"
+                    },
+                    {
+                      "text": "Services",
+                      "selected_icon": {
+                        "value": "",
+                        "library": ""
+                      },
+                      "icon_color": "transparent"
+                    },
+                    {
+                      "text": "Contact",
+                      "selected_icon": {
+                        "value": "",
+                        "library": ""
+                      },
+                      "icon_color": "transparent"
+                    }
+                  ],
+                  "link_color": "#333333"
+                },
+                "elements": [],
+                "widgetType": "icon-list"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "dac493e",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "column",
+              "width": {
+                "size": 33.33,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "e1e7e48",
+                "elType": "widget",
+                "settings": {
+                  "text": "Get Started",
+                  "button_text_color": "#ffffff",
+                  "background_color": "#c8a951",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "6",
+                    "right": "6",
+                    "bottom": "6",
+                    "left": "6"
+                  }
+                },
+                "elements": [],
+                "widgetType": "button"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

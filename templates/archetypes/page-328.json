@@ -1,0 +1,347 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 328,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:27Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "90cbfd2",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "unit": "px",
+            "isLinked": false
+          },
+          "background_background": "classic",
+          "background_color": "#f8f6f0",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "61e9e6a",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "flex_direction_tablet": "column",
+              "padding": {
+                "top": 80,
+                "bottom": 80,
+                "left": 60,
+                "right": 60,
+                "unit": "px",
+                "isLinked": false
+              },
+              "padding_mobile": {
+                "top": 50,
+                "bottom": 50,
+                "left": 24,
+                "right": 24,
+                "unit": "px",
+                "isLinked": false
+              },
+              "padding_tablet": {
+                "top": 60,
+                "bottom": 60,
+                "left": 40,
+                "right": 40,
+                "unit": "px",
+                "isLinked": false
+              },
+              "gap": {
+                "size": 0,
+                "unit": "px"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "3569547",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "left": 0,
+                    "right": 40,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "padding_mobile": {
+                    "top": 0,
+                    "bottom": 30,
+                    "left": 0,
+                    "right": 0,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "flex_justify_content": "center",
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "58e7033",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Your Will, Done Right",
+                      "header_size": "h1",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 48,
+                        "unit": "px"
+                      },
+                      "typography_font_size_mobile": {
+                        "size": 32,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "22697f9",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p>Professional will writing with a personal touch. Our experts guide you through every decision, ensuring your wishes are clearly documented and legally binding.</p>",
+                      "text_color": "#555555",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 18,
+                        "unit": "px"
+                      },
+                      "typography_font_size_mobile": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "b5db987",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 24,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "92c8e9c",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "boxed",
+                      "flex_direction": "row",
+                      "gap": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "flex_direction_mobile": "column",
+                      "flex_align_items_mobile": "center",
+                      "gap_mobile": {
+                        "size": 12,
+                        "unit": "px"
+                      },
+                      "width": {
+                        "size": 100,
+                        "unit": "%"
+                      },
+                      "flex_justify_content": "flex-start",
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "1c88899",
+                        "elType": "container",
+                        "settings": {
+                          "container_type": "flex",
+                          "content_width": "full",
+                          "flex_direction": "column",
+                          "width": {
+                            "size": 50,
+                            "unit": "%"
+                          },
+                          "flex_align_items": "center"
+                        },
+                        "elements": [
+                          {
+                            "id": "cc3abfc",
+                            "elType": "widget",
+                            "settings": {
+                              "text": "Get Started",
+                              "link": {
+                                "url": "/contact-us"
+                              },
+                              "size": "lg",
+                              "background_color": "#1a1a2e",
+                              "button_text_color": "#ffffff",
+                              "typography_typography": "custom",
+                              "typography_font_weight": "600",
+                              "border_radius": {
+                                "top": 8,
+                                "right": 8,
+                                "bottom": 8,
+                                "left": 8,
+                                "unit": "px",
+                                "isLinked": true
+                              }
+                            },
+                            "elements": [],
+                            "widgetType": "button"
+                          }
+                        ],
+                        "isInner": true
+                      },
+                      {
+                        "id": "5c928d3",
+                        "elType": "container",
+                        "settings": {
+                          "container_type": "flex",
+                          "content_width": "full",
+                          "flex_direction": "column",
+                          "width": {
+                            "size": 50,
+                            "unit": "%"
+                          },
+                          "flex_align_items": "center"
+                        },
+                        "elements": [
+                          {
+                            "id": "cd995e0",
+                            "elType": "widget",
+                            "settings": {
+                              "text": "Learn More",
+                              "link": {
+                                "url": "/our-services"
+                              },
+                              "size": "lg",
+                              "background_color": "transparent",
+                              "button_text_color": "#1a1a2e",
+                              "border_border": "solid",
+                              "border_width": {
+                                "top": 2,
+                                "right": 2,
+                                "bottom": 2,
+                                "left": 2,
+                                "unit": "px",
+                                "isLinked": true
+                              },
+                              "border_color": "#1a1a2e",
+                              "typography_typography": "custom",
+                              "typography_font_weight": "600",
+                              "border_radius": {
+                                "top": 8,
+                                "right": 8,
+                                "bottom": 8,
+                                "left": 8,
+                                "unit": "px",
+                                "isLinked": true
+                              }
+                            },
+                            "elements": [],
+                            "widgetType": "button"
+                          }
+                        ],
+                        "isInner": true
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "014964c",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "left": 40,
+                    "right": 0,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "padding_mobile": {
+                    "top": 0,
+                    "bottom": 0,
+                    "left": 0,
+                    "right": 0,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "flex_justify_content": "center",
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "b33f9ef",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://images.unsplash.com/photo-1521791055366-0d5538922549?w=800&q=80",
+                        "id": ""
+                      },
+                      "image_size": "full",
+                      "border_radius": {
+                        "top": 16,
+                        "right": 16,
+                        "bottom": 16,
+                        "left": 16,
+                        "unit": "px",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

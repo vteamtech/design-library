@@ -1,0 +1,258 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 526,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:52:08Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "c739fdc",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "900",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "35d860e",
+            "elType": "widget",
+            "settings": {
+              "title": "Recent Articles",
+              "size": "36",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "bb9d42d",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "24",
+              "padding": {
+                "unit": "px",
+                "top": "20",
+                "bottom": "16",
+                "left": "0",
+                "right": "0"
+              },
+              "border_border": "solid",
+              "border_width": {
+                "unit": "px",
+                "bottom": "1"
+              },
+              "border_color": "#e5e5e5"
+            },
+            "elements": [
+              {
+                "id": "09e2649",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "30"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "4022d56",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/280x180/e8e8e8/999?text=Article+1"
+                      },
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "4",
+                        "right": "4",
+                        "bottom": "4",
+                        "left": "4"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "cdc9916",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "70"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "f81d16d",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#c8a951;font-size:12px'>PLANNING</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "3c152c1",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Essential Guide to Estate Planning",
+                      "size": "20",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "a2a6f8b",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666;font-size:14px'>Learn the key steps to protect your family's future and ensure your wishes are carried out.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "deb21b1",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "24",
+              "padding": {
+                "unit": "px",
+                "top": "16",
+                "bottom": "16",
+                "left": "0",
+                "right": "0"
+              },
+              "border_border": "solid",
+              "border_width": {
+                "unit": "px",
+                "bottom": "1"
+              },
+              "border_color": "#e5e5e5"
+            },
+            "elements": [
+              {
+                "id": "d6786e0",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "30"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "0b6e732",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/280x180/e8e8e8/999?text=Article+2"
+                      },
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "4",
+                        "right": "4",
+                        "bottom": "4",
+                        "left": "4"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "fc259a8",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "70"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "c7a91d6",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#c8a951;font-size:12px'>LEGAL</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "43c6245",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Understanding Power of Attorney",
+                      "size": "20",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "dbb37f8",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666;font-size:14px'>What you need to know about this important legal document and how to set it up.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

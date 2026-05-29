@@ -1,0 +1,164 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 514,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:58Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "d3ec6c0",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "48",
+            "right": "24",
+            "bottom": "48",
+            "left": "24"
+          },
+          "background_color": "#f8f6f0",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "f13f583",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "column",
+              "padding": {
+                "unit": "px",
+                "top": "40",
+                "right": "40",
+                "bottom": "40",
+                "left": "40"
+              },
+              "background_color": "#ffffff",
+              "border_radius": {
+                "unit": "px",
+                "top": "12",
+                "right": "12",
+                "bottom": "12",
+                "left": "12"
+              },
+              "box_shadow_box_shadow": {
+                "horizontal": 0,
+                "vertical": 4,
+                "blur": 20,
+                "spread": 0,
+                "color": "rgba(0,0,0,0.08)",
+                "position": "outset"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "ac86d28",
+                "elType": "widget",
+                "settings": {
+                  "title": "Join Our Newsletter",
+                  "size": "24",
+                  "align": "center",
+                  "typography_font_weight": "600"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "43c381f",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p style='text-align:center;color:#666'>No spam, just valuable insights. Unsubscribe anytime.</p>"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              },
+              {
+                "id": "2a2afc2",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "row",
+                  "gap": "8",
+                  "flex_justify_content": "center"
+                },
+                "elements": [
+                  {
+                    "id": "ddc9b8a",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "1756b5d",
+                        "elType": "widget",
+                        "settings": {
+                          "editor": "<div style='background:#f8f6f0;border-radius:4px;padding:12px 16px;color:#999;min-width:280px'>Enter your email address</div>"
+                        },
+                        "elements": [],
+                        "widgetType": "text-editor"
+                      }
+                    ],
+                    "isInner": true
+                  },
+                  {
+                    "id": "c6b9d3a",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "b878941",
+                        "elType": "widget",
+                        "settings": {
+                          "text": "Subscribe",
+                          "button_text_color": "#ffffff",
+                          "background_color": "#1a1a2e",
+                          "border_radius": {
+                            "unit": "px",
+                            "top": "4",
+                            "right": "4",
+                            "bottom": "4",
+                            "left": "4"
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "button"
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

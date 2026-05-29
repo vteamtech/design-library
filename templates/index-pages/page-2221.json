@@ -1,0 +1,2680 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 2221,
+  "category": "index-pages",
+  "exported_at": "2026-05-29T00:05:23Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "26dce3a",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "20",
+            "bottom": "40",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#0A0A0A",
+          "gap": {
+            "unit": "px",
+            "size": "12"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "071a481",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#FFFFFF;font-size:42px;font-weight:700;text-align:center;margin:0;'>Complete Design Library</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "d226d90",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#999999;font-size:16px;text-align:center;max-width:600px;margin:0 auto;'>160 editions across 32 design philosophies \u2014 original concepts and real-world brand studies</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "99207e0",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "40",
+            "right": "20",
+            "bottom": "20",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "8"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "2b45b74",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#333333;font-size:28px;font-weight:700;text-align:center;margin:0;'>Real-World Brand Studies</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "e8c3e8b",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#888888;font-size:14px;text-align:center;margin:0;'>Designs extracted from the world's best websites</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "5e7f7cf",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "af67384",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "eb5b1ca",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Stripe</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "88c3069",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "bd7e944",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1741' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1747' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1753' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1759' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1765' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "a584a26",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "7c47d1b",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "911ffb5",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Linear</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "0f0156b",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "03605af",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1771' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1777' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1783' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1789' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1795' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "f86d856",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "d7403b7",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "f7d2788",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Vercel</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "838c99a",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "eace3f8",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1801' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1807' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1813' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1819' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1825' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "d53956e",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "8137f55",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "d223afd",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Apple</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "05eb496",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "a8c043d",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1831' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1837' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1843' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1849' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1855' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "e5039fe",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "d1b325a",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "c1d0077",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Notion</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "243f150",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "00777f9",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1861' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1867' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1873' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1879' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1885' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "3941808",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "5084d1a",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "c13a4aa",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Framer</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "185f403",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "0510011",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1891' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1897' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1903' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1909' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1915' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "108b4c0",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "0f984c5",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "f89ad2c",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Spotify</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "dd0ca00",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "a586623",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1921' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1927' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1933' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1939' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1945' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "a3edffd",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "c8f4658",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "e96ae21",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Airbnb</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "2f119dd",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "1e149a5",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1951' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1957' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1963' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1969' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1975' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "f0bdae8",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "e4de0d6",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "12c3d61",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>SpaceX</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "85eba8e",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "cec4253",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1981' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1987' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1993' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1999' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=2005' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "7e8d022",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "37b2810",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "86cbe48",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>NVIDIA</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "236abf4",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "d000917",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=2011' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=2017' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=2023' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=2029' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=2035' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "6ce778b",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "2656b0d",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "ce0fcd1",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Coinbase</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "89d5669",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "df9178e",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=2041' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=2047' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=2053' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=2059' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=2065' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "8696174",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "10dbe18",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "abc4ae5",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>BMW</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "047c2e3",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "4f5df31",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=2071' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=2077' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=2083' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=2089' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=2095' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "3abc761",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "6fd3d0b",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "a4f6505",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Figma</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "ce2f0a0",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "58d8b8f",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=2101' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=2107' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=2113' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=2119' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=2125' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "87a6b12",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "3eb06d1",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "124a430",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Uber</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "ed68ff3",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "2ebe762",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=2131' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=2137' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=2143' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=2149' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=2155' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "9b96482",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "faeae97",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "dd0bac0",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>IBM</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "812bd83",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "15e232d",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=2161' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=2167' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=2173' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=2179' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=2185' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "957c793",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "51baa8f",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "ad811cc",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Zapier</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "d1d2133",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "096b29e",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=2191' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=2197' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=2203' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=2209' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=2215' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "53f73a3",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "40",
+            "right": "20",
+            "bottom": "20",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#F8F9FA",
+          "gap": {
+            "unit": "px",
+            "size": "8"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "12fef5c",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#333333;font-size:28px;font-weight:700;text-align:center;margin:0;'>Design Philosophy Series 1</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "7490792",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#888888;font-size:14px;text-align:center;margin:0;'>Original design language explorations</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "b6f9254",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#F8F9FA",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "cba2830",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "2ebd354",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Swiss/International</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "a1ae94d",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "d946e5d",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1253' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1259' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1265' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1271' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1277' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "87c9439",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#F8F9FA",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "6bed051",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "292012a",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Editorial/Magazine</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "e1d5437",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "a3192fa",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1283' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1289' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1295' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1301' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1307' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "040aab4",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#F8F9FA",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "e5f23e6",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "7d96bea",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Brutalist</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "06c5982",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "0437dcb",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1343' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1349' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1355' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1361' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1367' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "ec99c77",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#F8F9FA",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "e2138ea",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "ed189de",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Luxury/Premium</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "146a134",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "bc55ddf",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1373' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1379' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1385' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1391' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1397' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "919ac78",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#F8F9FA",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "d5aa78b",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "70eaa98",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Playful/Bubble</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "8ac7351",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "86c6b00",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1403' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1409' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1415' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1421' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1427' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "a42256b",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#F8F9FA",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "d22c4db",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "8710450",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Corporate/Enterprise</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "d1d3351",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "1aad409",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1433' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1439' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1445' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1451' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1457' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "2272206",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#F8F9FA",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "78224ca",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "58337f2",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Retro/Vintage</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "c25d5f4",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "8d666c2",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1463' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1469' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1475' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1481' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1487' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "94b1c83",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "40",
+            "right": "20",
+            "bottom": "20",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "8"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "3c9c5e7",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#333333;font-size:28px;font-weight:700;text-align:center;margin:0;'>Design Philosophy Series 2</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "1e450fd",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#888888;font-size:14px;text-align:center;margin:0;'>Extended visual language explorations</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "54ee107",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "0f662cc",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "e279109",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Art Deco</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "a41b36c",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "a59517e",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1497' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1503' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1509' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1515' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1521' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "7799738",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "b298cf3",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "a38758d",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Organic/Nature</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "75d4cf7",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "c62e7a4",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1557' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1563' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1569' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1575' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1581' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "3be5f1e",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "abcef7d",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "8a895c0",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Cyberpunk/Neon</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "2135976",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "a664d1e",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1587' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1593' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1599' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1605' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1611' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "3eba6cf",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "0d4dbc8",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "160ed4c",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Material Design</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "d214287",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "025f9c6",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1617' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1623' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1629' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1635' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1641' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "3df6453",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "e27c7d5",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "c81edcc",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Grunge/Distressed</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "0fc90f6",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "3259b19",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1647' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1653' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1659' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1665' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1671' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "58b09e0",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "12",
+            "right": "20",
+            "bottom": "12",
+            "left": "20"
+          },
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "gap": {
+            "unit": "px",
+            "size": "16"
+          },
+          "flex_wrap": "wrap",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "3ec9252",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "25"
+              },
+              "min-width": {
+                "unit": "px",
+                "size": "150"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "7de847c",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#1A1A1A;font-size:16px;font-weight:600;margin:0;'>Isometric/3D</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "edde5e3",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "width": {
+                "unit": "%",
+                "size": "75"
+              },
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": {
+                "unit": "px",
+                "size": "4"
+              }
+            },
+            "elements": [
+              {
+                "id": "f4d9c95",
+                "elType": "widget",
+                "settings": {
+                  "html": "<a href='/?p=1707' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Hero</a><a href='/?p=1713' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Features</a><a href='/?p=1719' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>CTA</a><a href='/?p=1725' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Testimonial</a><a href='/?p=1731' style='display:inline-block;padding:6px 14px;background:#F0F0F0;color:#333;text-decoration:none;border-radius:6px;font-size:12px;margin:2px;'>Footer</a>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

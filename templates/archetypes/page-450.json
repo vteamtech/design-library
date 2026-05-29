@@ -1,0 +1,161 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 450,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:07Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "65909e4",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "gap": "40",
+          "padding": {
+            "unit": "px",
+            "top": "48",
+            "right": "24",
+            "bottom": "48",
+            "left": "24"
+          },
+          "background_color": "#1a1a2e",
+          "boxed_width": "1140",
+          "flex_justify_content": "center"
+        },
+        "elements": [
+          {
+            "id": "50a8225",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "column",
+              "width": {
+                "size": 25,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "ce4b3ec",
+                "elType": "widget",
+                "settings": {
+                  "starting_number": 0,
+                  "ending_number": 500,
+                  "prefix": "",
+                  "suffix": "+",
+                  "title": "Happy Clients",
+                  "number_color": "#c8a951",
+                  "title_color": "#ffffff"
+                },
+                "elements": [],
+                "widgetType": "counter"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "fa5ef11",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "column",
+              "width": {
+                "size": 25,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "755aa4e",
+                "elType": "widget",
+                "settings": {
+                  "starting_number": 0,
+                  "ending_number": 15,
+                  "prefix": "",
+                  "suffix": "+",
+                  "title": "Years Experience",
+                  "number_color": "#c8a951",
+                  "title_color": "#ffffff"
+                },
+                "elements": [],
+                "widgetType": "counter"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "e0befd3",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "column",
+              "width": {
+                "size": 25,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "da4533e",
+                "elType": "widget",
+                "settings": {
+                  "starting_number": 0,
+                  "ending_number": 99,
+                  "prefix": "",
+                  "suffix": "%",
+                  "title": "Satisfaction Rate",
+                  "number_color": "#c8a951",
+                  "title_color": "#ffffff"
+                },
+                "elements": [],
+                "widgetType": "counter"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "4c565f2",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "column",
+              "width": {
+                "size": 25,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "e65160f",
+                "elType": "widget",
+                "settings": {
+                  "starting_number": 0,
+                  "ending_number": 1000,
+                  "prefix": "",
+                  "suffix": "+",
+                  "title": "Cases Handled",
+                  "number_color": "#c8a951",
+                  "title_color": "#ffffff"
+                },
+                "elements": [],
+                "widgetType": "counter"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

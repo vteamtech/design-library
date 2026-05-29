@@ -1,0 +1,92 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 483,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:34Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "d4aa854",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "800",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "74ffd8c",
+            "elType": "widget",
+            "settings": {
+              "title": "Frequently Asked Questions",
+              "size": "36",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "0310a91",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#666'>Find answers to common questions below</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "de3de6d",
+            "elType": "widget",
+            "settings": {
+              "tabs": [
+                {
+                  "tab_title": "What services do you offer?",
+                  "tab_content": "We offer a comprehensive range of services including consultations, planning, and ongoing support tailored to your specific needs."
+                },
+                {
+                  "tab_title": "How much does it cost?",
+                  "tab_content": "Our pricing varies based on the complexity and scope of your requirements. Contact us for a free initial consultation and personalized quote."
+                },
+                {
+                  "tab_title": "How long does the process take?",
+                  "tab_content": "Timelines vary depending on the service. Most standard processes are completed within 2-4 weeks. We will provide a clear timeline during your consultation."
+                },
+                {
+                  "tab_title": "Do I need to visit your office?",
+                  "tab_content": "No, we offer remote consultations via phone or video call. In-person meetings are available by appointment if preferred."
+                },
+                {
+                  "tab_title": "What areas do you cover?",
+                  "tab_content": "We serve clients across the UK. Our remote services are available nationwide, with in-person support in select regions."
+                }
+              ],
+              "border_border": "solid",
+              "border_width": {
+                "unit": "px",
+                "top": "1",
+                "right": "1",
+                "bottom": "1",
+                "left": "1"
+              },
+              "border_color": "#e5e5e5"
+            },
+            "elements": [],
+            "widgetType": "accordion"
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

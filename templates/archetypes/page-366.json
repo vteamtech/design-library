@@ -1,0 +1,340 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 366,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:57Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "eb38c04",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "unit": "px",
+            "isLinked": false
+          },
+          "background_background": "classic",
+          "background_color": "#ffffff",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "a9cf897",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "flex_direction_tablet": "column",
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "105f526",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "padding": {
+                    "top": 60,
+                    "bottom": 60,
+                    "left": 50,
+                    "right": 50,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "padding_mobile": {
+                    "top": 40,
+                    "bottom": 40,
+                    "left": 24,
+                    "right": 24,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "flex_justify_content": "center",
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "99cf191",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Trusted by Thousands",
+                      "header_size": "h2",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 36,
+                        "unit": "px"
+                      },
+                      "typography_font_size_mobile": {
+                        "size": 28,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "e9a6b17",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "2ffaa5a",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#555555'>Our track record speaks for itself. Here's what two decades of dedicated service looks like.</p>",
+                      "text_color": "#555555",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "e4ddd28",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 28,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "542c000",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "boxed",
+                      "flex_direction": "row",
+                      "flex_direction_mobile": "row",
+                      "gap": {
+                        "size": 32,
+                        "unit": "px"
+                      },
+                      "gap_mobile": {
+                        "size": 20,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [
+                      {
+                        "id": "bee3184",
+                        "elType": "container",
+                        "settings": {
+                          "container_type": "flex",
+                          "content_width": "full",
+                          "flex_direction": "column",
+                          "width": {
+                            "size": 33.33,
+                            "unit": "%"
+                          },
+                          "flex_align_items": "center"
+                        },
+                        "elements": [
+                          {
+                            "id": "cf33cf3",
+                            "elType": "widget",
+                            "settings": {
+                              "ending_number": 5000,
+                              "thousand_separator": "yes",
+                              "duration": 2000
+                            },
+                            "elements": [],
+                            "widgetType": "counter"
+                          },
+                          {
+                            "id": "cc40647",
+                            "elType": "widget",
+                            "settings": {
+                              "title": "Wills Drafted",
+                              "header_size": "h4",
+                              "title_color": "#555555",
+                              "typography_typography": "custom",
+                              "typography_font_size": {
+                                "size": 14,
+                                "unit": "px"
+                              },
+                              "typography_font_weight": "500",
+                              "align": "center",
+                              "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "widgetType": "heading"
+                          }
+                        ],
+                        "isInner": true
+                      },
+                      {
+                        "id": "f09296a",
+                        "elType": "container",
+                        "settings": {
+                          "container_type": "flex",
+                          "content_width": "full",
+                          "flex_direction": "column",
+                          "width": {
+                            "size": 33.33,
+                            "unit": "%"
+                          },
+                          "flex_align_items": "center"
+                        },
+                        "elements": [
+                          {
+                            "id": "fa3b958",
+                            "elType": "widget",
+                            "settings": {
+                              "ending_number": 20,
+                              "suffix": "+",
+                              "thousand_separator": "yes",
+                              "duration": 2000
+                            },
+                            "elements": [],
+                            "widgetType": "counter"
+                          },
+                          {
+                            "id": "3b1c466",
+                            "elType": "widget",
+                            "settings": {
+                              "title": "Years Experience",
+                              "header_size": "h4",
+                              "title_color": "#555555",
+                              "typography_typography": "custom",
+                              "typography_font_size": {
+                                "size": 14,
+                                "unit": "px"
+                              },
+                              "typography_font_weight": "500",
+                              "align": "center",
+                              "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "widgetType": "heading"
+                          }
+                        ],
+                        "isInner": true
+                      },
+                      {
+                        "id": "e702b8f",
+                        "elType": "container",
+                        "settings": {
+                          "container_type": "flex",
+                          "content_width": "full",
+                          "flex_direction": "column",
+                          "width": {
+                            "size": 33.33,
+                            "unit": "%"
+                          },
+                          "flex_align_items": "center"
+                        },
+                        "elements": [
+                          {
+                            "id": "3f121a3",
+                            "elType": "widget",
+                            "settings": {
+                              "ending_number": 99,
+                              "suffix": "%",
+                              "thousand_separator": "yes",
+                              "duration": 2000
+                            },
+                            "elements": [],
+                            "widgetType": "counter"
+                          },
+                          {
+                            "id": "a275a2d",
+                            "elType": "widget",
+                            "settings": {
+                              "title": "Client Satisfaction",
+                              "header_size": "h4",
+                              "title_color": "#555555",
+                              "typography_typography": "custom",
+                              "typography_font_size": {
+                                "size": 14,
+                                "unit": "px"
+                              },
+                              "typography_font_weight": "500",
+                              "align": "center",
+                              "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "widgetType": "heading"
+                          }
+                        ],
+                        "isInner": true
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "48c8461",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "min_height": {
+                    "size": 400,
+                    "unit": "px"
+                  },
+                  "background_background": "classic",
+                  "background_image": {
+                    "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+                    "id": ""
+                  },
+                  "background_size": "cover",
+                  "background_position": "center center",
+                  "flex_align_items": "center"
+                },
+                "elements": [],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

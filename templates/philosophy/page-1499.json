@@ -1,0 +1,132 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 1499,
+  "category": "philosophy",
+  "exported_at": "2026-05-28T23:53:48Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "353c630",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "full",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "90",
+            "right": "40",
+            "bottom": "90",
+            "left": "40"
+          },
+          "background_background": "classic",
+          "background_color": "#0A0A0A",
+          "gap": {
+            "unit": "px",
+            "size": "24"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "2b8bb52",
+            "elType": "widget",
+            "settings": {
+              "html": "<div style='width:60px;height:2px;background:#D4AF37;margin:0 auto;'></div>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "20bca66",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#F5E6C8;font-size:56px;font-weight:400;font-family:'Poiret One',sans-serif,serif;text-transform:uppercase;letter-spacing:6px;text-align:center;line-height:1.1;'>Design That Makes<br>a Statement</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "aa5f2d3",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#B8A88A;font-size:18px;font-weight:400;font-family:'Raleway',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:center;line-height:1.7;max-width:600px;margin:0 auto;'>Every great brand deserves a digital presence that reflects its unique character. We craft experiences that resonate.</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "3e22556",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": {
+                "unit": "px",
+                "size": "16"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "411ad76",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "59fa61d",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<a href='/contact' style='display:inline-block;padding:14px 36px;background:#D4AF37;color:#0A0A0A;text-decoration:none;font-weight:700;font-family:'Poiret One',sans-serif;text-transform:uppercase;letter-spacing:6px;border-radius:0px;font-size:15px;'>Get Started</a>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "f038959",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "8bb7433",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<a href='/about' style='display:inline-block;padding:14px 36px;background:transparent;color:#F5E6C8;text-decoration:none;font-weight:600;border:2px solid #F5E6C8;border-radius:0px;font-size:15px;'>Learn More</a>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

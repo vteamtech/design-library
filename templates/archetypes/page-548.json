@@ -1,0 +1,52 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 548,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:52:25Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "2fcad63",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "48",
+            "right": "24",
+            "bottom": "48",
+            "left": "24"
+          },
+          "background_color": "#f8f6f0",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "58958c0",
+            "elType": "widget",
+            "settings": {
+              "title": "Page Title",
+              "size": "36",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "12fe4b2",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#999'>Home / Page Title</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

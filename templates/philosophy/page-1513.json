@@ -1,0 +1,63 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 1513,
+  "category": "philosophy",
+  "exported_at": "2026-05-28T23:53:54Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "890296e",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "70",
+            "right": "40",
+            "bottom": "70",
+            "left": "40"
+          },
+          "background_background": "classic",
+          "background_color": "#050505",
+          "gap": {
+            "unit": "px",
+            "size": "24"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "7d90d47",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#F5E6C8;font-size:40px;font-weight:400;font-family:'Poiret One',sans-serif,serif;text-transform:uppercase;letter-spacing:6px;text-align:center;line-height:1.2;'>Ready to Get Started?</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "09f0920",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#B8A88A;font-size:16px;font-weight:400;font-family:'Raleway',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:center;line-height:1.6;max-width:500px;'>Take the first step. We'll handle the rest with care and precision.</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "8ca5c74",
+            "elType": "widget",
+            "settings": {
+              "html": "<div style='text-align:center;'><a href='/contact' style='display:inline-block;padding:14px 40px;background:#D4AF37;color:#050505;text-decoration:none;font-weight:700;font-family:'Poiret One',sans-serif;border-radius:0px;font-size:15px;'>Contact Us Today</a></div>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

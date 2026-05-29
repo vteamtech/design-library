@@ -1,0 +1,353 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 480,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:31Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "0226563",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "602a0c7",
+            "elType": "widget",
+            "settings": {
+              "title": "Get Started Free",
+              "size": "36",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "bbbb80f",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#666'>No credit card required</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "4528b9f",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "32",
+              "padding": {
+                "unit": "px",
+                "top": "32",
+                "right": "0",
+                "bottom": "0",
+                "left": "0"
+              },
+              "flex_justify_content": "center",
+              "flex_align_items": "stretch"
+            },
+            "elements": [
+              {
+                "id": "49ed5c4",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "padding": {
+                    "unit": "px",
+                    "top": "32",
+                    "right": "28",
+                    "bottom": "32",
+                    "left": "28"
+                  },
+                  "background_color": "#f8f6f0",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "12",
+                    "right": "12",
+                    "bottom": "12",
+                    "left": "12"
+                  },
+                  "width": {
+                    "unit": "%",
+                    "size": "40"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "9506e37",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Free",
+                      "size": "22",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "4331f51",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "\u00a30",
+                      "size": "42",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "2628b37",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#999'>forever free</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "a047f4f",
+                    "elType": "widget",
+                    "settings": {
+                      "color": "#e5e5e5",
+                      "weight": {
+                        "unit": "px",
+                        "size": "1"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "divider"
+                  },
+                  {
+                    "id": "0daf2b4",
+                    "elType": "widget",
+                    "settings": {
+                      "icon_list": [
+                        {
+                          "text": "5 Projects",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        },
+                        {
+                          "text": "Basic Support",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        },
+                        {
+                          "text": "1 GB Storage",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        }
+                      ]
+                    },
+                    "elements": [],
+                    "widgetType": "icon-list"
+                  },
+                  {
+                    "id": "39c6622",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Sign Up Free",
+                      "button_text_color": "#1a1a2e",
+                      "background_color": "#ffffff",
+                      "border_border": "solid",
+                      "border_width": {
+                        "unit": "px",
+                        "top": "2",
+                        "right": "2",
+                        "bottom": "2",
+                        "left": "2"
+                      },
+                      "border_color": "#1a1a2e",
+                      "align": "stretch",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "6",
+                        "right": "6",
+                        "bottom": "6",
+                        "left": "6"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "86bc128",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "padding": {
+                    "unit": "px",
+                    "top": "32",
+                    "right": "28",
+                    "bottom": "32",
+                    "left": "28"
+                  },
+                  "background_color": "#1a1a2e",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "12",
+                    "right": "12",
+                    "bottom": "12",
+                    "left": "12"
+                  },
+                  "width": {
+                    "unit": "%",
+                    "size": "40"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "9416c71",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Enterprise",
+                      "size": "22",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "586274c",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Custom",
+                      "size": "42",
+                      "title_color": "#ffffff",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "6bbe8e2",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#cccccc'>tailored to your needs</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "ef99643",
+                    "elType": "widget",
+                    "settings": {
+                      "color": "#333366",
+                      "weight": {
+                        "unit": "px",
+                        "size": "1"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "divider"
+                  },
+                  {
+                    "id": "3612058",
+                    "elType": "widget",
+                    "settings": {
+                      "icon_list": [
+                        {
+                          "text": "Unlimited Projects",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        },
+                        {
+                          "text": "24/7 Support",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        },
+                        {
+                          "text": "Unlimited Storage",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        },
+                        {
+                          "text": "Custom Integrations",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        }
+                      ]
+                    },
+                    "elements": [],
+                    "widgetType": "icon-list"
+                  },
+                  {
+                    "id": "f00bf2b",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Contact Sales",
+                      "button_text_color": "#1a1a2e",
+                      "background_color": "#c8a951",
+                      "align": "stretch",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "6",
+                        "right": "6",
+                        "bottom": "6",
+                        "left": "6"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

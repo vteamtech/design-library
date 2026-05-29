@@ -1,0 +1,367 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 439,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:59Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "1650812",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "7b650a5",
+            "elType": "widget",
+            "settings": {
+              "title": "Powerful Features",
+              "size": "36",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "f4dfea4",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#666'>See what our platform can do for you</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "64c0b2e",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "24",
+              "padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0"
+              }
+            },
+            "elements": [
+              {
+                "id": "34dc3d6",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0"
+                  },
+                  "background_color": "#ffffff",
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1"
+                  },
+                  "border_color": "#e5e5e5",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "8",
+                    "right": "8",
+                    "bottom": "8",
+                    "left": "8"
+                  },
+                  "overflow": "hidden",
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "1ff5725",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/600x400/f0f0f0/999?text=Dashboard",
+                        "alt": "Screenshot"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": "100"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "9d6aca4",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "boxed",
+                      "flex_direction": "column",
+                      "padding": {
+                        "unit": "px",
+                        "top": "20",
+                        "right": "20",
+                        "bottom": "20",
+                        "left": "20"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "5250cac",
+                        "elType": "widget",
+                        "settings": {
+                          "title": "Intuitive Dashboard",
+                          "size": "20",
+                          "typography_font_weight": "600"
+                        },
+                        "elements": [],
+                        "widgetType": "heading"
+                      },
+                      {
+                        "id": "ec90669",
+                        "elType": "widget",
+                        "settings": {
+                          "editor": "<p style='color:#666'>Manage everything from a clean interface designed for speed.</p>"
+                        },
+                        "elements": [],
+                        "widgetType": "text-editor"
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "801e600",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0"
+                  },
+                  "background_color": "#ffffff",
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1"
+                  },
+                  "border_color": "#e5e5e5",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "8",
+                    "right": "8",
+                    "bottom": "8",
+                    "left": "8"
+                  },
+                  "overflow": "hidden",
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "87c7dd5",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/600x400/f0f0f0/999?text=Analytics",
+                        "alt": "Screenshot"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": "100"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "d7af0b6",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "boxed",
+                      "flex_direction": "column",
+                      "padding": {
+                        "unit": "px",
+                        "top": "20",
+                        "right": "20",
+                        "bottom": "20",
+                        "left": "20"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "6f42a8b",
+                        "elType": "widget",
+                        "settings": {
+                          "title": "Real-time Analytics",
+                          "size": "20",
+                          "typography_font_weight": "600"
+                        },
+                        "elements": [],
+                        "widgetType": "heading"
+                      },
+                      {
+                        "id": "6e71d49",
+                        "elType": "widget",
+                        "settings": {
+                          "editor": "<p style='color:#666'>Track performance with live data and insights.</p>"
+                        },
+                        "elements": [],
+                        "widgetType": "text-editor"
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "14e065e",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0"
+                  },
+                  "background_color": "#ffffff",
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1"
+                  },
+                  "border_color": "#e5e5e5",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "8",
+                    "right": "8",
+                    "bottom": "8",
+                    "left": "8"
+                  },
+                  "overflow": "hidden",
+                  "width": {
+                    "size": 33.33,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "9a94be2",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/600x400/f0f0f0/999?text=Settings",
+                        "alt": "Screenshot"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": "100"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "c40a384",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "boxed",
+                      "flex_direction": "column",
+                      "padding": {
+                        "unit": "px",
+                        "top": "20",
+                        "right": "20",
+                        "bottom": "20",
+                        "left": "20"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "82ec49e",
+                        "elType": "widget",
+                        "settings": {
+                          "title": "Easy Configuration",
+                          "size": "20",
+                          "typography_font_weight": "600"
+                        },
+                        "elements": [],
+                        "widgetType": "heading"
+                      },
+                      {
+                        "id": "1560ce4",
+                        "elType": "widget",
+                        "settings": {
+                          "editor": "<p style='color:#666'>Customize every aspect to fit your workflow.</p>"
+                        },
+                        "elements": [],
+                        "widgetType": "text-editor"
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 475,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:27Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "4e8fcc0",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "800",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "06e7b83",
+            "elType": "widget",
+            "settings": {
+              "title": "Choose Your Plan",
+              "size": "36",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "8907829",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "32",
+              "padding": {
+                "unit": "px",
+                "top": "32",
+                "right": "0",
+                "bottom": "0",
+                "left": "0"
+              },
+              "flex_align_items": "flex-start"
+            },
+            "elements": [
+              {
+                "id": "6dab482",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "padding": {
+                    "unit": "px",
+                    "top": "32",
+                    "right": "28",
+                    "bottom": "32",
+                    "left": "28"
+                  },
+                  "background_color": "#ffffff",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "12",
+                    "right": "12",
+                    "bottom": "12",
+                    "left": "12"
+                  },
+                  "box_shadow_box_shadow": {
+                    "horizontal": 0,
+                    "vertical": 4,
+                    "blur": 20,
+                    "spread": 0,
+                    "color": "rgba(0,0,0,0.08)",
+                    "position": "outset"
+                  },
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "7b6fa3f",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Standard",
+                      "size": "22",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "f3b647a",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "\u00a329",
+                      "size": "42",
+                      "title_color": "#1a1a2e",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "78bd6fe",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#999;font-size:14px'>per month</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "6c908aa",
+                    "elType": "widget",
+                    "settings": {
+                      "style": "solid",
+                      "weight": {
+                        "unit": "px",
+                        "size": "1"
+                      },
+                      "color": "#e5e5e5"
+                    },
+                    "elements": [],
+                    "widgetType": "divider"
+                  },
+                  {
+                    "id": "7e77372",
+                    "elType": "widget",
+                    "settings": {
+                      "icon_list": [
+                        {
+                          "text": "5 Projects",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        },
+                        {
+                          "text": "Basic Support",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        },
+                        {
+                          "text": "1 GB Storage",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        }
+                      ]
+                    },
+                    "elements": [],
+                    "widgetType": "icon-list"
+                  },
+                  {
+                    "id": "6c08072",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Choose Plan",
+                      "button_text_color": "#1a1a2e",
+                      "background_color": "transparent",
+                      "border_border": "solid",
+                      "border_width": {
+                        "unit": "px",
+                        "top": "2",
+                        "right": "2",
+                        "bottom": "2",
+                        "left": "2"
+                      },
+                      "border_color": "#1a1a2e",
+                      "align": "stretch",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "6",
+                        "right": "6",
+                        "bottom": "6",
+                        "left": "6"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "cf4a4a7",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "padding": {
+                    "unit": "px",
+                    "top": "32",
+                    "right": "28",
+                    "bottom": "32",
+                    "left": "28"
+                  },
+                  "background_color": "#ffffff",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "12",
+                    "right": "12",
+                    "bottom": "12",
+                    "left": "12"
+                  },
+                  "box_shadow_box_shadow": {
+                    "horizontal": 0,
+                    "vertical": 4,
+                    "blur": 20,
+                    "spread": 0,
+                    "color": "rgba(0,0,0,0.08)",
+                    "position": "outset"
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "2",
+                    "right": "2",
+                    "bottom": "2",
+                    "left": "2"
+                  },
+                  "border_color": "#c8a951",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "7fe2375",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Premium",
+                      "size": "22",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "4572243",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "\u00a359",
+                      "size": "42",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "bfc8ca1",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#999;font-size:14px'>per month</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "5a91196",
+                    "elType": "widget",
+                    "settings": {
+                      "style": "solid",
+                      "weight": {
+                        "unit": "px",
+                        "size": "1"
+                      },
+                      "color": "#e5e5e5"
+                    },
+                    "elements": [],
+                    "widgetType": "divider"
+                  },
+                  {
+                    "id": "5a35ed5",
+                    "elType": "widget",
+                    "settings": {
+                      "icon_list": [
+                        {
+                          "text": "25 Projects",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        },
+                        {
+                          "text": "Priority Support",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        },
+                        {
+                          "text": "10 GB Storage",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        },
+                        {
+                          "text": "Analytics",
+                          "selected_icon": {
+                            "value": "fas fa-check",
+                            "library": "fa-solid"
+                          },
+                          "icon_color": "#c8a951"
+                        }
+                      ]
+                    },
+                    "elements": [],
+                    "widgetType": "icon-list"
+                  },
+                  {
+                    "id": "92b39cb",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Get Started",
+                      "button_text_color": "#ffffff",
+                      "background_color": "#c8a951",
+                      "border_border": "",
+                      "border_width": [],
+                      "border_color": "",
+                      "align": "stretch",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "6",
+                        "right": "6",
+                        "bottom": "6",
+                        "left": "6"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

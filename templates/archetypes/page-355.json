@@ -1,0 +1,274 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 355,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:48Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "412edd3",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "background_background": "classic",
+          "background_color": "#1a1a2e",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "db113c6",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "column",
+              "text_align": "center",
+              "padding": {
+                "top": 60,
+                "bottom": 60,
+                "left": 40,
+                "right": 40,
+                "unit": "px",
+                "isLinked": false
+              },
+              "padding_mobile": {
+                "top": 40,
+                "bottom": 40,
+                "left": 20,
+                "right": 20,
+                "unit": "px",
+                "isLinked": false
+              },
+              "border_border": "solid",
+              "border_width": {
+                "top": 0,
+                "right": 0,
+                "bottom": 1,
+                "left": 0,
+                "unit": "px",
+                "isLinked": false
+              },
+              "border_color": "#333355",
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "0ec43d1",
+                "elType": "widget",
+                "settings": {
+                  "title": "Ready to Get Started?",
+                  "header_size": "h2",
+                  "title_color": "#ffffff",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "size": 34,
+                    "unit": "px"
+                  },
+                  "typography_font_size_mobile": {
+                    "size": 26,
+                    "unit": "px"
+                  },
+                  "typography_font_weight": "700",
+                  "align": "center",
+                  "align_mobile": "center"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "fb04822",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p style='color:#cccccc'>Book a free, no-obligation consultation with our expert team.</p>",
+                  "text_color": "#cccccc",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "size": 17,
+                    "unit": "px"
+                  },
+                  "align": "center",
+                  "align_mobile": "center"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              },
+              {
+                "id": "888fa30",
+                "elType": "widget",
+                "settings": {
+                  "space": {
+                    "size": 24,
+                    "unit": "px"
+                  }
+                },
+                "elements": [],
+                "widgetType": "spacer"
+              },
+              {
+                "id": "500c250",
+                "elType": "widget",
+                "settings": {
+                  "text": "Book Your Free Consultation",
+                  "link": {
+                    "url": "/contact-us"
+                  },
+                  "size": "lg",
+                  "background_color": "#c8a951",
+                  "button_text_color": "#1a1a2e",
+                  "typography_typography": "custom",
+                  "typography_font_weight": "700",
+                  "border_radius": {
+                    "top": 8,
+                    "right": 8,
+                    "bottom": 8,
+                    "left": 8,
+                    "unit": "px",
+                    "isLinked": true
+                  }
+                },
+                "elements": [],
+                "widgetType": "button"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "4ec00c9",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "padding": {
+                "top": 40,
+                "bottom": 30,
+                "left": 40,
+                "right": 40,
+                "unit": "px",
+                "isLinked": false
+              },
+              "padding_mobile": {
+                "top": 30,
+                "bottom": 20,
+                "left": 20,
+                "right": 20,
+                "unit": "px",
+                "isLinked": false
+              },
+              "flex_justify_content": "space-between"
+            },
+            "elements": [
+              {
+                "id": "bffe6c2",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "b7aba4b",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Will Instructions",
+                      "header_size": "h3",
+                      "title_color": "#ffffff",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 20,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "39cd416",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 8,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "4a5ca63",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#aaaaaa;font-size:14px'>Professional will writing and estate planning services across the UK.</p>",
+                      "text_color": "#aaaaaa",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 14,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "bb8b2ff",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "align_items_mobile": "center",
+                  "flex_align_items": "flex-end"
+                },
+                "elements": [
+                  {
+                    "id": "0697b8e",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#888888;font-size:13px'>&copy; 2025 Will Instructions. All rights reserved.</p>",
+                      "text_color": "#888888",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 13,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

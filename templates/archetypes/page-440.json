@@ -1,0 +1,416 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 440,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:59Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "f9d2696",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "1760051",
+            "elType": "widget",
+            "settings": {
+              "title": "Why Choose Us",
+              "size": "36",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "e090661",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#666'>Discover the advantages that set us apart</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "4ad9476",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "40",
+              "padding": {
+                "unit": "px",
+                "top": "20",
+                "bottom": "40",
+                "left": "0",
+                "right": "0"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "7821492",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "e7dc6e7",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/560x380/f0f0f0/999?text=Feature+One"
+                      },
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "8",
+                        "right": "8",
+                        "bottom": "8",
+                        "left": "8"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "ba6211d",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "a547bb5",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Expert Guidance",
+                      "size": "28",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "a41f381",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666'>Our team of specialists provides personalized advice tailored to your unique situation.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "4793847",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Learn More",
+                      "size": "sm",
+                      "button_text_color": "#c8a951",
+                      "background_color": "transparent",
+                      "border_border": "solid",
+                      "border_width": {
+                        "unit": "px",
+                        "top": "2",
+                        "right": "2",
+                        "bottom": "2",
+                        "left": "2"
+                      },
+                      "border_color": "#c8a951",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "4",
+                        "right": "4",
+                        "bottom": "4",
+                        "left": "4"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "ccbac5e",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "40",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "bottom": "40",
+                "left": "0",
+                "right": "0"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "b9642a8",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "dbc7a55",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Trusted Experience",
+                      "size": "28",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "21b4baa",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666'>Over a decade of experience serving our community with integrity and care.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "da0e2b5",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Learn More",
+                      "size": "sm",
+                      "button_text_color": "#c8a951",
+                      "background_color": "transparent",
+                      "border_border": "solid",
+                      "border_width": {
+                        "unit": "px",
+                        "top": "2",
+                        "right": "2",
+                        "bottom": "2",
+                        "left": "2"
+                      },
+                      "border_color": "#c8a951",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "4",
+                        "right": "4",
+                        "bottom": "4",
+                        "left": "4"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "3134dcf",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "92e8411",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/560x380/f0f0f0/999?text=Feature+Two"
+                      },
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "8",
+                        "right": "8",
+                        "bottom": "8",
+                        "left": "8"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "e18ae20",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "40",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "bottom": "0",
+                "left": "0",
+                "right": "0"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "26718af",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "3abb1b6",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/560x380/f0f0f0/999?text=Feature+Three"
+                      },
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "8",
+                        "right": "8",
+                        "bottom": "8",
+                        "left": "8"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "49331b7",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "89d3373",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Dedicated Support",
+                      "size": "28",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "342fcee",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666'>From consultation to completion, we are committed to being there when you need us.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "db371a4",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Learn More",
+                      "size": "sm",
+                      "button_text_color": "#c8a951",
+                      "background_color": "transparent",
+                      "border_border": "solid",
+                      "border_width": {
+                        "unit": "px",
+                        "top": "2",
+                        "right": "2",
+                        "bottom": "2",
+                        "left": "2"
+                      },
+                      "border_color": "#c8a951",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "4",
+                        "right": "4",
+                        "bottom": "4",
+                        "left": "4"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

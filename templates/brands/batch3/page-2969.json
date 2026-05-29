@@ -1,0 +1,210 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 2969,
+  "category": "brands-batch3",
+  "exported_at": "2026-05-29T00:02:51Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "4f87dbd",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "full",
+          "flex_direction": "row",
+          "padding": {
+            "unit": "px",
+            "top": "50",
+            "right": "40",
+            "bottom": "30",
+            "left": "40"
+          },
+          "background_background": "classic",
+          "background_color": "#0A0A0A",
+          "gap": {
+            "unit": "px",
+            "size": "0"
+          },
+          "flex_wrap": "wrap"
+        },
+        "elements": [
+          {
+            "id": "39daa32",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "column",
+              "width": {
+                "unit": "%",
+                "size": 25
+              },
+              "gap": {
+                "unit": "px",
+                "size": "12"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "94cc393",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#FFFFFF;font-size:12px;font-weight:700;font-family:monospace,sans-serif,serif;text-transform:uppercase;letter-spacing:1px;text-align:left;line-height:1.6;'>COMPANY</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              },
+              {
+                "id": "1cae55c",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#999999;font-size:13px;font-weight:400;font-family:monospace,sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Building exceptional digital experiences since 2024.</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "4ffa161",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "column",
+              "width": {
+                "unit": "%",
+                "size": 25
+              },
+              "gap": {
+                "unit": "px",
+                "size": "12"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "fb8d924",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#FFFFFF;font-size:12px;font-weight:700;font-family:monospace,sans-serif,serif;text-transform:uppercase;letter-spacing:1px;text-align:left;line-height:1.6;'>NAVIGATION</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              },
+              {
+                "id": "18d105a",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#999999;font-size:13px;font-weight:400;font-family:monospace,sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Home<br>About<br>Services<br>Contact</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "912b80d",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "column",
+              "width": {
+                "unit": "%",
+                "size": 25
+              },
+              "gap": {
+                "unit": "px",
+                "size": "12"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "32b5f81",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#FFFFFF;font-size:12px;font-weight:700;font-family:monospace,sans-serif,serif;text-transform:uppercase;letter-spacing:1px;text-align:left;line-height:1.6;'>SERVICES</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              },
+              {
+                "id": "10eca9b",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#999999;font-size:13px;font-weight:400;font-family:monospace,sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Strategy<br>Design<br>Build<br>Support</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "dbba775",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "column",
+              "width": {
+                "unit": "%",
+                "size": 25
+              },
+              "gap": {
+                "unit": "px",
+                "size": "12"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "73b4c7f",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#FFFFFF;font-size:12px;font-weight:700;font-family:monospace,sans-serif,serif;text-transform:uppercase;letter-spacing:1px;text-align:left;line-height:1.6;'>CONTACT</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              },
+              {
+                "id": "7a3721e",
+                "elType": "widget",
+                "settings": {
+                  "html": "<p style='color:#999999;font-size:13px;font-weight:400;font-family:monospace,sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>hello@company.com<br>+44 20 1234 5678</p>"
+                },
+                "elements": [],
+                "widgetType": "html"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "a86478e",
+        "elType": "widget",
+        "settings": {
+          "html": "<div style='height:1px;background:#FFFFFF33;margin:0 40px;'></div>"
+        },
+        "elements": [],
+        "widgetType": "html"
+      },
+      {
+        "id": "a74f6a7",
+        "elType": "widget",
+        "settings": {
+          "html": "<p style='color:#999999;font-size:11px;font-weight:400;font-family:monospace,sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:center;line-height:1.6;padding:15px 40px 25px;'>\u00a9 2024 Company. All rights reserved.</p>"
+        },
+        "elements": [],
+        "widgetType": "html"
+      }
+    ]
+  }
+}

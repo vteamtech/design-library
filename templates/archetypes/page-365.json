@@ -1,0 +1,256 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 365,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:56Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "8d06a02",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "unit": "px",
+            "isLinked": false
+          },
+          "background_background": "classic",
+          "background_color": "#f8f6f0",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "1ee1db6",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "flex_direction_tablet": "column",
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "547bfbb",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "padding": {
+                    "top": 60,
+                    "bottom": 60,
+                    "left": 50,
+                    "right": 50,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "padding_mobile": {
+                    "top": 40,
+                    "bottom": 40,
+                    "left": 24,
+                    "right": 24,
+                    "unit": "px",
+                    "isLinked": false
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "a3fc30f",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "\"We couldn't have asked for better guidance.\"",
+                      "header_size": "h2",
+                      "title_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 32,
+                        "unit": "px"
+                      },
+                      "typography_font_size_mobile": {
+                        "size": 24,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "400",
+                      "typography_font_style": "italic"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "72a9010",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 24,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "dc70444",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "boxed",
+                      "flex_direction": "row",
+                      "gap": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "98f9479",
+                        "elType": "container",
+                        "settings": {
+                          "container_type": "flex",
+                          "content_width": "full",
+                          "flex_direction": "column",
+                          "width": {
+                            "size": 50,
+                            "unit": "%"
+                          },
+                          "flex_align_items": "center"
+                        },
+                        "elements": [
+                          {
+                            "id": "69ef3c7",
+                            "elType": "widget",
+                            "settings": {
+                              "image": {
+                                "url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80",
+                                "id": ""
+                              },
+                              "image_size": "thumbnail",
+                              "border_radius": {
+                                "top": 50,
+                                "right": 50,
+                                "bottom": 50,
+                                "left": 50,
+                                "unit": "px",
+                                "isLinked": true
+                              },
+                              "width": {
+                                "size": 56,
+                                "unit": "px"
+                              }
+                            },
+                            "elements": [],
+                            "widgetType": "image"
+                          }
+                        ],
+                        "isInner": true
+                      },
+                      {
+                        "id": "4d8c209",
+                        "elType": "container",
+                        "settings": {
+                          "container_type": "flex",
+                          "content_width": "full",
+                          "flex_direction": "column",
+                          "width": {
+                            "size": 50,
+                            "unit": "%"
+                          },
+                          "flex_align_items": "center"
+                        },
+                        "elements": [
+                          {
+                            "id": "eb0ed8b",
+                            "elType": "widget",
+                            "settings": {
+                              "title": "Sarah Mitchell",
+                              "header_size": "h4",
+                              "title_color": "#1a1a2e",
+                              "typography_typography": "custom",
+                              "typography_font_size": {
+                                "size": 16,
+                                "unit": "px"
+                              },
+                              "typography_font_weight": "600"
+                            },
+                            "elements": [],
+                            "widgetType": "heading"
+                          },
+                          {
+                            "id": "89c4381",
+                            "elType": "widget",
+                            "settings": {
+                              "editor": "<p style='color:#888888;font-size:14px;margin:0'>Client, London</p>",
+                              "text_color": "#888888",
+                              "typography_typography": "custom",
+                              "typography_font_size": {
+                                "size": 14,
+                                "unit": "px"
+                              }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                          }
+                        ],
+                        "isInner": true
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "2cedf61",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "min_height": {
+                    "size": 400,
+                    "unit": "px"
+                  },
+                  "background_background": "classic",
+                  "background_image": {
+                    "url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800&q=80",
+                    "id": ""
+                  },
+                  "background_size": "cover",
+                  "background_position": "center center",
+                  "flex_align_items": "center"
+                },
+                "elements": [],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

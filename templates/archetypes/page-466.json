@@ -1,0 +1,63 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 466,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:20Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "127967b",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "29569ce",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='text-align:center;font-size:48px;color:#c8a951;line-height:1'>\u275d</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "751dece",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='text-align:center;font-size:20px;color:#333;max-width:600px;line-height:1.6'>Outstanding service from start to finish. The team was professional, knowledgeable, and truly cared about our needs.</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "45fc2b7",
+            "elType": "widget",
+            "settings": {
+              "title": "\u2014 Jane Doe",
+              "size": "16",
+              "align": "center",
+              "title_color": "#999",
+              "typography_font_weight": "400"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

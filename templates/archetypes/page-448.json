@@ -1,0 +1,409 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 448,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:06Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "1978f2b",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "background_color": "#1a1a2e",
+          "padding": {
+            "unit": "px",
+            "top": "48",
+            "right": "24",
+            "bottom": "24",
+            "left": "24"
+          },
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "073d694",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "32",
+              "flex_justify_content": "space-between"
+            },
+            "elements": [
+              {
+                "id": "c5b2c4d",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "20"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "0cd57c8",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Company",
+                      "size": "16",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "1619e88",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#ffffff'><a href='#'>About Us</a><br><a href='#'>Our Team</a><br><a href='#'>Careers</a><br><a href='#'>Contact</a></p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "2231018",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "20"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "8e66ace",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Services",
+                      "size": "16",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "0ff8393",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#ffffff'><a href='#'>Wills</a><br><a href='#'>Power of Attorney</a><br><a href='#'>Tax Planning</a><br><a href='#'>Probate</a></p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "ff87918",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "20"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "a3dbe3b",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Resources",
+                      "size": "16",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "253f3ac",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#ffffff'><a href='#'>Blog</a><br><a href='#'>FAQs</a><br><a href='#'>Guides</a><br><a href='#'>Case Studies</a></p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "4ece024",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "20"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "ed2b63e",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Legal",
+                      "size": "16",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "227d9db",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#ffffff'><a href='#'>Privacy Policy</a><br><a href='#'>Terms</a><br><a href='#'>Cookies</a></p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "b4681ae",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "20"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "6da79e8",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Contact",
+                      "size": "16",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "6859ab8",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#ffffff'>01onal 234 5678<br>hello@example.com<br>123 High Street, London</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "4aca342",
+            "elType": "widget",
+            "settings": {
+              "color": "#ffffff",
+              "weight": {
+                "unit": "px",
+                "size": "1"
+              },
+              "opacity": 0.1
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "5c2a8b3",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_justify_content": "space-between",
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "6c882d1",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "0cf655d",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#999;font-size:13px'>\u00a9 2026 Company Name. All rights reserved.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "e8e13a1",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "row",
+                  "gap": "16",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "9c62b87",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 33.33,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "c0ce8c1",
+                        "elType": "widget",
+                        "settings": {
+                          "selected_icon": {
+                            "value": "fab fa-facebook-f",
+                            "library": "fa-brands"
+                          },
+                          "primary_color": "#999",
+                          "size": {
+                            "unit": "px",
+                            "size": "16"
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "icon"
+                      }
+                    ],
+                    "isInner": true
+                  },
+                  {
+                    "id": "eba4836",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 33.33,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "316a933",
+                        "elType": "widget",
+                        "settings": {
+                          "selected_icon": {
+                            "value": "fab fa-twitter",
+                            "library": "fa-brands"
+                          },
+                          "primary_color": "#999",
+                          "size": {
+                            "unit": "px",
+                            "size": "16"
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "icon"
+                      }
+                    ],
+                    "isInner": true
+                  },
+                  {
+                    "id": "dfb92a1",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 33.33,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "95b84b6",
+                        "elType": "widget",
+                        "settings": {
+                          "selected_icon": {
+                            "value": "fab fa-linkedin-in",
+                            "library": "fa-brands"
+                          },
+                          "primary_color": "#999",
+                          "size": {
+                            "unit": "px",
+                            "size": "16"
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "icon"
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 547,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:52:24Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "d129581",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#1a1a2e",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "add817e",
+            "elType": "widget",
+            "settings": {
+              "title": "Page Title",
+              "size": "42",
+              "align": "center",
+              "title_color": "#ffffff",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "6734d2f",
+            "elType": "widget",
+            "settings": {
+              "weight": {
+                "unit": "px",
+                "size": "3"
+              },
+              "color": "#c8a951",
+              "align": "center"
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "0edcb88",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#cccccc'>Home / Services / Page Title</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

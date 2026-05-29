@@ -1,0 +1,74 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 484,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:34Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "14d9022",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#f8f6f0",
+          "boxed_width": "800",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "c91cb08",
+            "elType": "widget",
+            "settings": {
+              "title": "Common Questions",
+              "size": "36",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "9b50da1",
+            "elType": "widget",
+            "settings": {
+              "tabs": [
+                {
+                  "tab_title": "What services do you offer?",
+                  "tab_content": "We offer a comprehensive range of services including consultations, planning, and ongoing support."
+                },
+                {
+                  "tab_title": "How much does it cost?",
+                  "tab_content": "Pricing varies. Contact us for a free consultation and personalized quote."
+                },
+                {
+                  "tab_title": "How long does it take?",
+                  "tab_content": "Most processes are completed within 2-4 weeks."
+                },
+                {
+                  "tab_title": "Do you offer remote consultations?",
+                  "tab_content": "Yes, we offer remote consultations via phone or video call nationwide."
+                },
+                {
+                  "tab_title": "What areas do you cover?",
+                  "tab_content": "We serve clients across the entire UK."
+                }
+              ]
+            },
+            "elements": [],
+            "widgetType": "toggle"
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

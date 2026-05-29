@@ -1,0 +1,50 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 471,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:24Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "ecabf51",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "40",
+            "right": "24",
+            "bottom": "40",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "5afe35b",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='border-left:4px solid #c8a951;padding-left:20px;font-size:18px;color:#333;font-style:italic;line-height:1.6'>\"Outstanding service from start to finish. The team was professional and truly cared about our needs. I would recommend them to anyone.\"</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "340b530",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='padding-left:24px;color:#999;font-size:14px;margin-top:8px'>\u2014 Jane Doe, Business Owner</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

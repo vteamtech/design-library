@@ -1,0 +1,263 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 499,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:46Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "81953d1",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "40",
+            "right": "24",
+            "bottom": "40",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "800",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "40ca991",
+            "elType": "widget",
+            "settings": {
+              "title": "As Featured In",
+              "size": "14",
+              "align": "center",
+              "title_color": "#999",
+              "typography_text_transform": "uppercase",
+              "typography_letter_spacing": {
+                "unit": "px",
+                "size": "2"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "ab5fea4",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": "20",
+              "padding": {
+                "unit": "px",
+                "top": "16",
+                "right": "0",
+                "bottom": "0",
+                "left": "0"
+              },
+              "flex_justify_content": "center"
+            },
+            "elements": [
+              {
+                "id": "2b6ce8a",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 16.67,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "9dd6889",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/140x70/eeeeee/999?text=Media+1"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "120"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "0f7052d",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 16.67,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "053c533",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/140x70/eeeeee/999?text=Media+2"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "120"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "649026d",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 16.67,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "887cfd5",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/140x70/eeeeee/999?text=Media+3"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "120"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "22d39e4",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 16.67,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "03afb31",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/140x70/eeeeee/999?text=Media+4"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "120"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "4f3afb4",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 16.67,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "e1a9af3",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/140x70/eeeeee/999?text=Media+5"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "120"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "36d0df2",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 16.67,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "94b935f",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/140x70/eeeeee/999?text=Media+6"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "120"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

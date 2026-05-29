@@ -1,0 +1,354 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 1597,
+  "category": "philosophy",
+  "exported_at": "2026-05-28T23:54:26Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "5f1581e",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "full",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "40",
+            "bottom": "60",
+            "left": "40"
+          },
+          "background_background": "classic",
+          "background_color": "#0A0A12",
+          "gap": {
+            "unit": "px",
+            "size": "40"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "8f641d0",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#00FF41;font-size:30px;font-weight:700;font-family:'Orbitron',sans-serif,serif;text-transform:uppercase;letter-spacing:4px;text-align:center;line-height:1.6;'>WHAT WE DO</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "23a04ca",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "flex_direction": "row",
+              "gap": {
+                "unit": "px",
+                "size": "16"
+              },
+              "flex_wrap": "wrap"
+            },
+            "elements": [
+              {
+                "id": "35e6e6d",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": 25
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20"
+                  },
+                  "background_background": "classic",
+                  "background_color": "#0D0D0D",
+                  "gap": {
+                    "unit": "px",
+                    "size": "12"
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1"
+                  },
+                  "border_color": "#FF0080",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "4",
+                    "right": "4",
+                    "bottom": "4",
+                    "left": "4"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "e8006f1",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#FF0080;font-size:32px;font-weight:700;font-family:'Orbitron',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>01</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "19e385c",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#00FF41;font-size:16px;font-weight:700;font-family:'Orbitron',sans-serif,serif;text-transform:uppercase;letter-spacing:0px;text-align:left;line-height:1.6;'>STRATEGY</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "09a48b9",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#00CC33;font-size:14px;font-weight:400;font-family:'Share Tech Mono',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Research-driven insights that guide every decision.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "2062471",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": 25
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20"
+                  },
+                  "background_background": "classic",
+                  "background_color": "#0D0D0D",
+                  "gap": {
+                    "unit": "px",
+                    "size": "12"
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1"
+                  },
+                  "border_color": "#FF0080",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "4",
+                    "right": "4",
+                    "bottom": "4",
+                    "left": "4"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "c829a43",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#FF0080;font-size:32px;font-weight:700;font-family:'Orbitron',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>02</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "9a8c5e4",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#00FF41;font-size:16px;font-weight:700;font-family:'Orbitron',sans-serif,serif;text-transform:uppercase;letter-spacing:0px;text-align:left;line-height:1.6;'>DESIGN</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "dfe0337",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#00CC33;font-size:14px;font-weight:400;font-family:'Share Tech Mono',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Beautiful interfaces crafted with attention to detail.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "faa6018",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": 25
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20"
+                  },
+                  "background_background": "classic",
+                  "background_color": "#0D0D0D",
+                  "gap": {
+                    "unit": "px",
+                    "size": "12"
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1"
+                  },
+                  "border_color": "#FF0080",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "4",
+                    "right": "4",
+                    "bottom": "4",
+                    "left": "4"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "69e078e",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#FF0080;font-size:32px;font-weight:700;font-family:'Orbitron',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>03</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "8eb7a7f",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#00FF41;font-size:16px;font-weight:700;font-family:'Orbitron',sans-serif,serif;text-transform:uppercase;letter-spacing:0px;text-align:left;line-height:1.6;'>BUILD</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "59ad159",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#00CC33;font-size:14px;font-weight:400;font-family:'Share Tech Mono',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Robust solutions built on proven technology.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "9d0eeee",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": 25
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20"
+                  },
+                  "background_background": "classic",
+                  "background_color": "#0D0D0D",
+                  "gap": {
+                    "unit": "px",
+                    "size": "12"
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1"
+                  },
+                  "border_color": "#FF0080",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "4",
+                    "right": "4",
+                    "bottom": "4",
+                    "left": "4"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "14ed82a",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#FF0080;font-size:32px;font-weight:700;font-family:'Orbitron',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>04</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "562248d",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#00FF41;font-size:16px;font-weight:700;font-family:'Orbitron',sans-serif,serif;text-transform:uppercase;letter-spacing:0px;text-align:left;line-height:1.6;'>SUPPORT</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  },
+                  {
+                    "id": "5e6f4e0",
+                    "elType": "widget",
+                    "settings": {
+                      "html": "<p style='color:#00CC33;font-size:14px;font-weight:400;font-family:'Share Tech Mono',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:left;line-height:1.6;'>Ongoing partnership for lasting success.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "html"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

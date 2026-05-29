@@ -1,0 +1,123 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 332,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:30Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "acaa1a0",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "text_align": "center",
+          "padding": {
+            "top": 70,
+            "bottom": 70,
+            "left": 40,
+            "right": 40,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "top": 45,
+            "bottom": 45,
+            "left": 20,
+            "right": 20,
+            "unit": "px",
+            "isLinked": false
+          },
+          "background_background": "classic",
+          "background_color": "#c8a951",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "e15fefc",
+            "elType": "widget",
+            "settings": {
+              "title": "Don't Leave Things to Chance",
+              "header_size": "h2",
+              "title_color": "#1a1a2e",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "size": 38,
+                "unit": "px"
+              },
+              "typography_font_size_mobile": {
+                "size": 28,
+                "unit": "px"
+              },
+              "typography_font_weight": "700",
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "b31d222",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='color:#333333'>A properly drafted will gives your family clarity and protection. Start yours today \u2014 it's simpler than you think.</p>",
+              "text_color": "#333333",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "size": 18,
+                "unit": "px"
+              },
+              "typography_font_size_mobile": {
+                "size": 16,
+                "unit": "px"
+              },
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "6d1de84",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "size": 28,
+                "unit": "px"
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "ddfd5c7",
+            "elType": "widget",
+            "settings": {
+              "text": "Start Your Will Now",
+              "link": {
+                "url": "/contact-us"
+              },
+              "size": "lg",
+              "background_color": "#1a1a2e",
+              "button_text_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_weight": "700",
+              "border_radius": {
+                "top": 8,
+                "right": 8,
+                "bottom": 8,
+                "left": 8,
+                "unit": "px",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

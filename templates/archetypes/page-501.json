@@ -1,0 +1,273 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 501,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:48Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "1040ad9",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "eb801b0",
+            "elType": "widget",
+            "settings": {
+              "title": "How It Works",
+              "size": "36",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "6d0b8d1",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#666'>Simple steps to get started</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "227b26a",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "24",
+              "padding": {
+                "unit": "px",
+                "top": "32",
+                "right": "0",
+                "bottom": "0",
+                "left": "0"
+              }
+            },
+            "elements": [
+              {
+                "id": "490650b",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "25"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "50b8841",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "01",
+                      "size": "36",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "c786107",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Consultation",
+                      "size": "18",
+                      "align": "center",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "7693c7b",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#666;font-size:14px'>Book a free initial consultation with our team.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "5a01943",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "25"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "d00c16d",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "02",
+                      "size": "36",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "201cb6a",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Planning",
+                      "size": "18",
+                      "align": "center",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "3edfab5",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#666;font-size:14px'>We create a tailored plan for your needs.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "4c3dfb7",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "25"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "7759e2d",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "03",
+                      "size": "36",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "e06c06e",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Execution",
+                      "size": "18",
+                      "align": "center",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "e9c932a",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#666;font-size:14px'>Our experts handle everything for you.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "3fe6408",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "25"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "3eac73f",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "04",
+                      "size": "36",
+                      "title_color": "#c8a951",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "55ce8e2",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Ongoing Support",
+                      "size": "18",
+                      "align": "center",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "0a006b7",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;color:#666;font-size:14px'>We remain available for any follow-up needs.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

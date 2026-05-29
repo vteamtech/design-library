@@ -1,0 +1,667 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 351,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:45Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "5267889",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "background_background": "classic",
+          "background_color": "#1a1a2e",
+          "padding": {
+            "top": 60,
+            "bottom": 30,
+            "left": 40,
+            "right": 40,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "top": 40,
+            "bottom": 20,
+            "left": 20,
+            "right": 20,
+            "unit": "px",
+            "isLinked": false
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "1c80c1a",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "flex_direction_tablet": "row",
+              "gap": {
+                "size": 40,
+                "unit": "px"
+              },
+              "gap_mobile": {
+                "size": 30,
+                "unit": "px"
+              },
+              "flex_justify_content": "space-between"
+            },
+            "elements": [
+              {
+                "id": "77d4d78",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "width_tablet": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "0b5eab5",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Will Instructions",
+                      "header_size": "h3",
+                      "title_color": "#ffffff",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 22,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "99d4724",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 12,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "094e305",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#aaaaaa'>Professional will writing and estate planning services across the UK.</p>",
+                      "text_color": "#aaaaaa",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 14,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "faccfd0",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 20,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "width_tablet": {
+                    "size": 20,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "c210360",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Quick Links",
+                      "header_size": "h4",
+                      "title_color": "#ffffff",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "d84a202",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 12,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "5553704",
+                    "elType": "widget",
+                    "settings": {
+                      "icon_list": [
+                        {
+                          "text": "Home",
+                          "link": {
+                            "url": "/"
+                          },
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          }
+                        },
+                        {
+                          "text": "About Us",
+                          "link": {
+                            "url": "/about-us"
+                          },
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          }
+                        },
+                        {
+                          "text": "Our Services",
+                          "link": {
+                            "url": "/our-services"
+                          },
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          }
+                        },
+                        {
+                          "text": "Contact",
+                          "link": {
+                            "url": "/contact-us"
+                          },
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          }
+                        }
+                      ],
+                      "view": "traditional",
+                      "text_color": "#aaaaaa",
+                      "link_color": "#cccccc"
+                    },
+                    "elements": [],
+                    "widgetType": "icon-list"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "59f720f",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "width_tablet": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "0e4dbdf",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Services",
+                      "header_size": "h4",
+                      "title_color": "#ffffff",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "7d8a265",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 12,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "0dffc60",
+                    "elType": "widget",
+                    "settings": {
+                      "icon_list": [
+                        {
+                          "text": "Will Writing",
+                          "link": {
+                            "url": "/wills/"
+                          },
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          }
+                        },
+                        {
+                          "text": "Lasting Powers of Attorney",
+                          "link": {
+                            "url": "/lasting-powers-of-attorney/"
+                          },
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          }
+                        },
+                        {
+                          "text": "Inheritance Tax Planning",
+                          "link": {
+                            "url": "/inheritance-tax-planning/"
+                          },
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          }
+                        },
+                        {
+                          "text": "Probate",
+                          "link": {
+                            "url": "/probate-estate-administration/"
+                          },
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          }
+                        }
+                      ],
+                      "view": "traditional",
+                      "text_color": "#aaaaaa",
+                      "link_color": "#cccccc"
+                    },
+                    "elements": [],
+                    "widgetType": "icon-list"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "abc8132",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "width_mobile": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "width_tablet": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "8c897fa",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Contact Us",
+                      "header_size": "h4",
+                      "title_color": "#ffffff",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "67319cc",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 12,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "dfb737a",
+                    "elType": "widget",
+                    "settings": {
+                      "icon_list": [
+                        {
+                          "text": "+44 123 456 7890",
+                          "link": {
+                            "url": "tel:+441234567890"
+                          },
+                          "selected_icon": {
+                            "value": "fas fa-phone",
+                            "library": "fa-solid"
+                          }
+                        },
+                        {
+                          "text": "info@willinstructions.co.uk",
+                          "link": {
+                            "url": "mailto:info@willinstructions.co.uk"
+                          },
+                          "selected_icon": {
+                            "value": "fas fa-envelope",
+                            "library": "fa-solid"
+                          }
+                        },
+                        {
+                          "text": "London, United Kingdom",
+                          "link": {
+                            "url": ""
+                          },
+                          "selected_icon": {
+                            "value": "fas fa-map-marker-alt",
+                            "library": "fa-solid"
+                          }
+                        }
+                      ],
+                      "view": "traditional",
+                      "text_color": "#aaaaaa",
+                      "link_color": "#cccccc"
+                    },
+                    "elements": [],
+                    "widgetType": "icon-list"
+                  },
+                  {
+                    "id": "11d3a60",
+                    "elType": "widget",
+                    "settings": {
+                      "space": {
+                        "size": 16,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "spacer"
+                  },
+                  {
+                    "id": "2d40596",
+                    "elType": "widget",
+                    "settings": {
+                      "social_icon_list": [
+                        {
+                          "social_icon": {
+                            "value": "fab fa-facebook",
+                            "library": "fa-brands"
+                          },
+                          "link": {
+                            "url": "#"
+                          }
+                        },
+                        {
+                          "social_icon": {
+                            "value": "fab fa-x-twitter",
+                            "library": "fa-brands"
+                          },
+                          "link": {
+                            "url": "#"
+                          }
+                        },
+                        {
+                          "social_icon": {
+                            "value": "fab fa-linkedin",
+                            "library": "fa-brands"
+                          },
+                          "link": {
+                            "url": "#"
+                          }
+                        }
+                      ],
+                      "shape": "rounded"
+                    },
+                    "elements": [],
+                    "widgetType": "social-icons"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "649e1b1",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "size": 30,
+                "unit": "px"
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "0f4f86f",
+            "elType": "widget",
+            "settings": {
+              "style": "solid",
+              "weight": {
+                "size": 1,
+                "unit": "px"
+              },
+              "color": "#333355",
+              "width": {
+                "size": 100,
+                "unit": "%"
+              }
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "cb3d359",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "size": 16,
+                "unit": "px"
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "48f9cdf",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "flex_justify_content": "space-between",
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "7e17db3",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "80b405c",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#777777;font-size:13px'>&copy; 2025 Will Instructions. All rights reserved.</p>",
+                      "text_color": "#777777",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "size": 13,
+                        "unit": "px"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "d07af2f",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "row",
+                  "gap": {
+                    "size": 16,
+                    "unit": "px"
+                  },
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "96ae26c",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "11c8651",
+                        "elType": "widget",
+                        "settings": {
+                          "editor": "<p style='color:#777777;font-size:13px'><a href='/privacy-policy' style='color:#999999'>Privacy Policy</a></p>",
+                          "text_color": "#777777",
+                          "typography_typography": "custom",
+                          "typography_font_size": {
+                            "size": 13,
+                            "unit": "px"
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "text-editor"
+                      }
+                    ],
+                    "isInner": true
+                  },
+                  {
+                    "id": "fc18993",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "5df5604",
+                        "elType": "widget",
+                        "settings": {
+                          "editor": "<p style='color:#777777;font-size:13px'><a href='/terms' style='color:#999999'>Terms & Conditions</a></p>",
+                          "text_color": "#777777",
+                          "typography_typography": "custom",
+                          "typography_font_size": {
+                            "size": 13,
+                            "unit": "px"
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "text-editor"
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

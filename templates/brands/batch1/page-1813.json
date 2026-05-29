@@ -1,0 +1,63 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 1813,
+  "category": "brands-batch1",
+  "exported_at": "2026-05-28T23:55:31Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "37a31c1",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "70",
+            "right": "40",
+            "bottom": "70",
+            "left": "40"
+          },
+          "background_background": "classic",
+          "background_color": "#000000",
+          "gap": {
+            "unit": "px",
+            "size": "24"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "bd59d14",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#FAFAFA;font-size:40px;font-weight:700;font-family:'Geist',sans-serif,serif;text-transform:none;letter-spacing:-2.4px;text-align:center;line-height:1.2;'>Ready to Get Started?</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "b38cae6",
+            "elType": "widget",
+            "settings": {
+              "html": "<p style='color:#888888;font-size:16px;font-weight:400;font-family:'Geist',sans-serif,serif;text-transform:none;letter-spacing:0px;text-align:center;line-height:1.6;max-width:500px;'>Take the first step. We'll handle the rest with care and precision.</p>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          },
+          {
+            "id": "5cfe7ca",
+            "elType": "widget",
+            "settings": {
+              "html": "<div style='text-align:center;'><a href='/contact' style='display:inline-block;padding:12px 40px;background:#FFFFFF;color:#000000;text-decoration:none;font-weight:700;font-family:'Geist',sans-serif;border-radius:8px;font-size:15px;'>Contact Us Today</a></div>"
+            },
+            "elements": [],
+            "widgetType": "html"
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

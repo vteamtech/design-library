@@ -1,0 +1,135 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 338,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:35Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "99f1752",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "text_align": "center",
+          "padding": {
+            "top": 100,
+            "bottom": 100,
+            "left": 40,
+            "right": 40,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "top": 60,
+            "bottom": 60,
+            "left": 20,
+            "right": 20,
+            "unit": "px",
+            "isLinked": false
+          },
+          "background_background": "classic",
+          "background_color": "#ffffff",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "acf222e",
+            "elType": "widget",
+            "settings": {
+              "title": "Let's Talk About Your Future",
+              "header_size": "h2",
+              "title_color": "#1a1a2e",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "size": 42,
+                "unit": "px"
+              },
+              "typography_font_size_mobile": {
+                "size": 30,
+                "unit": "px"
+              },
+              "typography_font_weight": "700",
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "3876363",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "size": 20,
+                "unit": "px"
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "8f60e8e",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='color:#888888'>A simple conversation can make all the difference.</p>",
+              "text_color": "#888888",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "size": 18,
+                "unit": "px"
+              },
+              "typography_font_size_mobile": {
+                "size": 16,
+                "unit": "px"
+              },
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "dd65077",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "size": 36,
+                "unit": "px"
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "951262e",
+            "elType": "widget",
+            "settings": {
+              "text": "Get in Touch",
+              "link": {
+                "url": "/contact-us"
+              },
+              "size": "lg",
+              "background_color": "#1a1a2e",
+              "button_text_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_weight": "600",
+              "border_radius": {
+                "top": 8,
+                "right": 8,
+                "bottom": 8,
+                "left": 8,
+                "unit": "px",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

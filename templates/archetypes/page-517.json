@@ -1,0 +1,179 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 517,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:52:00Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "6db806c",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "row",
+          "gap": "40",
+          "padding": {
+            "unit": "px",
+            "top": "48",
+            "right": "24",
+            "bottom": "48",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "900",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "866dac7",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "column",
+              "width": {
+                "unit": "%",
+                "size": "50"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "d9cb3c9",
+                "elType": "widget",
+                "settings": {
+                  "title": "Get Your Free Guide",
+                  "size": "28",
+                  "typography_font_weight": "700"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "11c0655",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p style='color:#666;line-height:1.6'>Download our comprehensive guide covering everything you need to know. Packed with expert tips and practical advice.</p>"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              },
+              {
+                "id": "9fc6911",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "row",
+                  "gap": "8"
+                },
+                "elements": [
+                  {
+                    "id": "4dcc388",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "1b109dc",
+                        "elType": "widget",
+                        "settings": {
+                          "editor": "<div style='background:#f8f6f0;border-radius:4px;padding:12px 16px;color:#999;min-width:200px'>Enter your email</div>"
+                        },
+                        "elements": [],
+                        "widgetType": "text-editor"
+                      }
+                    ],
+                    "isInner": true
+                  },
+                  {
+                    "id": "129bd9d",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "3ade64a",
+                        "elType": "widget",
+                        "settings": {
+                          "text": "Download Free",
+                          "button_text_color": "#ffffff",
+                          "background_color": "#c8a951",
+                          "border_radius": {
+                            "unit": "px",
+                            "top": "4",
+                            "right": "4",
+                            "bottom": "4",
+                            "left": "4"
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "button"
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "c82dbf4",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "column",
+              "width": {
+                "unit": "%",
+                "size": "50"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "e7d5b3c",
+                "elType": "widget",
+                "settings": {
+                  "image": {
+                    "url": "https://placehold.co/400x300/f8f6f0/999?text=Free+Ebook+Cover"
+                  },
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "8",
+                    "right": "8",
+                    "bottom": "8",
+                    "left": "8"
+                  }
+                },
+                "elements": [],
+                "widgetType": "image"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

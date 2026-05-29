@@ -1,0 +1,247 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 320,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:21Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "a614be6",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "top": 100,
+            "bottom": 100,
+            "left": 40,
+            "right": 40,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "top": 60,
+            "bottom": 60,
+            "left": 20,
+            "right": 20,
+            "unit": "px",
+            "isLinked": false
+          },
+          "min_height": {
+            "size": 500,
+            "unit": "px"
+          },
+          "min_height_mobile": {
+            "size": 380,
+            "unit": "px"
+          },
+          "background_background": "classic",
+          "background_color": "#f8f6f0",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "4627937",
+            "elType": "widget",
+            "settings": {
+              "title": "Secure What Matters Most",
+              "header_size": "h1",
+              "title_color": "#1a1a2e",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "size": 56,
+                "unit": "px"
+              },
+              "typography_font_size_mobile": {
+                "size": 34,
+                "unit": "px"
+              },
+              "typography_font_weight": "800",
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "5f36e0d",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Professional will writing and estate planning services across the UK. Peace of mind for you and your family.</p>",
+              "text_color": "#555555",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "size": 20,
+                "unit": "px"
+              },
+              "typography_font_size_mobile": {
+                "size": 17,
+                "unit": "px"
+              },
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "d60afad",
+            "elType": "widget",
+            "settings": {
+              "style": "solid",
+              "weight": {
+                "size": 3,
+                "unit": "px"
+              },
+              "width": {
+                "size": 80,
+                "unit": "px"
+              },
+              "color": "#c8a951",
+              "align": "center",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "6a5b407",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "size": 24,
+                "unit": "px"
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "d63278a",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": {
+                "size": 16,
+                "unit": "px"
+              },
+              "flex_direction_mobile": "column",
+              "gap_mobile": {
+                "size": 12,
+                "unit": "px"
+              },
+              "flex_align_items_mobile": "center",
+              "width": {
+                "size": 100,
+                "unit": "%"
+              },
+              "flex_justify_content": "center",
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "a6efe02",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "da80532",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Write Your Will",
+                      "link": {
+                        "url": "/contact-us"
+                      },
+                      "size": "lg",
+                      "background_color": "#1a1a2e",
+                      "button_text_color": "#ffffff",
+                      "typography_typography": "custom",
+                      "typography_font_weight": "600",
+                      "border_radius": {
+                        "top": 8,
+                        "right": 8,
+                        "bottom": 8,
+                        "left": 8,
+                        "unit": "px",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "43f24a3",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "2cfee7d",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "View Our Services",
+                      "link": {
+                        "url": "/our-services"
+                      },
+                      "size": "lg",
+                      "background_color": "transparent",
+                      "button_text_color": "#1a1a2e",
+                      "border_border": "solid",
+                      "border_width": {
+                        "top": 2,
+                        "right": 2,
+                        "bottom": 2,
+                        "left": 2,
+                        "unit": "px",
+                        "isLinked": true
+                      },
+                      "border_color": "#1a1a2e",
+                      "typography_typography": "custom",
+                      "typography_font_weight": "600",
+                      "border_radius": {
+                        "top": 8,
+                        "right": 8,
+                        "bottom": 8,
+                        "left": 8,
+                        "unit": "px",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 319,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:21Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "115a507",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "top": 120,
+            "bottom": 120,
+            "left": 40,
+            "right": 40,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "top": 70,
+            "bottom": 70,
+            "left": 20,
+            "right": 20,
+            "unit": "px",
+            "isLinked": false
+          },
+          "min_height": {
+            "size": 500,
+            "unit": "px"
+          },
+          "min_height_mobile": {
+            "size": 380,
+            "unit": "px"
+          },
+          "background_background": "classic",
+          "background_color": "#1a1a2e",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "baf7979",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "column",
+              "max_width": {
+                "size": 800,
+                "unit": "px"
+              },
+              "width": {
+                "size": 100,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "2b5ce7f",
+                "elType": "widget",
+                "settings": {
+                  "title": "Expert Estate Planning You Can Trust",
+                  "header_size": "h1",
+                  "title_color": "#ffffff",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "size": 52,
+                    "unit": "px"
+                  },
+                  "typography_font_size_mobile": {
+                    "size": 32,
+                    "unit": "px"
+                  },
+                  "typography_font_weight": "700",
+                  "align": "center",
+                  "align_mobile": "center"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "f41185e",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p>Over 20 years of experience helping families protect their assets and plan for the future. Clear, straightforward advice \u2014 no jargon, no surprises.</p>",
+                  "text_color": "#cccccc",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "size": 20,
+                    "unit": "px"
+                  },
+                  "typography_font_size_mobile": {
+                    "size": 17,
+                    "unit": "px"
+                  },
+                  "align": "center",
+                  "align_mobile": "center"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              },
+              {
+                "id": "15200fb",
+                "elType": "widget",
+                "settings": {
+                  "space": {
+                    "size": 32,
+                    "unit": "px"
+                  }
+                },
+                "elements": [],
+                "widgetType": "spacer"
+              },
+              {
+                "id": "69e5891",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "row",
+                  "gap": {
+                    "size": 16,
+                    "unit": "px"
+                  },
+                  "flex_direction_mobile": "column",
+                  "gap_mobile": {
+                    "size": 12,
+                    "unit": "px"
+                  },
+                  "flex_align_items_mobile": "center",
+                  "width": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "flex_justify_content": "center",
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "d629428",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "ea86489",
+                        "elType": "widget",
+                        "settings": {
+                          "text": "Get Started Today",
+                          "link": {
+                            "url": "/contact-us"
+                          },
+                          "size": "lg",
+                          "background_color": "#c8a951",
+                          "button_text_color": "#1a1a2e",
+                          "typography_typography": "custom",
+                          "typography_font_weight": "700",
+                          "border_radius": {
+                            "top": 8,
+                            "right": 8,
+                            "bottom": 8,
+                            "left": 8,
+                            "unit": "px",
+                            "isLinked": true
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "button"
+                      }
+                    ],
+                    "isInner": true
+                  },
+                  {
+                    "id": "81d833b",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "783c9bc",
+                        "elType": "widget",
+                        "settings": {
+                          "text": "Learn More",
+                          "link": {
+                            "url": "/our-services"
+                          },
+                          "size": "lg",
+                          "background_color": "transparent",
+                          "button_text_color": "#ffffff",
+                          "border_border": "solid",
+                          "border_width": {
+                            "top": 2,
+                            "right": 2,
+                            "bottom": 2,
+                            "left": 2,
+                            "unit": "px",
+                            "isLinked": true
+                          },
+                          "border_color": "#c8a951",
+                          "typography_typography": "custom",
+                          "typography_font_weight": "600",
+                          "border_radius": {
+                            "top": 8,
+                            "right": 8,
+                            "bottom": 8,
+                            "left": 8,
+                            "unit": "px",
+                            "isLinked": true
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "button"
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

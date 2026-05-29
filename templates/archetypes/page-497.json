@@ -1,0 +1,234 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 497,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:45Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "23471ad",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "40",
+            "right": "24",
+            "bottom": "40",
+            "left": "24"
+          },
+          "background_color": "#f8f6f0",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "693da01",
+            "elType": "widget",
+            "settings": {
+              "title": "Our Partners",
+              "size": "28",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "fac2f1d",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "32",
+              "padding": {
+                "unit": "px",
+                "top": "16",
+                "right": "0",
+                "bottom": "0",
+                "left": "0"
+              },
+              "flex_wrap": "wrap",
+              "flex_justify_content": "center"
+            },
+            "elements": [
+              {
+                "id": "d7d12fd",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "gap": "8",
+                  "width": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "86ed5c2",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/120x60/cccccc/999?text=Company+A"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "100"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "16507ae",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;font-size:12px;color:#999'>Technology Partner</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "87d6e91",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "gap": "8",
+                  "width": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "7e37db3",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/120x60/cccccc/999?text=Company+B"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "100"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "fa8bf15",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;font-size:12px;color:#999'>Strategic Partner</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "cb85870",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "gap": "8",
+                  "width": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "fea6fd2",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/120x60/cccccc/999?text=Company+C"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "100"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "716833f",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;font-size:12px;color:#999'>Integration Partner</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "006dfb8",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "gap": "8",
+                  "width": {
+                    "size": 25,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "cfb27c4",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/120x60/cccccc/999?text=Company+D"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "100"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "29c67d1",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='text-align:center;font-size:12px;color:#999'>Certified Partner</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

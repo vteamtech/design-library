@@ -1,0 +1,302 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 442,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:01Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "087fad7",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "60",
+            "right": "24",
+            "bottom": "60",
+            "left": "24"
+          },
+          "background_color": "#ffffff",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "556c8b4",
+            "elType": "widget",
+            "settings": {
+              "title": "Everything You Need",
+              "size": "36",
+              "align": "center",
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "38f9fec",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#666'>A modern take on feature presentation</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "9a210d9",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "gap": "16",
+              "padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0"
+              }
+            },
+            "elements": [
+              {
+                "id": "b647fba",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "66"
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "32",
+                    "right": "32",
+                    "bottom": "32",
+                    "left": "32"
+                  },
+                  "background_color": "#f8f6f0",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "12",
+                    "right": "12",
+                    "bottom": "12",
+                    "left": "12"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "24453a9",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Complete Solution",
+                      "size": "24",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "c0ef152",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666'>Everything you need in one place. Our comprehensive platform handles all aspects.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "b471195",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Explore Features",
+                      "button_text_color": "#ffffff",
+                      "background_color": "#1a1a2e",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "6",
+                        "right": "6",
+                        "bottom": "6",
+                        "left": "6"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "3c0263f",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "33"
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "32",
+                    "right": "32",
+                    "bottom": "32",
+                    "left": "32"
+                  },
+                  "background_color": "#1a1a2e",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "12",
+                    "right": "12",
+                    "bottom": "12",
+                    "left": "12"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "0056471",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "99.9%",
+                      "size": "36",
+                      "typography_font_weight": "700",
+                      "title_color": "#c8a951"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "27c46a7",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#ffffff'>Uptime guaranteed for all plans</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "bd3ab70",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "33"
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "32",
+                    "right": "32",
+                    "bottom": "32",
+                    "left": "32"
+                  },
+                  "background_color": "#1a1a2e",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "12",
+                    "right": "12",
+                    "bottom": "12",
+                    "left": "12"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "af57e6d",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "24/7",
+                      "size": "36",
+                      "typography_font_weight": "700",
+                      "title_color": "#c8a951"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "8152491",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#ffffff'>Expert support whenever you need it</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "4c4c55d",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "66"
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "32",
+                    "right": "32",
+                    "bottom": "32",
+                    "left": "32"
+                  },
+                  "background_color": "#f8f6f0",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "12",
+                    "right": "12",
+                    "bottom": "12",
+                    "left": "12"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "79a5f5d",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Built for Scale",
+                      "size": "24",
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "44cd56f",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#666'>Whether you are a startup or an enterprise, our infrastructure grows with you.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

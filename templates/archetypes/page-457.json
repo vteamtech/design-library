@@ -1,0 +1,229 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 457,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:13Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "121d24c",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "unit": "px",
+            "top": "40",
+            "right": "24",
+            "bottom": "40",
+            "left": "24"
+          },
+          "background_color": "#f9f9f9",
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "01d3263",
+            "elType": "widget",
+            "settings": {
+              "title": "Trusted By",
+              "size": "16",
+              "align": "center",
+              "typography_font_weight": "600",
+              "title_color": "#999",
+              "typography_text_transform": "uppercase"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "e05cacd",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "40",
+              "padding": {
+                "unit": "px",
+                "top": "16",
+                "right": "0",
+                "bottom": "0",
+                "left": "0"
+              },
+              "flex_wrap": "wrap",
+              "flex_justify_content": "center",
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "56e35e7",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 20,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "5f47b5c",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/160x60/cccccc/999?text=Partner+1"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "140"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "8fefa49",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 20,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "28f52de",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/160x60/cccccc/999?text=Partner+2"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "140"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "72dc0fc",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 20,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "ad73d1e",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/160x60/cccccc/999?text=Partner+3"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "140"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "70d3b11",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 20,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "fbfa8de",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/160x60/cccccc/999?text=Partner+4"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "140"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "50ede3c",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 20,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "0b17f71",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://placehold.co/160x60/cccccc/999?text=Partner+5"
+                      },
+                      "max_width": {
+                        "unit": "px",
+                        "size": "140"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

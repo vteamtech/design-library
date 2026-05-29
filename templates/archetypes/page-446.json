@@ -1,0 +1,278 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 446,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:51:04Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "da4883b",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "background_color": "#c8a951",
+          "padding": {
+            "unit": "px",
+            "top": "48",
+            "right": "24",
+            "bottom": "24",
+            "left": "24"
+          },
+          "boxed_width": "1140",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "32d662c",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "gap": "40",
+              "flex_justify_content": "space-between"
+            },
+            "elements": [
+              {
+                "id": "0383154",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "30"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "d1244e6",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Brand Name",
+                      "size": "24",
+                      "title_color": "#1a1a2e",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "116a37b",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#1a1a2e'>Providing exceptional service since 2010.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "2435eaf",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "20"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "bb23e57",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Quick Links",
+                      "size": "16",
+                      "title_color": "#1a1a2e",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "7aec5cf",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#1a1a2e'><a href='#'>Home</a><br><a href='#'>About</a><br><a href='#'>Services</a><br><a href='#'>Contact</a></p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "6b9b195",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "20"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "1c19a9e",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Services",
+                      "size": "16",
+                      "title_color": "#1a1a2e",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "8e4ad2b",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#1a1a2e'><a href='#'>Service One</a><br><a href='#'>Service Two</a><br><a href='#'>Service Three</a></p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "a41a980",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "column",
+                  "width": {
+                    "unit": "%",
+                    "size": "25"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "657a90e",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Contact",
+                      "size": "16",
+                      "title_color": "#1a1a2e",
+                      "typography_font_weight": "700"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "907ee8c",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#1a1a2e'>01onal 234 5678<br>hello@example.com<br>123 High Street, London</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "6231f1a",
+            "elType": "widget",
+            "settings": {
+              "color": "#1a1a2e",
+              "weight": {
+                "unit": "px",
+                "size": "1"
+              },
+              "opacity": 0.2
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "a07cb94",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "row",
+              "flex_justify_content": "space-between",
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "365c165",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "f1bf18a",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#1a1a2e;font-size:13px'>\u00a9 2026 Brand Name. All rights reserved.</p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "3c1d605",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "flex_direction": "column",
+                  "width": {
+                    "size": 50,
+                    "unit": "%"
+                  },
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "46671c0",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p style='color:#1a1a2e;font-size:13px'><a href='#'>Privacy Policy</a> \u00b7 <a href='#'>Terms</a></p>"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}

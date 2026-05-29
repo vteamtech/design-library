@@ -1,0 +1,274 @@
+{
+  "source": "willinstructions-new.affinitydns.uk",
+  "page_id": 316,
+  "category": "archetypes",
+  "exported_at": "2026-05-28T23:50:18Z",
+  "elementor_data": {
+    "json": [
+      {
+        "id": "6303e58",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "boxed",
+          "flex_direction": "column",
+          "padding": {
+            "top": 120,
+            "bottom": 120,
+            "left": 40,
+            "right": 40,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "top": 70,
+            "bottom": 70,
+            "left": 20,
+            "right": 20,
+            "unit": "px",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "top": 90,
+            "bottom": 90,
+            "left": 30,
+            "right": 30,
+            "unit": "px",
+            "isLinked": false
+          },
+          "min_height": {
+            "size": 550,
+            "unit": "px"
+          },
+          "min_height_mobile": {
+            "size": 400,
+            "unit": "px"
+          },
+          "background_background": "classic",
+          "background_image": {
+            "url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1920&q=80",
+            "id": ""
+          },
+          "background_size": "cover",
+          "background_position": "center center",
+          "background_repeat": "no-repeat",
+          "background_overlay_background": "classic",
+          "background_overlay_color": "#1a1a2e",
+          "background_overlay_opacity": {
+            "size": 0.75,
+            "unit": "px"
+          },
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "cc9f0fc",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "boxed",
+              "flex_direction": "column",
+              "max_width": {
+                "size": 800,
+                "unit": "px"
+              },
+              "width": {
+                "size": 100,
+                "unit": "%"
+              },
+              "flex_align_items": "center"
+            },
+            "elements": [
+              {
+                "id": "9348eb7",
+                "elType": "widget",
+                "settings": {
+                  "title": "Your Legacy Starts Here",
+                  "header_size": "h1",
+                  "title_color": "#ffffff",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "size": 56,
+                    "unit": "px"
+                  },
+                  "typography_font_size_tablet": {
+                    "size": 42,
+                    "unit": "px"
+                  },
+                  "typography_font_size_mobile": {
+                    "size": 34,
+                    "unit": "px"
+                  },
+                  "typography_font_weight": "800",
+                  "align": "center",
+                  "align_tablet": "center",
+                  "align_mobile": "center"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "dbc3904",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p>Compassionate, expert guidance through will writing, lasting powers of attorney, and estate planning \u2014 protecting what matters most to you and your family.</p>",
+                  "text_color": "#e0e0e0",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "size": 20,
+                    "unit": "px"
+                  },
+                  "typography_font_size_mobile": {
+                    "size": 17,
+                    "unit": "px"
+                  },
+                  "align": "center",
+                  "align_tablet": "center",
+                  "align_mobile": "center"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              },
+              {
+                "id": "2706dae",
+                "elType": "widget",
+                "settings": {
+                  "space": {
+                    "size": 36,
+                    "unit": "px"
+                  }
+                },
+                "elements": [],
+                "widgetType": "spacer"
+              },
+              {
+                "id": "f9f373e",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "boxed",
+                  "flex_direction": "row",
+                  "gap": {
+                    "size": 16,
+                    "unit": "px"
+                  },
+                  "flex_direction_mobile": "column",
+                  "gap_mobile": {
+                    "size": 12,
+                    "unit": "px"
+                  },
+                  "flex_align_items_mobile": "center",
+                  "width": {
+                    "size": 100,
+                    "unit": "%"
+                  },
+                  "flex_justify_content": "center",
+                  "flex_align_items": "center"
+                },
+                "elements": [
+                  {
+                    "id": "64d88d0",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "ecc99aa",
+                        "elType": "widget",
+                        "settings": {
+                          "text": "Start Your Will Today",
+                          "link": {
+                            "url": "/contact-us"
+                          },
+                          "size": "lg",
+                          "background_color": "#c8a951",
+                          "button_text_color": "#1a1a2e",
+                          "typography_typography": "custom",
+                          "typography_font_weight": "700",
+                          "border_radius": {
+                            "top": 8,
+                            "right": 8,
+                            "bottom": 8,
+                            "left": 8,
+                            "unit": "px",
+                            "isLinked": true
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "button"
+                      }
+                    ],
+                    "isInner": true
+                  },
+                  {
+                    "id": "d67bc53",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "flex_direction": "column",
+                      "width": {
+                        "size": 50,
+                        "unit": "%"
+                      },
+                      "flex_align_items": "center"
+                    },
+                    "elements": [
+                      {
+                        "id": "bde19df",
+                        "elType": "widget",
+                        "settings": {
+                          "text": "Call Us Now",
+                          "link": {
+                            "url": "tel:+441234567890"
+                          },
+                          "size": "lg",
+                          "background_color": "transparent",
+                          "button_text_color": "#ffffff",
+                          "border_border": "solid",
+                          "border_width": {
+                            "top": 2,
+                            "right": 2,
+                            "bottom": 2,
+                            "left": 2,
+                            "unit": "px",
+                            "isLinked": true
+                          },
+                          "border_color": "#ffffff",
+                          "typography_typography": "custom",
+                          "typography_font_weight": "600",
+                          "border_radius": {
+                            "top": 8,
+                            "right": 8,
+                            "bottom": 8,
+                            "left": 8,
+                            "unit": "px",
+                            "isLinked": true
+                          }
+                        },
+                        "elements": [],
+                        "widgetType": "button"
+                      }
+                    ],
+                    "isInner": true
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ]
+  }
+}
